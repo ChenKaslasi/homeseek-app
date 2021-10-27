@@ -1,0 +1,3708 @@
+{
+  "_id": "11115528",
+  "listing_url": "https://www.airbnb.com/rooms/11115528",
+  "name": "DOUBLE ROOM IN THE HEART OF BCN",
+  "summary": "Lit room with balcony. The apartment is in the center, just meters from the Palau de la Musica Catalana. Well connected, a few minutes from Las Ramblas and the Born. Very close to the beach and Ciutadella Park",
+  "space": "The fact of belonging to an old building of the emblematic old part of the city gives to the apartment a charm and a warmth that many love us. Although one of the busiest areas, the house is on a quiet street away from traffic noise. But, without doubt, the best virtue is its location. You can walk everywhere.",
+  "description": "Lit room with balcony. The apartment is in the center, just meters from the Palau de la Musica Catalana. Well connected, a few minutes from Las Ramblas and the Born. Very close to the beach and Ciutadella Park The fact of belonging to an old building of the emblematic old part of the city gives to the apartment a charm and a warmth that many love us. Although one of the busiest areas, the house is on a quiet street away from traffic noise. But, without doubt, the best virtue is its location. You can walk everywhere. The neighborhood is part of the historic center of the city. There are plenty of bars, restaurants, museums, interesting buildings, shops ... It is a perfect location to get around Barcelona Being in the heart of the city, most of the time you will be walking, and in case you want to go to other points of interest of Barcelona farther from the center, you will not have any problem with the transport. You have very close Plaza de Cataluña, with metro, trains and buses; The U",
+  "neighborhood_overview": "The neighborhood is part of the historic center of the city. There are plenty of bars, restaurants, museums, interesting buildings, shops ... It is a perfect location to get around Barcelona",
+  "notes": "Remember that we are in the old town of Barcelona. My building, like the vast majority here, does not have an elevator.",
+  "transit": "Being in the heart of the city, most of the time you will be walking, and in case you want to go to other points of interest of Barcelona farther from the center, you will not have any problem with the transport. You have very close Plaza de Cataluña, with metro, trains and buses; The Urquinaona metro station is still closer and, to take a taxi, in one minute, Via Laietana.",
+  "access": "Tengo una amplia cocina que puedes utilizar. Recuerda recoger y limpiar después de su uso. El baño es pequeñito, pero perfectamente equipado.",
+  "interaction": "Te proporcionaré sábanas y toallas, para que no te preocupes de traerlas tú.",
+  "house_rules": "-Mantener el espacio limpio y recogido. -No está permitido invitar a gente al apartamento. -Respetar el descanso de los vecinos. -No hacer ruido en la escalera. Apelo al sentido común de los inquilinos para una convivencia relajada y fluída. No hay normas en la casa más allá de las que dicte el sentido común.",
+  "property_type": "Apartment",
+  "room_type": "Private room",
+  "bed_type": "Real Bed",
+  "minimum_nights": "1",
+  "maximum_nights": "1125",
+  "cancellation_policy": "strict_14_with_grace_period",
+  "last_scraped": {
+    "$date": {
+      "$numberLong": "1552021200000"
+    }
+  },
+  "calendar_last_scraped": {
+    "$date": {
+      "$numberLong": "1552021200000"
+    }
+  },
+  "first_review": {
+    "$date": {
+      "$numberLong": "1456290000000"
+    }
+  },
+  "last_review": {
+    "$date": {
+      "$numberLong": "1551762000000"
+    }
+  },
+  "accommodates": {
+    "$numberInt": "2"
+  },
+  "bedrooms": {
+    "$numberInt": "1"
+  },
+  "beds": {
+    "$numberInt": "1"
+  },
+  "number_of_reviews": {
+    "$numberInt": "108"
+  },
+  "bathrooms": {
+    "$numberDecimal": "1.0"
+  },
+  "amenities": ["Wifi", "Kitchen", "Paid parking off premises", "Smoking allowed", "Heating", "Washer", "Essentials", "Shampoo", "Lock on bedroom door", "Hangers", "Hair dryer", "Iron", "translation missing: en.hosting_amenity_49", "translation missing: en.hosting_amenity_50", "Hot water", "Bed linens", "Host greets you"],
+  "price": {
+    "$numberDecimal": "25.00"
+  },
+  "cleaning_fee": {
+    "$numberDecimal": "25.00"
+  },
+  "extra_people": {
+    "$numberDecimal": "20.00"
+  },
+  "guests_included": {
+    "$numberDecimal": "1"
+  },
+  "images": {
+    "thumbnail_url": "",
+    "medium_url": "",
+    "picture_url": "https://a0.muscache.com/im/pictures/cf01929b-f5cc-49f4-bcd2-0840fe818761.jpg?aki_policy=large",
+    "xl_picture_url": ""
+  },
+  "host": {
+    "host_id": "35858044",
+    "host_url": "https://www.airbnb.com/users/show/35858044",
+    "host_name": "Isabel",
+    "host_location": "Barcelona, Catalonia, Spain",
+    "host_about": "Mi nombre es Isabel, pero me llamo Isa. Nací en Vigo (Galicia). Con 20 años me fuí a vivir a Madrid con intención de ser actriz; ahora resido en Barcelona desde los 28. Soy una joven de 43 años, cantante de Jazz. Me gusta salir, pero también quedarme en casa a leer o ver alguna buena película.\r\nHe compartido piso muchos años, pero estas serán mis primeras experiencias como anfitriona.\r\n\r\n¡Sed bienvenidos!\r\n",
+    "host_response_time": "within an hour",
+    "host_thumbnail_url": "https://a0.muscache.com/im/pictures/72a579ce-37d7-466e-9c25-9876ee8de037.jpg?aki_policy=profile_small",
+    "host_picture_url": "https://a0.muscache.com/im/pictures/72a579ce-37d7-466e-9c25-9876ee8de037.jpg?aki_policy=profile_x_medium",
+    "host_neighbourhood": "Sant Pere/Santa Caterina",
+    "host_response_rate": {
+      "$numberInt": "100"
+    },
+    "host_is_superhost": false,
+    "host_has_profile_pic": true,
+    "host_identity_verified": true,
+    "host_listings_count": {
+      "$numberInt": "2"
+    },
+    "host_total_listings_count": {
+      "$numberInt": "2"
+    },
+    "host_verifications": ["email", "phone", "reviews", "jumio", "government_id"]
+  },
+  "address": {
+    "street": "Barcelona, Catalonia, Spain",
+    "suburb": "Ciutat Vella",
+    "government_area": "Sant Pere, Santa Caterina i la Ribera",
+    "market": "Barcelona",
+    "country": "Spain",
+    "country_code": "ES",
+    "location": {
+      "type": "Point",
+      "coordinates": [{
+        "$numberDouble": "2.17561"
+      }, {
+        "$numberDouble": "41.38701"
+      }],
+      "is_location_exact": true
+    }
+  },
+  "availability": {
+    "availability_30": {
+      "$numberInt": "16"
+    },
+    "availability_60": {
+      "$numberInt": "40"
+    },
+    "availability_90": {
+      "$numberInt": "70"
+    },
+    "availability_365": {
+      "$numberInt": "324"
+    }
+  },
+  "review_scores": {
+    "review_scores_accuracy": {
+      "$numberInt": "9"
+    },
+    "review_scores_cleanliness": {
+      "$numberInt": "9"
+    },
+    "review_scores_checkin": {
+      "$numberInt": "9"
+    },
+    "review_scores_communication": {
+      "$numberInt": "10"
+    },
+    "review_scores_location": {
+      "$numberInt": "10"
+    },
+    "review_scores_value": {
+      "$numberInt": "9"
+    },
+    "review_scores_rating": {
+      "$numberInt": "90"
+    }
+  },
+  "reviews": [{
+    "_id": "63586423",
+    "date": {
+      "$date": {
+        "$numberLong": "1456290000000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "58999873",
+    "reviewer_name": "Pierre",
+    "comments": "Una instancia muy céntrica en uno de estos edificios antiguos del Barri Gotic. No es poco haber conseguido estar en el centro de Barcelona en la misma semana del Mobile World Congress. Isabel es un encanto de anfitrión."
+  }, {
+    "_id": "66706354",
+    "date": {
+      "$date": {
+        "$numberLong": "1458792000000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "26247027",
+    "reviewer_name": "Isabelle",
+    "comments": "The host canceled this reservation 2 days before arrival. This is an automated posting."
+  }, {
+    "_id": "68895810",
+    "date": {
+      "$date": {
+        "$numberLong": "1460001600000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "46103953",
+    "reviewer_name": "Hélène",
+    "comments": "Chambre très bien située et hôtesse très sympathique. Merci encore Isabel pour l'accueil !"
+  }, {
+    "_id": "69817589",
+    "date": {
+      "$date": {
+        "$numberLong": "1460520000000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "25801559",
+    "reviewer_name": "Daniel",
+    "comments": "Sheets weren't clean... Shower has very low water pressure. Room is only good for sleeping. It's in a good location but that's about it. Isabel could've provided more information about what's around the house during check in... Overall just decent enough to sleep"
+  }, {
+    "_id": "71470315",
+    "date": {
+      "$date": {
+        "$numberLong": "1461556800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "60712702",
+    "reviewer_name": "Maria Isabel",
+    "comments": "Isabel est accueillante. L'appartement est charmant, correspond aux images. Très bien situé, à côté de Palau de la musica, dans un vieil immeuble plein de charme un peu désuet. Amateurs de confort et décor \"tendance\" s'abstenir. Chez Isabel on se trouve dans une authentique ambiance d'artiste. Merci beaucoup, je garderai le souvenir de cet accueil lié aux souvenirs de Barcelone."
+  }, {
+    "_id": "72657900",
+    "date": {
+      "$date": {
+        "$numberLong": "1462334400000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "53206905",
+    "reviewer_name": "Aitana",
+    "comments": "Es un piso con mucho encanto, muy tranquilo y en un lugar inmejorable. La anfitriona, Isabel, es amable y facilitadora. El piso es una construcción antigua, lo que le da un ambiente genial pero también hace que el agua de la ducha salga con poquísima presión y sea un poco incómodo a veces. A parte de esto, si tuviese que poner alguna queja sería la hora del chekout, ya que las diez de la mañana me parece un poco pronto. \r\nEn conjunto tuvimos una muy buena experiencia y repetiríamos sin duda."
+  }, {
+    "_id": "74055215",
+    "date": {
+      "$date": {
+        "$numberLong": "1463025600000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "69740054",
+    "reviewer_name": "Valentina",
+    "comments": "Isabel was a wonderful host even if she was not there. She was in touch with me by mobile constantly. Thank you so much!\r\nThe house it's nice and was very clean and quite in the night.Perfect location. All you need for few days in Barcelona!"
+  }, {
+    "_id": "74645471",
+    "date": {
+      "$date": {
+        "$numberLong": "1463371200000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "53581405",
+    "reviewer_name": "Jeremy",
+    "comments": "Isabel's place was perfect. It was cozy, clean and quiet. She was a very gracious host and was always there to answer my questions about getting around Barcelona. "
+  }, {
+    "_id": "76251055",
+    "date": {
+      "$date": {
+        "$numberLong": "1464148800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "40994614",
+    "reviewer_name": "Mei-Lin",
+    "comments": "Great room with lots of sunlight in a charming apartment. Fantastic location."
+  }, {
+    "_id": "78949332",
+    "date": {
+      "$date": {
+        "$numberLong": "1465531200000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "8010736",
+    "reviewer_name": "Taneli",
+    "comments": "Isa was a kind and gracious host with a lovely appartment in a centric and vibrant area. We loved our stay and surely will visit again."
+  }, {
+    "_id": "80187212",
+    "date": {
+      "$date": {
+        "$numberLong": "1466049600000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "25592253",
+    "reviewer_name": "Natasha",
+    "comments": "SUPER cute place with lots of charm!! Perfect for my first trip to Barcelona:) Amazing location! Gracias Isabel for helping me find last minute accommodations! \r\n"
+  }, {
+    "_id": "81523700",
+    "date": {
+      "$date": {
+        "$numberLong": "1466654400000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "78467282",
+    "reviewer_name": "Elizabeth",
+    "comments": "Isabel was a great host. She met me at the local bar where she worked and took me to her home a street away. The flight of stairs up to here place was a bit daunting but I can see why she lives up there.. It was beautiful! The room and whole place was clean, tidy and very welcoming. I saw Isabel twice, when I arrived and when I left, but it was perfect. \n\nThe facilities were great. The pressure in the shower was weak but it didn't bother me one bit. It is a bit noisy being in the heart of the city, but I can imagine it would be anywhere in this area. It was lovely to have a balcony, and the location was very convenient. Thanks.x"
+  }, {
+    "_id": "82579515",
+    "date": {
+      "$date": {
+        "$numberLong": "1467086400000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "11966400",
+    "reviewer_name": "Monika",
+    "comments": "Isabel was good host. Location is perfect."
+  }, {
+    "_id": "83684354",
+    "date": {
+      "$date": {
+        "$numberLong": "1467518400000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "78589438",
+    "reviewer_name": "Margaux",
+    "comments": "Super piso, super barrio! \r\nThe guest welcomed us well."
+  }, {
+    "_id": "85363139",
+    "date": {
+      "$date": {
+        "$numberLong": "1468209600000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "4965921",
+    "reviewer_name": "Elisabeth",
+    "comments": "It was really nice to stay at Isabels place. She is very uncomplicated and nice and the flat is super located for exploring bcn. For me it was perfect!:)"
+  }, {
+    "_id": "88183001",
+    "date": {
+      "$date": {
+        "$numberLong": "1469246400000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "6058273",
+    "reviewer_name": "Ingrid",
+    "comments": "IT was the perfect stay to Discover the city-a super location with sometimes noisy tourists (even we we're tourists but hopefully not so noisy) but that's part of the location i guess :-). We loved the colourful house and we Will Be go back for a next stay. thank you!"
+  }, {
+    "_id": "89843457",
+    "date": {
+      "$date": {
+        "$numberLong": "1469851200000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "27060110",
+    "reviewer_name": "Liliane",
+    "comments": "Isa is a very lovely, sensitive, artistic and gorgeous person. She is respectful of one's privacy but always ready to give support when asked upon. Be it in spoken or written form I always got my answers from her within no times. She also proofed to be very flexible in terms of arrival and departure times which I appreciated a great deal. If you are a fan of jazz music (like I am), make sure to double check ahead of time about her current concert dates so as not to miss your hostess on stage like I did (grumble ;-)).\n\nThe room I occupied was the smaller one of two that Isabel rents out. So if her flat is fully rented out there can be a maximum of 4 guests plus your hostess in the flat, which can cause some bathroom jam, especially during the hot and humid summer times, when the need for a cool shower is inherent to everyone's desire. \nMy room was as depicted. If you plan on using it for double occupancy, I recommend taking Isa's larger room (unless the two of you are very much in love and want to cuddle up close ;-)). Also, if you need a table for writing, ask for the larger room as well, which comes along with one.\nThe flat itself is absolutely enchanting and furnished with love and an artistic eye to details. It's location is a dream for touristic explorations with anything within walking distance. \nTherefore, I can easily recommend both Isabel and her flat to anyone wishing to immerge himself into the local customs and get a good doze of what it is like \"to live like a true Barcelonian\".  \n\nQuerida Isa, muchas gracias por tu hospedalid génial! Volveré a ciencia cierta!\nSaludos y besos\nLiliana"
+  }, {
+    "_id": "92969637",
+    "date": {
+      "$date": {
+        "$numberLong": "1470801600000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "35246459",
+    "reviewer_name": "Murat",
+    "comments": "The apartment is very centrally located, in the heart of the gothic part of the city and a couple of blocks from the Placa de Catalunya which makes transportation and sightseeing very easy. It's a 20 minute walk from the beach which is a plus. It's located in a very old building on the top floor, so it is rather stuffy and warm in the apartment. The room overlooks a very narrow street/alley so it's rather dark and it's easy to hear the noise coming from the street and the neighboring apartments. There are a few other rooms in the house that are being rented out, so other people will be staying in the house which makes it a necessity to lock the room when you leave the apartment. \n\nIt's important to note that this place has a very strict check out time. On our last day, we had an evening flight but had to check out in the morning. When we asked if we could check out late, Isa told us to take our stuff to the train station and use the lockers there, but the train station does not have lockers. We ended up renting a locker  at a place called \"Barcelona lockers\". That, I would say changed all the plans for the last day. \n\n"
+  }, {
+    "_id": "97257513",
+    "date": {
+      "$date": {
+        "$numberLong": "1472184000000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "121053",
+    "reviewer_name": "Mina",
+    "comments": "I was happy to experience Isabels home as described here. It was spacious, bright and original, with lovely colours and beautiful artwork surrounding me in every room. Isabel is a creative, sensitive and respectful person, with an open mind- yet she has the necessary boundaries that are required to organize an environment where so many different people are going to stay and hopefully enjoy. \nThe street itself is very lively, but the noises didn't bother me at all as i could easily block them out with earplugs. The location could not have been more sentral, still it's on \"the right side\" of the Rambla, where you can find more independent shops, restaurants, cafes and bars compared to the same leveled streets towards Raval. It is an old and very charming building, so if you want an minimalistic experience with cold, stainless steel and elevators this is not the place for you! And perhaps you are not the right person for this place either ;) I had to leave earlier due to illness, and was so sorry i couldn't stay throughout the whole month as planned. Hope to be seeing Isabel and her welcoming surroundings again one day "
+  }, {
+    "_id": "100042172",
+    "date": {
+      "$date": {
+        "$numberLong": "1473220800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "2935800",
+    "reviewer_name": "Jessy",
+    "comments": "Isabel was an amazing host. She is incredible and super considerate. The apartment was by no means the best location in Barcelona, I walked everywhere and never needed a map or a taxi. Arriving late at night was always fine and there was never any disturbing street noise. The block is super cute with awesome little shops that are open during the day. Best neighborhood to be in and incredible city ! Muchísima gracias Isabel, estas invitada a visitar Los Ángeles, todo fue increíble !❤️"
+  }, {
+    "_id": "101398556",
+    "date": {
+      "$date": {
+        "$numberLong": "1473739200000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "56686907",
+    "reviewer_name": "Miranda",
+    "comments": "We had a lovely stay in Barcelona, the apartment was beautiful and the location was ideal! Isabel was friendly and helpful but left us to our own devices to experience the city for ourselves. Can be a little noisy because of the location, however, Isabel was kind enough to leave each of us ear plugs which worked perfectly. Would definitely recommend to friends and family."
+  }, {
+    "_id": "102187845",
+    "date": {
+      "$date": {
+        "$numberLong": "1474084800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "22910258",
+    "reviewer_name": "Andrea Nicole",
+    "comments": "Isabel's place is lovely, cozy and colourful. The location is great! I walked everywhere I wanted to go. The balcony is also a nice little addition. Will definitely stay again, for sure. "
+  }, {
+    "_id": "103245737",
+    "date": {
+      "$date": {
+        "$numberLong": "1474430400000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "8291265",
+    "reviewer_name": "Martina",
+    "comments": "The apartment is very charming and very well located, in the heart of Barcelona. Isabel was very friendly during our stay. "
+  }, {
+    "_id": "104868317",
+    "date": {
+      "$date": {
+        "$numberLong": "1475121600000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "94285927",
+    "reviewer_name": "Gabriel",
+    "comments": "Un appartemment authenthique avec beaucoup de cachet, beaucoup de \"soul\". J'ai pu me rendre à pied partout où je le désirais (ou presque). Isabel était très gentille et met tout ce dont ses invités ont besoin à disposition.\r\n\r\n3 choses à considérer: la rue est assez bruyante, certaines fois pendant la nuit, et le matelas est plutôt rudimentaire, mais ce n'est pas un hôtel non plus... \r\nAussi il faut savoir qu'il y a deux chambres à louer dans l'appartement, vous ne risquez pas d'avoir l'endroit à vous seul en l'absence de l'hôtesse. \r\n\r\nCela dit,\r\nje recommande sans hésiter. \r\nMerci pour tout Isabel!!\r\n\r\nGab"
+  }, {
+    "_id": "105858360",
+    "date": {
+      "$date": {
+        "$numberLong": "1475467200000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "32747834",
+    "reviewer_name": "Niti",
+    "comments": "Isabel was a wonderful host and we had a lovely stay in Barcelona! Her apartment is very nice, located in a great neighborhood close to the metro. "
+  }, {
+    "_id": "106098363",
+    "date": {
+      "$date": {
+        "$numberLong": "1475553600000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "45925643",
+    "reviewer_name": "Carol Ann",
+    "comments": "Isa is really friendly, very responsive with communication, and the space is a really cool location and apartment. Wear the ear plugs Isa graciously provides. "
+  }, {
+    "_id": "107060000",
+    "date": {
+      "$date": {
+        "$numberLong": "1475985600000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "44148508",
+    "reviewer_name": "Shaul",
+    "comments": "We had a perfect holiday, Isabel was very welcoming, the flat was really cozy and beautiful, and the location couldn't be better! Highly recommended :) "
+  }, {
+    "_id": "108913212",
+    "date": {
+      "$date": {
+        "$numberLong": "1476763200000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "7138010",
+    "reviewer_name": "Yao Zu",
+    "comments": "Isabel's place is very nice. I stayed for 9 nights. What a great value. It is located at the heart of Barcelona. It is very close the El born and the Gothic neighborhood. In fact, i walked to my favorite tapa restaurant in just 6 minutes. Everything is within walking distance. If u want to have a local experience, this is a great place to be. The flat is nice and clean and very cozy. Isabel is very helpful if you have any question. Thank you Isabel. I had a wonderful times in Barcelona. I will definitely come back."
+  }, {
+    "_id": "109359243",
+    "date": {
+      "$date": {
+        "$numberLong": "1477022400000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "74041334",
+    "reviewer_name": "Mélynda",
+    "comments": "Emplacement parfait et dans un quartier absolument magnifique! Je recommande fortement!"
+  }, {
+    "_id": "110587817",
+    "date": {
+      "$date": {
+        "$numberLong": "1477540800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "82918523",
+    "reviewer_name": "Gunwook",
+    "comments": "Very good location for your trip."
+  }, {
+    "_id": "124233454",
+    "date": {
+      "$date": {
+        "$numberLong": "1483246800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "77384203",
+    "reviewer_name": "Junghyun",
+    "comments": "Isabel was very welcoming and friendly. Location was great. Had a great time in BCN"
+  }, {
+    "_id": "128894511",
+    "date": {
+      "$date": {
+        "$numberLong": "1485579600000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "30614972",
+    "reviewer_name": "Katrina",
+    "comments": "Very nice place with super location. Close to Gothic Area and all attractions  are within 15min walk. And there are also couples of good restaurants nearby for brunch and dinner. Last but not least Isabel is super good and nice host."
+  }, {
+    "_id": "134611465",
+    "date": {
+      "$date": {
+        "$numberLong": "1488258000000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "114132692",
+    "reviewer_name": "Fotini",
+    "comments": "It's great to be in the middle of the center. Weekend end up to be a bit noisy since Barcelona has a great night life ;-)\nEnjoy"
+  }, {
+    "_id": "134810134",
+    "date": {
+      "$date": {
+        "$numberLong": "1488344400000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "60390810",
+    "reviewer_name": "Najib",
+    "comments": "Good location, but poor furniture and bathroom "
+  }, {
+    "_id": "138180550",
+    "date": {
+      "$date": {
+        "$numberLong": "1489896000000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "736645",
+    "reviewer_name": "Aitor Gonza",
+    "comments": "I have spent 4 days at Isabel's place and it has been a pleasure. The location is excellent, the apartment is very clean and spacious and the communication and interaction with Isabel was really pleasant.  "
+  }, {
+    "_id": "140689248",
+    "date": {
+      "$date": {
+        "$numberLong": "1490932800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "105817079",
+    "reviewer_name": "Gabriel",
+    "comments": "Excelente ubicación ¡! Isabel es muy atenta y siempre bien dispuesta ante cualquier consulta o necesidad. Volveré..."
+  }, {
+    "_id": "143051222",
+    "date": {
+      "$date": {
+        "$numberLong": "1491796800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "28796469",
+    "reviewer_name": "Michael",
+    "comments": "We enjoyed our stay. Perfect location on the edge of the old town. Nice flat with typical Barcelona feeling. Isabel is a nice person too. Only thing to criticize: the tap pressure in the shower is really low"
+  }, {
+    "_id": "145077742",
+    "date": {
+      "$date": {
+        "$numberLong": "1492401600000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "52890",
+    "reviewer_name": "Samantha",
+    "comments": "the flat is very well located. Isabel is a perfect host. i suggest the room for a single in a one-week holiday."
+  }, {
+    "_id": "145879461",
+    "date": {
+      "$date": {
+        "$numberLong": "1492660800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "51390",
+    "reviewer_name": "Giuseppe",
+    "comments": "If you search for a simple room with a special price  this could be it. Good communication with Isabel."
+  }, {
+    "_id": "148147990",
+    "date": {
+      "$date": {
+        "$numberLong": "1493524800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "123924712",
+    "reviewer_name": "Luisa",
+    "comments": "Small, but very clean. If you don't need like a huge bathroom and stuff it is a very good Place to Stay. Perfect if you are out in The City for Most of The Time. Location was a huge plus we've Done almost everything by foot. Host was very friendly. All in all we've been very Content with The flat."
+  }, {
+    "_id": "150776465",
+    "date": {
+      "$date": {
+        "$numberLong": "1494302400000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "122622502",
+    "reviewer_name": "Oana",
+    "comments": "A great, clean and comfy flat with an artistic, colorful vibe, right in the center of Barcelona! There are many places to eat and drink nearby and the Cathedral is a stone's throw away! The check-in went very smoothly and right on time. Isabel is very nice and readily available, and the entire stay was very enjoyable! "
+  }, {
+    "_id": "151844264",
+    "date": {
+      "$date": {
+        "$numberLong": "1494734400000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "51894690",
+    "reviewer_name": "Anne Sofie",
+    "comments": "O"
+  }, {
+    "_id": "153254421",
+    "date": {
+      "$date": {
+        "$numberLong": "1495252800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "94514583",
+    "reviewer_name": "Aoife",
+    "comments": "The apartment is very well located to a busy part of the city, but the street itself is pretty quiet. The room was clean and spacious and had a nice balcony. Isabel was friendly and easy to communicate with. Would definitely stay again!"
+  }, {
+    "_id": "153554815",
+    "date": {
+      "$date": {
+        "$numberLong": "1495339200000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "11837997",
+    "reviewer_name": "Katie",
+    "comments": "Isabelle was a fabulous host. Great communication, the please was well located and exactly as advertised. I would happily stay here again."
+  }, {
+    "_id": "155364546",
+    "date": {
+      "$date": {
+        "$numberLong": "1495944000000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "123221616",
+    "reviewer_name": "Anna",
+    "comments": "Отдыхала в Барселоне 8 дней, с 21 по 28 мая. Комната маленькая, но все необходимое есть. Отличное месторасположение - 8 минут пешком до площади Каталония. Отличный вариант для тех, кто забегает в дом переодеться и переночевать."
+  }, {
+    "_id": "157624854",
+    "date": {
+      "$date": {
+        "$numberLong": "1496548800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "69934327",
+    "reviewer_name": "Rowan",
+    "comments": "Stayed at Isabel's place for a week and it was wonderful! Bed was comfy and the room was clean. Lovely little balcony too and in an incredible location. Isabel was a great host and came to meet us to give us the keys, she also helped us with directions to the apartment. She has a beautiful home and was very welcoming to us. Would love to visit her again and I cannot recommend her any higher!"
+  }, {
+    "_id": "159029193",
+    "date": {
+      "$date": {
+        "$numberLong": "1496980800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "12097030",
+    "reviewer_name": "Estevan",
+    "comments": "Isabel was a super cool host. Communicative and kind.\nThe apartment is beautiful and centrally located to a lot of sights. The room was big and had nice terrace. \nWould definitely stay again. "
+  }, {
+    "_id": "159969483",
+    "date": {
+      "$date": {
+        "$numberLong": "1497240000000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "11971743",
+    "reviewer_name": "Myrto",
+    "comments": "Isabel is a great host with a beautiful and clean apartment. The location is very central and close to the metro, super market and restaurants. I would definitely recoment Isabel's place."
+  }, {
+    "_id": "160690341",
+    "date": {
+      "$date": {
+        "$numberLong": "1497499200000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "8453323",
+    "reviewer_name": "Pete",
+    "comments": "Isabel is a friendly and informative host; her place is very well located and very pleasant and great to get into the wonderful that is Barcelona"
+  }, {
+    "_id": "162083332",
+    "date": {
+      "$date": {
+        "$numberLong": "1497844800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "34247728",
+    "reviewer_name": "Nufar",
+    "comments": "Isabel is  very nice and funny ! the check it went smoothly  and we felt at home immediately . the apartment  is very artistic and inspiring , the location is super comfortable and everything was very easy going ! \nthank you for your lovely home that added  more beauty & culture to our trip to bcn ! \nnufi & ziv :)    "
+  }, {
+    "_id": "165901286",
+    "date": {
+      "$date": {
+        "$numberLong": "1498968000000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "44973241",
+    "reviewer_name": "Leon",
+    "comments": "Lovely place in the okd town, nice and central. Walking distance from the bus station. Walkkng disance from the beach. Lovely nightlife and local shops in the area. Isabels flat is very homely and the decor is amazing. She provided a list of recommended restaurants and was happy to give information when asked. "
+  }, {
+    "_id": "170369257",
+    "date": {
+      "$date": {
+        "$numberLong": "1500091200000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "78135222",
+    "reviewer_name": "Catherine",
+    "comments": "Isabel's place is perfectly located in the centre of the city and in walking distance from the beach. Close to many restaurants and shops, but still in a relatively quiet street. The apartment is beautifully decorated, and the room I stayed in was comfortable and clean. Isabel was a nice and responsive host - overall, definitely recommended! :)"
+  }, {
+    "_id": "172518422",
+    "date": {
+      "$date": {
+        "$numberLong": "1500609600000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "9754688",
+    "reviewer_name": "Camille",
+    "comments": "Isabel's appartement is very well located. \nShe greeted me warmly and living with her was a charm,  very accommodating! \nI was traveling during hot summer of Barcelona; the room can get pretty hot! She also has 2 rooms to rent in the flat. Old building, 3rd (5th??) floor, I guess this is also what is charming about old Barcelona ! I would recommend her place !!"
+  }, {
+    "_id": "173462281",
+    "date": {
+      "$date": {
+        "$numberLong": "1500782400000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "22263094",
+    "reviewer_name": "Chris",
+    "comments": "Isabel's place is adorable! The neighborhood is cute and the location is unbeatable for its proximity to the sights. Isabel even left a list of recommended restaurants to help get me started on my food adventure!"
+  }, {
+    "_id": "176166014",
+    "date": {
+      "$date": {
+        "$numberLong": "1501387200000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "129550473",
+    "reviewer_name": "Michael",
+    "comments": "This place was perfect for me..  Right in the heart of Barcelona and so close to the metro and the bus .. and all the nice restaurants and cafes and places to see .. And the Beach . \nAnd such an Amazing apartment and enjoyed every minute of my time at Isabel's place ..would recommend to anyone looking for a Central location and a good place for a City Break "
+  }, {
+    "_id": "177635129",
+    "date": {
+      "$date": {
+        "$numberLong": "1501732800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "52353866",
+    "reviewer_name": "Dane",
+    "comments": "Nice central location near Catalunya Square/ metro. Clean apartment and friendly host."
+  }, {
+    "_id": "178417687",
+    "date": {
+      "$date": {
+        "$numberLong": "1501905600000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "139001157",
+    "reviewer_name": "Hila",
+    "comments": "The place is beautiful and the location is great. Also isabel has experience in hosting- she left us a list of restaurants and had an organized room ready. It should be noted,however, the place is \"on the third floor\" but really you have to walk up 5 floors, about 70-80 steps. Also, there is no air conditioning (there is a fan). Also, there is only one shower and bathroom for 5 people (isabel and 4 guests). Also, the water pressure is extremely low in the shower. The combination of the long climb up, no AC, and weird shower is pretty difficult in the summer. Otherwise there was no issue."
+  }, {
+    "_id": "178864162",
+    "date": {
+      "$date": {
+        "$numberLong": "1501992000000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "54526638",
+    "reviewer_name": "Peter",
+    "comments": "Beautiful home and honestly couldn't be in a better location, nice quiet little side-street but within touching distance of some of the best parts of the city :-)"
+  }, {
+    "_id": "182671461",
+    "date": {
+      "$date": {
+        "$numberLong": "1502769600000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "86154932",
+    "reviewer_name": "Alicja",
+    "comments": "Very nice apartment and room, like the host. Everything very near by foot, which is lovely. The perfect place when you want to experience the real Barcelona flair :) Muchas gracias Isabel!"
+  }, {
+    "_id": "191400898",
+    "date": {
+      "$date": {
+        "$numberLong": "1504756800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "134845161",
+    "reviewer_name": "Mark",
+    "comments": "Great location"
+  }, {
+    "_id": "192008381",
+    "date": {
+      "$date": {
+        "$numberLong": "1504929600000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "92602209",
+    "reviewer_name": "Marta",
+    "comments": "Si te gustan las casas antiguas como a mí, éste es tu sitio. Yo estuve sólo una noche pero estuve muy a gusto , todo estaba muy limpio e Isabel fue muy agradable.  "
+  }, {
+    "_id": "193413581",
+    "date": {
+      "$date": {
+        "$numberLong": "1505275200000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "74664598",
+    "reviewer_name": "George",
+    "comments": "It's a great place by nicely located in the middle of Barcelona. Very convenient to get to the metro or walk to a lot of nearby sightseeing spots and restaurants. \n\nIt is secluded, which I liked. It's on a small alley way that doesn't get much, if any car traffic. It's quiet at night, but during the day you can hear pedestrian commotion from off the street, and from neighbors in the stairwell, but it didn't bother me, and it was not an issue at night. \n\nAll in all, I would definitely recommend."
+  }, {
+    "_id": "195444187",
+    "date": {
+      "$date": {
+        "$numberLong": "1505793600000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "83173706",
+    "reviewer_name": "Sebastien",
+    "comments": "Isabel is super friendly, useful and answered all questions I had. She gave me a document with some interest spots throughout the city. Although I didn't use it much (did my homework before traveling), it could be pretty useful if you do not know what to do. The flat is located in the heart of the city. It is close to everything. As an example, I walked all the time."
+  }, {
+    "_id": "195903748",
+    "date": {
+      "$date": {
+        "$numberLong": "1505966400000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "6969167",
+    "reviewer_name": "Brad",
+    "comments": "Excellent location in the heart of Barcelona."
+  }, {
+    "_id": "197301972",
+    "date": {
+      "$date": {
+        "$numberLong": "1506312000000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "120281361",
+    "reviewer_name": "Ilse",
+    "comments": "El departamento está muy bien ubicado, muy cerca de la avenida principal que conecta con todas las vías. Cabe resaltar que sí es muy pequeño, el baño y la habitación, tomar en cuenta que hay que subir muchas escaleras."
+  }, {
+    "_id": "197879745",
+    "date": {
+      "$date": {
+        "$numberLong": "1506484800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "141754804",
+    "reviewer_name": "Paula",
+    "comments": "El apartamento tiene una ubicación inmejorable, en pleno centro. Isabel fue una excelente anfitriona. La habitación es amplia, el balcón está sobre la calle pero es muy silenciosa por las noches. Volvería a alojarme allí."
+  }, {
+    "_id": "200401378",
+    "date": {
+      "$date": {
+        "$numberLong": "1507176000000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "31516550",
+    "reviewer_name": "Krishnan",
+    "comments": "As others have pointed out, this place could be chosen just for the location. It's a 10 minute walk from Plaza Catalunya Bus station and all the places can be seen by walk. The building is an old architectural piece, while it has good amenities. It's a steep climb to the top, hence would recommend for those with light luggage or people who love to do some steps. Isabel is nice and friendly."
+  }, {
+    "_id": "202442377",
+    "date": {
+      "$date": {
+        "$numberLong": "1507694400000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "109738494",
+    "reviewer_name": "James + Hannah",
+    "comments": "Perfect location for seeing Barcelona! Very central, we were able to walk to all the attractions we wanted to see and the beach is near enough too."
+  }, {
+    "_id": "203434525",
+    "date": {
+      "$date": {
+        "$numberLong": "1508040000000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "95859344",
+    "reviewer_name": "Alexandra",
+    "comments": "L'appartement d'Isabel est très bien situé - la rue est tranquille, un peu bruyante du à l'écho (petites rues étroites!) mais avec des bouchons j'ai dormi sur mes deux oreilles. Petite chambre très mignonne. Je recommande grandement cette chambre (ou l'autre chambre car Isabel en loue deux) si vous désirez vivre dans un authentique building durant votre séjour. Isabel est très accessible et tout s'est bien déroulé."
+  }, {
+    "_id": "205487781",
+    "date": {
+      "$date": {
+        "$numberLong": "1508644800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "23109276",
+    "reviewer_name": "Tahlia",
+    "comments": "We had a great stay at Isabel’s, the location is brilliant close to restaurants, the main areas (gotic and v close to placa catalunya), and Isabel was easy to communicate with and friendly. Thanks!"
+  }, {
+    "_id": "207117249",
+    "date": {
+      "$date": {
+        "$numberLong": "1509163200000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "72290742",
+    "reviewer_name": "Jolle",
+    "comments": "Wir hatten ein paar sehr schöne Tage in Isabells super gemütlichen Wohnung. Alles war wie beschrieben und sehr ordentlich und sauber. Die Lage ist unübertrefflich! Isabel ist eine super Gastgeberin und hat uns herzlich empfangen. Wir fühlten uns rund um wohl bei ihr. Kommen gerne wieder!"
+  }, {
+    "_id": "211191067",
+    "date": {
+      "$date": {
+        "$numberLong": "1510462800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "65746338",
+    "reviewer_name": "Dorothy",
+    "comments": "Really cool apartment in the center of the city. Isabel was very flexible when I needed to change my arrival time at the last minute."
+  }, {
+    "_id": "225638375",
+    "date": {
+      "$date": {
+        "$numberLong": "1515301200000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "35156067",
+    "reviewer_name": "Roberto",
+    "comments": "Un bel appartement au coeur de Barcelone. Merci Isabel."
+  }, {
+    "_id": "232553309",
+    "date": {
+      "$date": {
+        "$numberLong": "1517806800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "87056268",
+    "reviewer_name": "Romina",
+    "comments": "Isabel es muy amable y simpática. Por su carisma y la del piso uno se siente super bien acogido. No hay nada que envidiarle a un hotel, teniendo todas las comodidades necesarias y una ubicación inmejorable en el Centro de la ciudad. El Piso esta a metros del hermoso Palau de la Música y para los que están pensando en que quisas es muy ruidoso, se equivocan, pues se duerme muy bien incluso a pesar de que las habitaciones dan hacia la calle. Totalmente recomendable..."
+  }, {
+    "_id": "238092513",
+    "date": {
+      "$date": {
+        "$numberLong": "1519534800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "12593760",
+    "reviewer_name": "Kamil",
+    "comments": "Miejsce idealne \nblisko centrum,metra..max 15 min spacerem od Barcelonety.\n\nMila i pomocna właścicielka"
+  }, {
+    "_id": "250479155",
+    "date": {
+      "$date": {
+        "$numberLong": "1522900800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "14699250",
+    "reviewer_name": "Simran",
+    "comments": "Isabel's home is the perfect and central place to stay in Barcelona. I was so close to the Gothic Quarter, El Born, Casa Batllo and so much more. I visited La Sagrada Familia, Park Guell, Barceloneta and walked a lot through the streets of Barcelona. I walked to all of those places from Isabel's house and it was all doable! Isabel is so friendly and very quick with responses. She also gave some great recommendations on local spots to eat/drink. Her apartment is so unique and such a lovely place, also very clean! At night it was not too nosy and I never felt unsafe. Thank you for a great stay and I will definitely be staying here again if I visit Barcelona again!"
+  }, {
+    "_id": "252774430",
+    "date": {
+      "$date": {
+        "$numberLong": "1523505600000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "30001099",
+    "reviewer_name": "Cristina",
+    "comments": "Great location"
+  }, {
+    "_id": "256632527",
+    "date": {
+      "$date": {
+        "$numberLong": "1524456000000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "46117869",
+    "reviewer_name": "Helene",
+    "comments": "Overall, I would say our experience was ok. Not hugely disappointed, not super happy. Location is amazing, space is well decorated , there were lovely Lillies in the kitchen. But although response to messages were always prompt, never that extra, friendly, caring touch. \n\nWhen I choose accommodation where I share space with the host, I choose mostly by whether I’d like to get to know this person or not. Isabel sounded very interesting, so I was looking forward to meeting her. As it turns out, she seemed pretty reluctant to interact. It felt like we were intruding on her space for the most part. For example, when she emerged from her room at 12pm, I asked her “how are you today?” Her response was “I don’t know yet.” End of conversation. Which is fine. Again, she was never rude. Just a little closed. \n\nBed was comfortable. Not really enough space to put things away. \nA little grimy. Place needs a good deep clean. \n\nIn the end, she seemed to connect a little with my adult daughter who stayed with me which I was glad for. \n\nI am reluctant to recommend this place based on my experience. Yours might be different. You’ll love the location I’m sure. Although it comes up for a cheap price on Airbnb, in the end because she charges extra for a second person and the cleaning fee is high , it was $130 cdn a night. Which is too much for this place."
+  }, {
+    "_id": "259038985",
+    "date": {
+      "$date": {
+        "$numberLong": "1525060800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "24811174",
+    "reviewer_name": "Sander",
+    "comments": "Centrale locatie zonder geluidsoverlast s nachts. Alles op loopafstand! Kamer is wat klein en t bed wat laag, maar dat nam ik voor lief gezien de positieve kanten :)"
+  }, {
+    "_id": "271015832",
+    "date": {
+      "$date": {
+        "$numberLong": "1527739200000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "51092202",
+    "reviewer_name": "Matias",
+    "comments": "Impecable el trato, la dedicación y comunicación con Isabel.\nDesde que llegue hasta que me fui. Me hizo sentir muy cómodo y a gusto. La recomiendo 100%"
+  }, {
+    "_id": "272133978",
+    "date": {
+      "$date": {
+        "$numberLong": "1527998400000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "8977374",
+    "reviewer_name": "Sam",
+    "comments": "Fantastic apartment and super host! My wife and I had a lovely time staying at Isabel's charming apartment. Easy check-in/check-out and a truly perfect location. Couldn't ask for more!"
+  }, {
+    "_id": "273703728",
+    "date": {
+      "$date": {
+        "$numberLong": "1528344000000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "93143262",
+    "reviewer_name": "Maritza",
+    "comments": "I thought Isabela home was very nice and very very clean. The room was very nice and we had all the amenities needed \nThe location was the BEST very close to all major interest"
+  }, {
+    "_id": "277406611",
+    "date": {
+      "$date": {
+        "$numberLong": "1529121600000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "12660620",
+    "reviewer_name": "Stacy",
+    "comments": "Good central location, close to a metro station.\nSimple room, but just what you need if you want somewhere to store your luggage and sleep at night, after exploring Barcelona.\nIsabel was friendly and very quick to respond to my request and any messages. She was much better than other hosts in this regard."
+  }, {
+    "_id": "282031371",
+    "date": {
+      "$date": {
+        "$numberLong": "1529985600000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "69342051",
+    "reviewer_name": "Alice",
+    "comments": "Viene con todo lo que dice en la descripción del hogar, la ubicación está en un vecindario muy central y cercas de muchas de las atracciones, y Isabel fue muy amable con nosotros! Lo único que le faltaba al cuarto era una cortina en la ventana para tener más privacidad (por eso de la construcción) pero en sí el cuarto es muy espacioso y la cama cómoda. Gracias Isabel! "
+  }, {
+    "_id": "284887216",
+    "date": {
+      "$date": {
+        "$numberLong": "1530504000000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "174589785",
+    "reviewer_name": "Dana",
+    "comments": "A lovely apartment in a great location. Take in consideration there are more than 70 stairs to climb (which was pretty hard after long walks and charring suitcases). The balcony was taken off due to building renovations, which was pretty surprising as the workers could step into the room with no problem and mornings where noisy. When I complained about my privacy and security (I had to drees in the hallway and lock the balcony door - with no A/C), Isabel illustrated a curtain to the balcony door. "
+  }, {
+    "_id": "288176878",
+    "date": {
+      "$date": {
+        "$numberLong": "1531108800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "11207256",
+    "reviewer_name": "Bruno",
+    "comments": "L’appartement est idéalement situé au début du quartier gothique et à deux pas de la Casa Musica. L’appartement possède une ambiance singulière : pas de meuble IKEA... c’est très agréable ! Cependant chambre reste très sommaire : un matelas posé sur des palettes. Pas de bureau. Pas assez de prises de courant. Les toilettes et la salle de bain sont très petits et partagés. La ruelle est très bruyante, ne pas oublier les bouchons d’oreille !"
+  }, {
+    "_id": "290386578",
+    "date": {
+      "$date": {
+        "$numberLong": "1531540800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "90801496",
+    "reviewer_name": "Carla",
+    "comments": "Freundlich, schöne Wohnung, allerdings fehlt ein funktionierender Ventilator und Gemeinschaftsräume leider nicht nutzbar. Der Rest war toll, sauberes Bad und sehr gute Kommunikation."
+  }, {
+    "_id": "294389513",
+    "date": {
+      "$date": {
+        "$numberLong": "1532232000000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "5412545",
+    "reviewer_name": "Julia",
+    "comments": "Die Wohnung liegt in einer Toplage. Als ich ankam gab es leider ein Problem mit der Telefonnummer, der ich geantwortet habe und so konnte ich Isabel bei meiner Ankunft nicht erreichen. Ich konnte erst 5 Stunden später in die Unterkunft. Habe daraus gelernt, nur noch über die App zu kommunizieren. Das Bad ist für eine Person über 1,80 eventuell zu klein. Und im Sommer kann es recht heiß und stickig werden, trotz des schönen alten Steinbodens und der hohen Decken. Die Wohnung ist sehr schön und sehr authentisch eingerichtet. Es gibt keinen Aufzug und man muss das Gepäck in den 3 Stock eine schmale Treppe hochtragen. Es war eine schöne Zeit - dank an Isabel und ihren Freund, beide wohnen in der Wohnung ."
+  }, {
+    "_id": "295818399",
+    "date": {
+      "$date": {
+        "$numberLong": "1532404800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "7007835",
+    "reviewer_name": "Michelle",
+    "comments": "Isabel’s place was delightful. Her home is incredibly decorative and has a home-like sense to it. The location is great, it’s very close and walkable to the center and Las Ramblas but the street itself is not very noisy which was perfect! She is an incredible kind and understanding host and I appreciated her hospitality much."
+  }, {
+    "_id": "300981072",
+    "date": {
+      "$date": {
+        "$numberLong": "1533268800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "191019706",
+    "reviewer_name": "Craig",
+    "comments": "Friendly hostess and apartment is in a good location.\n"
+  }, {
+    "_id": "304673575",
+    "date": {
+      "$date": {
+        "$numberLong": "1533873600000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "195186308",
+    "reviewer_name": "Julia",
+    "comments": "Isabel is a great host.\nPlace is located in the center so it's near almost every touristic places.\nRoom is pretty spacious and cosy. \nBut I was there in august, the weather was hot and in room was awfully stuffy  — blower didn't help at all. And there were workers outside the window on the scaffolding."
+  }, {
+    "_id": "310842554",
+    "date": {
+      "$date": {
+        "$numberLong": "1534737600000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "11044305",
+    "reviewer_name": "Cody",
+    "comments": "Great apartment right in the center of Barcelona. Walking distance from the metro and from many attractions. I had a great time. Thanks."
+  }, {
+    "_id": "311791543",
+    "date": {
+      "$date": {
+        "$numberLong": "1534910400000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "164218501",
+    "reviewer_name": "Paul",
+    "comments": "This place was great. I had to reduce the amount of nights I was staying and Isabel immediately gave me a response and a refund for the night I could not stay. Thank you so much again for this. Great place and private space."
+  }, {
+    "_id": "323210661",
+    "date": {
+      "$date": {
+        "$numberLong": "1536984000000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "151423165",
+    "reviewer_name": "Fernando",
+    "comments": "Para unos cálidos y lindos días en Barcelona . Ubicación óptima"
+  }, {
+    "_id": "325900216",
+    "date": {
+      "$date": {
+        "$numberLong": "1537502400000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "22430618",
+    "reviewer_name": "Lo",
+    "comments": "Expect easy and breezy life at Isabel's and to be happy and chill !"
+  }, {
+    "_id": "327638742",
+    "date": {
+      "$date": {
+        "$numberLong": "1537761600000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "22813397",
+    "reviewer_name": "Jasmin",
+    "comments": "Allgemein zu teuer.. auf den Fotos sieht es ordentlich und sauber aus, nicht aber in Wirklichkeit. Das Zimmer eindeutig zu klein, unpraktisch Sachen zu verstauen, Balkontür lässt sich aufgrund des fix angebrachten Tuches nicht richtig öffnen... Harte Matratze auf Paletten, extrem einfach möbliert. Türe mit Spalt zu anderem Gästezimmer, dadurch kaum Intimsphäre..\nIsabel gab einem das Gefühl nicht als Gast Willkommen zu sein.. suchte lange die Einganstüre.. dabei hätte sie aufmachen können, da sie wusste, dass ich im Gang war. Isabel ist wohl offenherzig abhängig von der Sympathie gegenüber dem Gast. Sie hat jedoch volles Vertrauen all ihre privaten coolen alten Sachen stehen zu lassen. \nLage ist prima. Dusche klein, jedoch alles mit unsauberen Sachen überstellt. \nAlles wäre etwas anders akzeptabel bei einem herzlichen Willkommen."
+  }, {
+    "_id": "330052439",
+    "date": {
+      "$date": {
+        "$numberLong": "1538280000000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "3181669",
+    "reviewer_name": "Wei",
+    "comments": "I had such s relaxing time with Isabel! She is friendly, funny and helpful. Most importantly, super easy to interact with. We were joking about all kinds of things when sharing a cup of tea in the morning and exchanging our travel photos after that. \n\nHer place is also very stylish, unique and the building is really really cool. The Location? Can’t be better!"
+  }, {
+    "_id": "338401617",
+    "date": {
+      "$date": {
+        "$numberLong": "1539921600000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "163797535",
+    "reviewer_name": "Patricia",
+    "comments": "Great location!"
+  }, {
+    "_id": "341163773",
+    "date": {
+      "$date": {
+        "$numberLong": "1540526400000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "179792100",
+    "reviewer_name": "Katelyn",
+    "comments": "Great location! Easily walkable to many places and some great tourist spots and restaurants close by."
+  }, {
+    "_id": "345882837",
+    "date": {
+      "$date": {
+        "$numberLong": "1541480400000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "209702588",
+    "reviewer_name": "Gregg",
+    "comments": "You can expect not to be let in, if the act of doing that would cause an inconvenience to Isabel. That is, if your experience is like mine was."
+  }, {
+    "_id": "351256499",
+    "date": {
+      "$date": {
+        "$numberLong": "1542862800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "214776382",
+    "reviewer_name": "Haoyu",
+    "comments": "It’s a perfect place for a vacation or a longer stay. It’s in the center of Barcelona which means it’s close to wherever you wanna go.\nApart from that, Isabel was really helpful and easygoing. She would provide everything needed. It made me feel at home."
+  }, {
+    "_id": "356107566",
+    "date": {
+      "$date": {
+        "$numberLong": "1544158800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "15216493",
+    "reviewer_name": "Remco",
+    "comments": "Great value for money, great location, Isabel is a very nice host. I traveled with my mom and the only bad thing is the amount of stairs. But anyway, we had a great stay."
+  }, {
+    "_id": "358633838",
+    "date": {
+      "$date": {
+        "$numberLong": "1544850000000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "896708",
+    "reviewer_name": "Kat",
+    "comments": "If you are a budget traveler in town for leisure visit, this might be good place to stay. It’s very centrally located, close to plenty of shops and restaurant and metro. I was in town for a conference, and unfortunately, the first two nights, there were some rowdy people in the street late, late at night and I woke up several times. So for a work trip, the location is not so great (I stayed in a different, more quiet neighborhood last time).  The other nights were just fine.\n\nThere are two bedrooms for rent, and I recommend the second one. The one I rented was right by the door and hallway and you can hear everything, and everyone walking up and down. (Thin walls are common to Barcelona). I think the other bedroom may be more insulated. That said, I am a light sleeper and was there for work, so I had to go to bed at a decent time. \n\nThe rest of the apartment is nicely decorated."
+  }, {
+    "_id": "364760475",
+    "date": {
+      "$date": {
+        "$numberLong": "1546232400000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "22373359",
+    "reviewer_name": "Martijn",
+    "comments": "Isabel is a really nice and friendly host. The room is at a great location down right in the middle of the city center. The room is quite small though and more suitable for a solo traveler looking for a place for one or two nights, than for a couple."
+  }, {
+    "_id": "368130439",
+    "date": {
+      "$date": {
+        "$numberLong": "1546750800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "25116387",
+    "reviewer_name": "Savannah",
+    "comments": "Really enjoyed my time at Isabel’s! Right in the heart of the gothic quarter and easy walking distance to everything else in Barcelona. \n\nDefinitely try Casa Lolea and Nomad coffee just up the street."
+  }, {
+    "_id": "416852004",
+    "date": {
+      "$date": {
+        "$numberLong": "1551070800000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "95995393",
+    "reviewer_name": "Tom",
+    "comments": "Isabel was a great host and the house was lovely. It was ideally located for people wanting to explore the sights of Barcelona."
+  }, {
+    "_id": "418058487",
+    "date": {
+      "$date": {
+        "$numberLong": "1551416400000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "233914875",
+    "reviewer_name": "Tomáš",
+    "comments": "We stayed there 5 days and we were satisfied. Our room has bigsized bad, balcony and commode. Flat is very good situated very close to Catalunya square arc the Triomf and many others popular places. Urquinaona metro station is over one minute walk. Access to flat is from blind street (no cars) so at night is as quiet as usual. Isabel is very kind person and she was ready to help us with all our issues. Bathroom has big boiler with enough hot water for two and more people. If you are looking for quiet accommodation with good position you just find it :)"
+  }, {
+    "_id": "419904884",
+    "date": {
+      "$date": {
+        "$numberLong": "1551762000000"
+      }
+    },
+    "listing_id": "11115528",
+    "reviewer_id": "53652944",
+    "reviewer_name": "Aida",
+    "comments": "This is a great location. it's very close to everything, buses are just around the corner and very easy to used. The Gothic square us within walking distance. I had a great time. Isabel is very nice and is always in communication with you."
+  }]
+}
+
+
+
+
+{
+  "_id": "1112838",
+  "listing_url": "https://www.airbnb.com/rooms/1112838",
+  "name": "Spacious and quiet duplex apartment in Poble Sec",
+  "summary": "Spacious apartment in a peculiar building in the central neighbourhood of Poble Sec, with patio and terrace, ideal for families with children or groups. Walking distance from center, Montjuïc, Plaza España, Fira Montjuïc/Gran Vía, Sant Antoni, Raval.",
+  "space": "Spacious and quiet duplex apartment in the heart of the colourful Poble Sec neighbourhood, with entrance from a peculiar and protected archway. Equipped for 6-7 guests. 3 double rooms, 2 bathrooms, 1 patio, 1 terrace and 1 balcony. First floor: entrance, living-dining room with open kitchen giving onto the patio, chill out corner and a bathroom with shower. Second floor: hall, complete bathroom, 3 bedrooms (2 with double bed, 1 with bunk beds), balcony and terrace. Ideal for families with children and groups. Smoking is not permitted inside the apartment, but it is allowed in the terrace and the patio. Basic rate intended for 4 guests. Children up to 12 years are not calculated as extra guests during low season. Wi-Fi/wired connection (100Mb), washing machine, smart TV, DVD, Nespresso. Kitchen basics.",
+  "description": "Spacious apartment in a peculiar building in the central neighbourhood of Poble Sec, with patio and terrace, ideal for families with children or groups. Walking distance from center, Montjuïc, Plaza España, Fira Montjuïc/Gran Vía, Sant Antoni, Raval. Spacious and quiet duplex apartment in the heart of the colourful Poble Sec neighbourhood, with entrance from a peculiar and protected archway. Equipped for 6-7 guests. 3 double rooms, 2 bathrooms, 1 patio, 1 terrace and 1 balcony. First floor: entrance, living-dining room with open kitchen giving onto the patio, chill out corner and a bathroom with shower. Second floor: hall, complete bathroom, 3 bedrooms (2 with double bed, 1 with bunk beds), balcony and terrace. Ideal for families with children and groups. Smoking is not permitted inside the apartment, but it is allowed in the terrace and the patio. Basic rate intended for 4 guests. Children up to 12 years are not calculated as extra guests during low season. Wi-Fi/wired connection (100",
+  "neighborhood_overview": "Poble Sec is located just next the mountain of Montjuic, not to be missed for its several museums (Miró Foundation, MNAC, Caixafòrum, Ethnological Museum, Archaeology Museum, etc.), the Olympic Ring, the Castle and the cableway, its wonderful views of Barcelona and for being a green escape to the bustle of the city (and to heat in summer). The area is very well supplied: supermarket right in front of the apartment, the best artisan bakery in the neighbourhood just next door, two butchers (one of them organic), fish shop, drugstore, banks and playground for children, all just within a 100 meters radius (more facilities a bit farther). The neighbourhood is a lively and trendy one, with plenty of cafés, bars, restaurants, theatres and concert halls to enjoy the city from breakfast to evening, either alone, in couple, with friends or with kids.",
+  "notes": "Licence number: HUTB-007120",
+  "transit": "Excellent location: subway at walking distance (3-5 minutes away to Poble Sec stop, green line (L3), which takes directly to the city centre – 4 stops to Plaza Cataluña - the Sants rail station - 3 stops - and to the Camp Nou Stadium), Plaza España/Fira de Montjuic/Aerobús stop to the airport at 10-15 minutes walking or 1 subway stop away; walking distance to the Ramblas, Raval, Sant Antoni market and Colón/Drassanes. Bike rental at 10 minutes walking from the apartment. Beach at 10-15 minutes from the apartment by bike! ",
+  "access": "",
+  "interaction": "Yamila lives in the neighborhood. Should you need it she will be near! Before your arrival, you might interact by e-mail either with Yamila or with me (Cristina, the apartment's owner).",
+  "house_rules": "RIGHT AFTER RESERVATION: 1. Send us your e-mail address so that we can send you a PDF file with all the info. 2. Send us by e-mail the following personal data FOR ALL GUESTS (children included), for the compulsory tourist registration with the local authorities: ID number*  Type of document (national ID or passport)* Date of issue (if visible)* Family name*  First name*   M/F* Birth date*  Nationality*  Date of arrival* Personal address  Phone number  Expected days of stay BEFORE YOUR ARRIVAL: 1. Make sure you provide us your arrival's details (time of arrival and mean of transportation) and a phone number so that we can contact you in case of need. 2. Let us know your preferences regarding the beds according to your group's composition: ex. if you are a family of 2 parents + 2 kids we will prepare the main room and the bulk beds; if you are 2 couples we will prepare the main room and the other double bed room; if there is a child we will prepare the baby bed or the little bed, etc.  3",
+  "property_type": "Apartment",
+  "room_type": "Entire home/apt",
+  "bed_type": "Real Bed",
+  "minimum_nights": "3",
+  "maximum_nights": "365",
+  "cancellation_policy": "moderate",
+  "last_scraped": {
+    "$date": {
+      "$numberLong": "1552021200000"
+    }
+  },
+  "calendar_last_scraped": {
+    "$date": {
+      "$numberLong": "1552021200000"
+    }
+  },
+  "first_review": {
+    "$date": {
+      "$numberLong": "1368331200000"
+    }
+  },
+  "last_review": {
+    "$date": {
+      "$numberLong": "1549515600000"
+    }
+  },
+  "accommodates": {
+    "$numberInt": "7"
+  },
+  "bedrooms": {
+    "$numberInt": "3"
+  },
+  "beds": {
+    "$numberInt": "7"
+  },
+  "number_of_reviews": {
+    "$numberInt": "129"
+  },
+  "bathrooms": {
+    "$numberDecimal": "2.0"
+  },
+  "amenities": ["TV", "Cable TV", "Internet", "Wifi", "Air conditioning", "Kitchen", "Paid parking off premises", "Buzzer/wireless intercom", "Heating", "Family/kid friendly", "Washer", "Smoke detector", "Carbon monoxide detector", "First aid kit", "Safety card", "Fire extinguisher", "Essentials", "Shampoo", "24-hour check-in", "Hangers", "Hair dryer", "Iron", "Laptop friendly workspace", "Outlet covers", "Bathtub", "High chair", "Stair gates", "Children’s books and toys", "Crib", "Pack ’n Play/travel crib", "Room-darkening shades", "Children’s dinnerware", "Hot water", "Bed linens", "Extra pillows and blankets", "Ethernet connection", "Microwave", "Coffee maker", "Refrigerator", "Dishwasher", "Dishes and silverware", "Cooking basics", "Oven", "Stove", "Patio or balcony", "Luggage dropoff allowed", "Long term stays allowed", "Wide doorway", "Well-lit path to entrance", "Wide entryway", "Host greets you"],
+  "price": {
+    "$numberDecimal": "130.00"
+  },
+  "security_deposit": {
+    "$numberDecimal": "300.00"
+  },
+  "cleaning_fee": {
+    "$numberDecimal": "65.00"
+  },
+  "extra_people": {
+    "$numberDecimal": "35.00"
+  },
+  "guests_included": {
+    "$numberDecimal": "4"
+  },
+  "images": {
+    "thumbnail_url": "",
+    "medium_url": "",
+    "picture_url": "https://a0.muscache.com/im/pictures/19022972/f955f7a0_original.jpg?aki_policy=large",
+    "xl_picture_url": ""
+  },
+  "host": {
+    "host_id": "6107595",
+    "host_url": "https://www.airbnb.com/users/show/6107595",
+    "host_name": "Cristina",
+    "host_location": "Barcelona, Catalonia, Spain",
+    "host_about": "(ES) Soy mujer, mamá y traductora. Me gusta tener tiempo para pensar, viajar, jugar con mis hijas y descubrir algo nuevo cada día. A veces por trabajo tengo que viajar, y entonces mi amiga Yamila, gran mujer y fantástica anfitriona, amante del campo y fotógrafa de profesión, me ayuda con los huéspedes.\r\n\r\n(EN) I am a woman, a mother and a translator. I like having time to think, to travel, to play with my daughters and to discover something new every day. Sometimes I have to travel because of my job: in those occasions my friend Yamila, great woman and fantastic host, outdoor lover and photographer, helps me out with guests.",
+    "host_response_time": "within an hour",
+    "host_thumbnail_url": "https://a0.muscache.com/im/users/6107595/profile_pic/1442432675/original.jpg?aki_policy=profile_small",
+    "host_picture_url": "https://a0.muscache.com/im/users/6107595/profile_pic/1442432675/original.jpg?aki_policy=profile_x_medium",
+    "host_neighbourhood": "El Poble-sec",
+    "host_response_rate": {
+      "$numberInt": "100"
+    },
+    "host_is_superhost": true,
+    "host_has_profile_pic": true,
+    "host_identity_verified": true,
+    "host_listings_count": {
+      "$numberInt": "1"
+    },
+    "host_total_listings_count": {
+      "$numberInt": "1"
+    },
+    "host_verifications": ["email", "phone", "reviews", "jumio", "government_id"]
+  },
+  "address": {
+    "street": "Barcelona, Catalunya, Spain",
+    "suburb": "Sants-Montjuïc",
+    "government_area": "el Poble Sec",
+    "market": "Barcelona",
+    "country": "Spain",
+    "country_code": "ES",
+    "location": {
+      "type": "Point",
+      "coordinates": [{
+        "$numberDouble": "2.15566"
+      }, {
+        "$numberDouble": "41.37479"
+      }],
+      "is_location_exact": true
+    }
+  },
+  "availability": {
+    "availability_30": {
+      "$numberInt": "12"
+    },
+    "availability_60": {
+      "$numberInt": "15"
+    },
+    "availability_90": {
+      "$numberInt": "23"
+    },
+    "availability_365": {
+      "$numberInt": "127"
+    }
+  },
+  "review_scores": {
+    "review_scores_accuracy": {
+      "$numberInt": "10"
+    },
+    "review_scores_cleanliness": {
+      "$numberInt": "10"
+    },
+    "review_scores_checkin": {
+      "$numberInt": "10"
+    },
+    "review_scores_communication": {
+      "$numberInt": "10"
+    },
+    "review_scores_location": {
+      "$numberInt": "10"
+    },
+    "review_scores_value": {
+      "$numberInt": "10"
+    },
+    "review_scores_rating": {
+      "$numberInt": "95"
+    }
+  },
+  "reviews": [{
+    "_id": "4558132",
+    "date": {
+      "$date": {
+        "$numberLong": "1368331200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "768849",
+    "reviewer_name": "Jean-Pierre",
+    "comments": "Yamila appartement was just perfect for us!\r\nThe location in Poble sec is very close to BCN city center and the neighborhood is so quiet without any traffic like everywhere else in the city\r\nThe appartement is very clean, well equipped with very recent furniture, 2 bathrooms, 3 bedrooms, 2 balconies, 1 terrace, large kitchen and lounge.\r\nYamila was a perfect host with us also.\r\nI fully recommend this appartment"
+  }, {
+    "_id": "5181484",
+    "date": {
+      "$date": {
+        "$numberLong": "1371441600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "6146923",
+    "reviewer_name": "Ove M.",
+    "comments": "El piso esta muy guay, en una zona muy bien comunicada y con muchos restaurantes y bares cerca. Lo hemos pasado muy bien en este piso y volveriamos a alquilarlo."
+  }, {
+    "_id": "5697588",
+    "date": {
+      "$date": {
+        "$numberLong": "1373601600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "6597264",
+    "reviewer_name": "Andrew",
+    "comments": "Awesome accommodations! Huge apartment that was obviously recently renovated and well maintained. The building is in a residential (read: non-touristy) part of Spain so if you are looking for a real taste of local culture this is the place to stay. 2 blocks from the subway and we were downtown in just a couple stops. The apartment is in building with a common courtyard (common for the style). The other people that live in the building were very friendly and helpful answering any questions we had. My son was even able to play with the other children (despite the language barrier). Awesome experience -- would definietly rent again."
+  }, {
+    "_id": "6273294",
+    "date": {
+      "$date": {
+        "$numberLong": "1375761600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "6259139",
+    "reviewer_name": "Juan Daniel",
+    "comments": "Experiencia bastante agradable, puntuales, el piso muy limpio, ordenado y esta genial, muy bien situado, muy recomendable."
+  }, {
+    "_id": "6347739",
+    "date": {
+      "$date": {
+        "$numberLong": "1376020800000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "7317566",
+    "reviewer_name": "Carey",
+    "comments": "The apartment is exactly as pictured. Very spacious, comfortable, and clean with a well equipped kitchen and nice terraces on both levels. The neighborhood is well situated - it is not at all touristy but close to transportation at Plaza España and Poble Sec metro stops so you can easily get to all the places you want to visit. We stayed here for 3 nights with our two children and found it perfect. We were able to walk or take the metro everywhere we wanted to go, but have a quieter place to sleep and relax. There is a park down the street and a supermarket directly across. Xavi met us on arrival and was very nice and helpful throughout our stay. When my husband accidentally left a few things in the apartment, Xavi collected them and met us upon our return to Barcelona a few days later to return them. Thanks, Xavi! It was a great stay in Barcelona and I would definitely recommend the apartment to anyone looking for space and comfort in a close but quieter neighborhood. "
+  }, {
+    "_id": "6789181",
+    "date": {
+      "$date": {
+        "$numberLong": "1377403200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "3129321",
+    "reviewer_name": "Julie",
+    "comments": "Great flat in a very good location, very close from subway which brings you to wherever you want in a few minutes. Xabi has been really nice and we didn't miss anything in the flat. Thank you"
+  }, {
+    "_id": "7343014",
+    "date": {
+      "$date": {
+        "$numberLong": "1379304000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "8464703",
+    "reviewer_name": "Ron",
+    "comments": "Yamila is a great hostess, the apartment is very comfortable.\r\nVery close to the metro. And a convenient store. A tv was missed, otherwise everything was great."
+  }, {
+    "_id": "8353854",
+    "date": {
+      "$date": {
+        "$numberLong": "1382846400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "3185553",
+    "reviewer_name": "Christine",
+    "comments": "Appartement conforme aux indications, très propre. Le quartier est calme mais tout de même assez proche de tout (2 stations de métro de la rambla et des plages...). Super Bon séjour !\r\n"
+  }, {
+    "_id": "8566336",
+    "date": {
+      "$date": {
+        "$numberLong": "1383627600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "9083747",
+    "reviewer_name": "Jeremie",
+    "comments": "Una estancia perfecta, el piso es muy grande y muy bien equipado. La descripción corresponde perfectamente a la casa. 100% recomendable."
+  }, {
+    "_id": "10599991",
+    "date": {
+      "$date": {
+        "$numberLong": "1393477200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "10268141",
+    "reviewer_name": "Kirstin",
+    "comments": "Super apartement, clean, spacios, great located and pretty quiet. Yamila is very nice, polite and helpful. I strongly can recommend the apartement. "
+  }, {
+    "_id": "10716290",
+    "date": {
+      "$date": {
+        "$numberLong": "1393909200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "3385007",
+    "reviewer_name": "Oliver",
+    "comments": "A very nice place and a great host!\r\nThe apartment is exactly as you can see in the pictures, everthing is clean and Yamila is just a call (or e-mail) away if you need help."
+  }, {
+    "_id": "11044237",
+    "date": {
+      "$date": {
+        "$numberLong": "1395115200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "10270886",
+    "reviewer_name": "Okan",
+    "comments": "EVERYTHING WAS GREAT. Yamila is very hospitable, very helpful. You can find everything you need at home.We will rent this House again barcelona 2015 Marathon."
+  }, {
+    "_id": "11232505",
+    "date": {
+      "$date": {
+        "$numberLong": "1395720000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "13007630",
+    "reviewer_name": "Lisa",
+    "comments": "Cristina and her friend Yamilia did a wonderful job of making us feel at home and were also very helpful with other miscellaneous necessities (calling us a taxi to take us to the airport on departure).  The duplex was very nice and spacious, clean, charming, outfitted with everything we needed, with comfortable beds and a very nice kitchen (with an induction cooktop!).  The property is older and there was some remodeling noise for a few hours from the neighboring apartment, which we could hear through what seemed to be a shared skylight, but it was very brief and not a concern (unless noise privacy is a very high priority, which it wasn't for us).  We didn't even use the third bedroom with bunk beds, but it would be ideal for a family.  The metro was close enough, and the bakery just downstairs, together with the grocery store literally across the street, were a wonderful convenience.  We went nearly everywhere by metro, and the location was central enough that at the end of the day, if we were too tired to make our way back by metro, an easy cab ride back to the apartment never exceeded 8 euros (which would've been the cost of the metro for all four of us anyway).  Overall, the apartment was a nice, comfortable bargain for family travel - not the most modern, but charming and fully met our needs."
+  }, {
+    "_id": "11683163",
+    "date": {
+      "$date": {
+        "$numberLong": "1397275200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "10549520",
+    "reviewer_name": "Danielle",
+    "comments": "Appartement trés agréable et trés bien situé à 2 pas d'une station de métro et de la place d'Espagne.\r\nToutes les pièces sont très agréables et les terrasses aussi.\r\nSupermarché en face et excellente boulangerie au pied de l'immeuble.\r\nImmeuble très calme.\r\nPas de cafetière électrique ni d'essoreuse à salade mais l'électroménager est top.\r\nDéco soignée.\r\nMerci, nous avons passé une excellente semaine !  "
+  }, {
+    "_id": "12232097",
+    "date": {
+      "$date": {
+        "$numberLong": "1398571200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "7244993",
+    "reviewer_name": "Henrik",
+    "comments": "We stayed at Christina´s place for two weeks and were happy with the flat. The location is good: close to metro, and also bakery, convenience store etc is near.\r\nExcellent restaurants also nearby.  "
+  }, {
+    "_id": "12409710",
+    "date": {
+      "$date": {
+        "$numberLong": "1398916800000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "5115465",
+    "reviewer_name": "Marie-Pierre",
+    "comments": "Magnifique appartement, très calme dans un quartier sympathique. Boulangerie juste à côté, idéale le matin. Les enfants ont adoré!  Cristina et Yamila toujours à l'écoute par mail ou par tel. Nous gardons un excellent souvenir de ces vacances en famille à Barcelone. Un grand merci à nos hôtes. \r\nMarie-Pierre, Arnaud, Pierre et Benjamin"
+  }, {
+    "_id": "12534662",
+    "date": {
+      "$date": {
+        "$numberLong": "1399262400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "4125966",
+    "reviewer_name": "Céline",
+    "comments": "Espectacular!\r\nEl piso era grande, confortable, limpio, y muy bien equipado, sobre todo en la cocina. Es un piso luminoso con terracitas perfectas para comer fuera, y un silencia muy apreciable durante la noche, una maravilla.\r\nEl piso está super bien situado, hay un supermercado en frente y una panadería muy buena justo al lado, la acogida fue perfecta y la logística (entrega y recogida de la llave...) muy sencilla. Muy recomendable."
+  }, {
+    "_id": "12696369",
+    "date": {
+      "$date": {
+        "$numberLong": "1399521600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "11540553",
+    "reviewer_name": "Véronique",
+    "comments": "Réactive et bon contact téléphonique."
+  }, {
+    "_id": "14334588",
+    "date": {
+      "$date": {
+        "$numberLong": "1402977600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "9056447",
+    "reviewer_name": "Thorsten",
+    "comments": "The Hous is great. It´s a super cosy place in a nice neighborhood. You find evrerything you need in the House, plus you got two terraces and a padio.\r\nIt is super located, everything you need is close, Supermarket, Bakery and Restaurants just in front of the Door. Metro station around the corner also the placa espanya Montjuïc a few minutes walk away.\r\nYamila (friend of Christina) is a great host, she was super nice and open for every question we had. She also called us a taxi to take us to the airport at 5! in the morning.\r\nWe will for sure come back and book that place again.\r\nWould totally recommend that House for a great stay in Barcelona.\r\nThank you.\r\n \r\n"
+  }, {
+    "_id": "14524075",
+    "date": {
+      "$date": {
+        "$numberLong": "1403323200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "16129927",
+    "reviewer_name": "Birgit",
+    "comments": "GREAT!!! Christina and Yamila are very hospitable and very helpful. \r\nThe flat was very nice and spacious, clean and outfitted with everything we needed. The flat is super located (metro station, supermarket, bakery, ...).\r\n\r\nWe will come back : )\r\nThank you!"
+  }, {
+    "_id": "14913217",
+    "date": {
+      "$date": {
+        "$numberLong": "1404014400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "11234361",
+    "reviewer_name": "Geir",
+    "comments": "Trivelig nabolag , eksotisk . Leiligheten var kul og anderledes "
+  }, {
+    "_id": "18168843",
+    "date": {
+      "$date": {
+        "$numberLong": "1408766400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "9650969",
+    "reviewer_name": "Fiona",
+    "comments": "Lovely, rather bohemian apartment. Clean, comfortable and well equipped. A working electric kettle would have been useful. Very well positioned to walk to Rambla, beach/harbours/ Mont Juic. Clear instructions how to get there. Parking available in the street which is free in the month of August. Otherwise it is approx Euro 2.5 per hr, max 2hrs on the street. There is private, secure parking at Euro 40 per 24hrs or you can park for free at the university and metro back to Poble Sec. "
+  }, {
+    "_id": "18470281",
+    "date": {
+      "$date": {
+        "$numberLong": "1409112000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "12447653",
+    "reviewer_name": "Noémie",
+    "comments": "Appartement très spacieux et agréable!\nMerci pour cet accueil\nÀ la prochaine "
+  }, {
+    "_id": "19867033",
+    "date": {
+      "$date": {
+        "$numberLong": "1411185600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "15307297",
+    "reviewer_name": "(Email hidden by Airbnb)",
+    "comments": "Yes we were welcomed nicely by Yamila.  Other than how to work the stove top, her information was very good. The space suited us very  well. Enough beds  for all 4 of us. Other than the top of the staircase being very dangerous, we were very comfortable   The neighbourhood was fine.  A convenience store right across the street is fabulous. We found several good restaurants nearby as well. We used the hop on hop off system for our 2 day stay rather than the metro and with a couple of cab rides to pick- up points , we managed very well & really liked being above ground to see the sights rather than in a subway.  "
+  }, {
+    "_id": "20140818",
+    "date": {
+      "$date": {
+        "$numberLong": "1411531200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "18464662",
+    "reviewer_name": "Gill",
+    "comments": "We had a great time -were met as planned and information was very accurate. The apartment was very clean and we'll equipped with close links to metro and local shops ideal. Yamila was superb and was a great asset to us when we required medical help"
+  }, {
+    "_id": "20408510",
+    "date": {
+      "$date": {
+        "$numberLong": "1411963200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "15840543",
+    "reviewer_name": "Ansgar",
+    "comments": "Lieben Dank für die angenehme Zeit in der Wohnung.\r\nWunderbar ausgestattet, zwei Terassen  -ruhig gelegen in einem Hinterhof.\r\nEine aussergewöhnlich gute Bäckerei nebenan.Lebensmittelmärkte gegenüber. Viele gute Möglichkeiten essen zu gehen und wirklich hervorragende Restaurantempfehlungen von Yamila.\r\nAloha Ansgar"
+  }, {
+    "_id": "20685378",
+    "date": {
+      "$date": {
+        "$numberLong": "1412395200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "15862887",
+    "reviewer_name": "Christoph",
+    "comments": "Herzliche Leute!\r\nWunderschöne Wohnung!\r\nRuhige schöne Lage weg vom Massentourismus!\r\nEinfach eine Perle!\r\nDanke, wir kommen wieder \r\nC&B&R&M\r\n"
+  }, {
+    "_id": "20898035",
+    "date": {
+      "$date": {
+        "$numberLong": "1412654400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "18972281",
+    "reviewer_name": "Marie",
+    "comments": "We were 6 friends for a long week-end in Barcelona. We were welcomed by the host on the time of our arrival and she explained all the necessary about the apartment. Sheets and towels were provided. Everything was clean. Wi-fi works good.\r\nOne of the 3 rooms doesn’t have curtains and the light wakes you up early in the morning.\r\nThe apartment is located close to the metro Poble Sec (150m), so it is easy to get to the center or the train station quite fast (10-15 min). You can also get to the center by foot (25-30 min). You can find some restaurants in the neighbourhood that are clearly cheaper than in the center.\r\nThere is also a supermarket just across the street and a bakery not far.\r\nA really nice, spacious and quiet place to stay for a visit of the town. Not too far from the center and the proximity of the metro is really convenient.\r\nHosts are really nice and accommodating. Thank you !"
+  }, {
+    "_id": "21413873",
+    "date": {
+      "$date": {
+        "$numberLong": "1413518400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "16244849",
+    "reviewer_name": "Susanne",
+    "comments": "Famille avec 2 ados, nous avons adoré notre première expérience dans un appartement loué par Airbnb. L'appartement est très propre, bien équipé (avec WiFi) et situé dans un quartier sympa. Boulangerie, magasins et station de métro tout proche. Et un accueil très sympa par Yamila qui a pris le temps de nous donner des conseils pratiques (adresses de restos dans le quartier). On ne peut que recommander ce logement, idéal pour explorer la ville!"
+  }, {
+    "_id": "21840141",
+    "date": {
+      "$date": {
+        "$numberLong": "1414209600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "22017367",
+    "reviewer_name": "Emmanuelle",
+    "comments": "L'appartement est très agréable, bien placé, assez central mais au calme, ce qui est appréciable quand on sillonne la ville toute la journée !\r\nNous avons été très bien accueillis, et nous nous y sommes tout de suite sentis à l'aise."
+  }, {
+    "_id": "22768340",
+    "date": {
+      "$date": {
+        "$numberLong": "1415941200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "10598528",
+    "reviewer_name": "Jonas",
+    "comments": "Super Apartment! War das 7. Mal in Barcelona und hab mich noch nie so zuhause gefühlt wie dort! Vielen Dank!"
+  }, {
+    "_id": "24578947",
+    "date": {
+      "$date": {
+        "$numberLong": "1420002000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "19412191",
+    "reviewer_name": "Lisa",
+    "comments": "These accommodations were comfortable and met all of our needs."
+  }, {
+    "_id": "24928778",
+    "date": {
+      "$date": {
+        "$numberLong": "1420347600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "7585590",
+    "reviewer_name": "Michel",
+    "comments": "Nous avons passé une superbe fin d'année 2014 et début d'année 2015 dans l'appartement. Celui-ci est grand, bien placé, au calme, avec un accueil et un départ bien organisé. Et puis la boulangerie de bons pains juste en dessous, c'est simplement génial. Tous les commerces à proximité, c'est très bien aussi. Tout comme la station de métro. Excellent séjour.\r\nPasamos un maravilloso fin de año 2014 y principios de 2015 en el apartamento. Esto es genial, bien situado, tranquilo, con una bienvenida y salida bien organizado. Y luego se hornea pan bueno justo debajo, es simplemente genial. Todas las tiendas cercanas, eso también está bien. Al igual que la estación de metro. Excelente estancia.\r\nWe spent a wonderful year-end 2014 and early 2015 in the apartment. This is great, well placed, quiet, with a welcome and well organized departure. And then baked good bread just below, it's just great. All shops nearby, that's fine too. Like the subway station. Excellent stay."
+  }, {
+    "_id": "28116361",
+    "date": {
+      "$date": {
+        "$numberLong": "1426651200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "22390651",
+    "reviewer_name": "Stefania",
+    "comments": "Appartamento  esattamente come da foto e descrizione in un quartiere un po' popolare ma tranquillo e ben servito a 20 min a piedi dalla Ramblas e da Barcelloneta.\r\nLo avevamo scelto per la vicinanza a Plaza de Espanya visto che tutti e 4 correvamo la maratona ed è stata una scelta azzeccata.\r\nAppartamento  pulito, luminoso e spazioso, fornito di tutto il necessario per un soggiorno confortevole.\r\nYamila che ci ha accolto è stata gentilissima e ci ha dato anche dei consigli sulla città e sui posti da vedere.\r\nLo consigliamo assolutamente."
+  }, {
+    "_id": "29089627",
+    "date": {
+      "$date": {
+        "$numberLong": "1428120000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "23531031",
+    "reviewer_name": "Atle Ottesen",
+    "comments": "We loved the apartment! Nice and clean and centrally placed with all the equipment we needed - even for the baby we had with us. Very close to supermarket, bakery and fish market, and playground. Nice area, 600 meters from Font Magica/Montjuic. Christina was very helpful before arrival, and Xavi was most friendly and helpful while we were there. He even managed to get back a wallet we lost in a taxi. Highly recommended!"
+  }, {
+    "_id": "29422875",
+    "date": {
+      "$date": {
+        "$numberLong": "1428379200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "3304633",
+    "reviewer_name": "Marion",
+    "comments": "Cristina's duplex is really nice and well located in Barcelona. We were 7 friends and we really enjoyed our stay there for a long week-end. Check-in and check-out were well organized and we found everything we needed in the apartment."
+  }, {
+    "_id": "30280432",
+    "date": {
+      "$date": {
+        "$numberLong": "1429502400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "24791152",
+    "reviewer_name": "Julien",
+    "comments": "L'appartement est exactement comme décrit, parfaitement équipé et fonctionnel.\r\nIl est situé dans un quartier populaire, avec commerces et métro à proximité. \r\nLe contact a été facile, les instructions claires, et Yamila est à proximité si besoin\r\nTout s'est parfaitement déroulé, nous sommes ravis de notre séjour!"
+  }, {
+    "_id": "30670037",
+    "date": {
+      "$date": {
+        "$numberLong": "1430020800000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "3714208",
+    "reviewer_name": "Frauke Und Uwe",
+    "comments": "Wir waren zu dritt in Cristinas Wohnung und hatten eine schöne Zeit dort. Yamila, die uns in Empfang genommen hat, ist sehr sympathisch und hilfreich. Der Austausch mit Cristina und Yamila im Vorfeld verlief schnell und reibungslos. \r\nDie Wohnung ist mit allem ausgestattet, bis auf eine Spülmaschine.\r\nSitzen im Patio oder auf der Terrasse im 1. Stock mit einem schönen Glas Wein oder morgens zum Frühstück ist klasse.\r\nWenn wir erneut nach Barcelona fahren, kommen wir gern wieder.\r\nDas Viertel ist sehr angenehm und alle Einkaufsmöglichkeiten schnell zu erreichen. V.a. lokaler Bäcker im Nachbarhaus und Metzger einige Häuser weiter sind zu empfehlen.\r\nAuch die Nachbarn sind sehr freundlich. Einige von ihnen feiern gern bis spät in die Nacht. Bei offenen Fenstern lässt sich dann nur mit Stöpseln schlafen. Aber die Wohnung ist sicher eine der ruhigeren Unterkünfte in Barcelona.\r\nUnserer Meinung nach ist die Wohnung ideal für 3-4 Personen oder eine Familie mit Kindern. Es gibt einen Raum mit einem KingSize Bett, ein Kinderzimmer für 2. Der dritte Raum ist für eine Person gut geeignet, ist zur Treppe in der Wohnung nur mit einem Vorhang getrennt und hat ein Dachfenster.\r\nHerzlichen Dank nochmal an die lieben Gastgeber\r\n"
+  }, {
+    "_id": "30995062",
+    "date": {
+      "$date": {
+        "$numberLong": "1430366400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "1749568",
+    "reviewer_name": "Tatjana",
+    "comments": "Nous avons séjourné dans cet appartement en avril 2015. Couple avec des enfants en bas âge (1.5 et 3.5 ans) + la grand-mère, nous avons adoré cette première expérience airbnb ! L'appartement été vraiment idéal pour nous : propre, spacieux et super bien équipé ! Pour les enfants, tout était là pour leur petit confort : lit bébé, chaise haute, jouets, planche pour les WC, bcp d'espace et un coin lecture qu'ils ont vraiment adoré. \r\nL'appartement et bien situé et au calme. Les petits plus : la boulangerie et le supermarché sont à 2 pas de l'appartement ainsi que le métro. Nous avons été accueilli par Yamila qui nous attendait à l'arrivée avec un grand sourire. Un tout grand merci pour tout ! Tatjana & co"
+  }, {
+    "_id": "31565993",
+    "date": {
+      "$date": {
+        "$numberLong": "1430971200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "9633758",
+    "reviewer_name": "Eveline",
+    "comments": "Great apartment and location. Beds are good, well equipt and clean house. Bakery and supermarket as neighbours. Yamila was really niet and helpfull.  "
+  }, {
+    "_id": "32443968",
+    "date": {
+      "$date": {
+        "$numberLong": "1431921600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "22209171",
+    "reviewer_name": "Johann",
+    "comments": "L'appartement est très bien agencé\r\nBien placé, dans une petite ruelle calme, près du métro, près des sites à visiter, près des ruelles avec bars à Tapas\r\nYamila est très sympa"
+  }, {
+    "_id": "33903563",
+    "date": {
+      "$date": {
+        "$numberLong": "1433217600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "17743018",
+    "reviewer_name": "Silvia",
+    "comments": "Accoglienza perfetta da parte di Yamila, che ci ha indicato alcuni ristoranti non turistici doeve andare a mangiare (due li abbiamo provati, veramente fantastici!)\r\nLa casa è in un quartiere popolare, ma molto tranquillo e collegato benissimo sia con l'aeroporto che con il centro città.\r\nLa casa era come descritta nell'annuncio, unico neo, per noi, il patio che pensavamo più carino e raccolto (invece era un mini terrazzino incassato fra le case e scoperto).\r\nSe posso dare un consiglio, lo imbellirei un pochino e magari metterei qualche pianta. \r\nPer il resto siamo state benissimo, gli spazi erano comodi e la casa ordinata e pulita.\r\nYamila ci ha  anche cortesemente permesso di lasciare i bagagli a casa e fare il check out nel pomeriggio del giorno di partenza. \r\nDisponibilità, gentilezza e cortesia. Ottimo."
+  }, {
+    "_id": "37028914",
+    "date": {
+      "$date": {
+        "$numberLong": "1435982400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "23089293",
+    "reviewer_name": "Courtney",
+    "comments": "We had a wonderful visit and stay at Cristina's place in Poble Sec. My husband and I and our two girls, aged 6 and 7, stayed for a month. We couldn't have found a better place. Yamila let us into the apartment and answered any questions we had. The apartment is perfectly situated near a metro stop with easy access to anything you would want to see or do in Barcelona. There are great places to eat nearby and a small supemarket, pastry shop, butcher, fresh fish place, and a general store sort of place all on the same street. There are some great and friendly neighbors as well. There is a nice outdoor eating place off the kitchen. All the basics are covered and we were able to make meals in the apartment without any issues. Took us a minute to figure out the stovetop but after finding the instructions in English online we realized if it was blinking at us there wasn't enough weight and we needed to move the pot or pan to a smaller eye. We had a problem with the washing machine and called Xavi who was accommodating and over within an hour to check it out. He also collected the keys our last day and was as easy and wonderful to work with as Yamila. We even had some family members come visit in the extra bedroom, which did not have an AC unit but was fine with a fan - at least for the month of June when we were there. Having the second bathroom when we had guests was nice too. I would highly recommend this place for anyone. I appreciated that what you see is what you get. The pictures are exactly what you will see and have in the apartment. No surprises."
+  }, {
+    "_id": "37468302",
+    "date": {
+      "$date": {
+        "$numberLong": "1436241600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "33297180",
+    "reviewer_name": "Paloma",
+    "comments": "We had an excellent stay! Thanks To all 3 of you for the great hospitality! \nThe apartment was very well equipped with everything you needed,  towels, dishwasher... even water on arrival and this was much appreciated as we were hot and thirsty. The apartment is very well located within walking distance of the metro and in a pleasant area. \nThe flat is as described and spacious. "
+  }, {
+    "_id": "39259741",
+    "date": {
+      "$date": {
+        "$numberLong": "1437537600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "24194112",
+    "reviewer_name": "Jean-Richard",
+    "comments": "Agréable appartement, très bien situé, et très calme la nuit. Commerces à proximité. Merci."
+  }, {
+    "_id": "43472358",
+    "date": {
+      "$date": {
+        "$numberLong": "1440043200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "25570088",
+    "reviewer_name": "Udo",
+    "comments": "Unsere Gastgeberin war in Urlaub, hat aber im Vorfeld (über Mail- und Telefeonkontakt) für einen Ansprechpartner gesorgt. Die Schlüsselübergabe erfolgte problemlos.\r\nDie Wohnung liegt im sog. Arbeiterviertel in der Nähe der Metrostation \"Poble Sec\". Die eingestellten Fotos entsprachen der Realität. Die Wohnung befindet sich mit etwa 40 anderen Wohnungen in einem sog. Hinterhof. Die Nachbarn waren sympathisch und nett. Gegenüber der Wohnung befindet sich ein Supermarkt. Fußläufig gibt es noch andere Einkaufsmöglichkeiten wie z.B. ein Bäcker oder Restaurants."
+  }, {
+    "_id": "47247650",
+    "date": {
+      "$date": {
+        "$numberLong": "1442462400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "24033837",
+    "reviewer_name": "Sylvie",
+    "comments": "Nous étions 2 couples et avons passé une très belle semaine dans ce logement , rien de négatif à dire. Épicerie, boulangerie, poissonnerie et fruiterie tout est à moins de 1 minute a pied. Pour les attraits touristique si vous aimez marcher c'est l'endroit idéal . Si vous ne voulez pas marcher c'est parfait aussi car il y a le métro tout près . Xavi qui nous a reçu était très gentil . Je conseille fortement cet endroit très spacieux. "
+  }, {
+    "_id": "48186834",
+    "date": {
+      "$date": {
+        "$numberLong": "1443067200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "8086664",
+    "reviewer_name": "Paul",
+    "comments": "Logement très agréable, conforme aux photos, très pratique (commerces à deux pas  : boulangerie, supermarché, et métro à 2 min).\r\nLogement spacieux, nous n étions que 3 mais il peut facilement accueillir 6 personnes. \r\nNous avons été très bien guidé par Cristina puis accueilli par Yamila et Xaviera. \r\nJe conseille cette location. \r\nMerci à Cristina, Yamila et Xavi "
+  }, {
+    "_id": "48858622",
+    "date": {
+      "$date": {
+        "$numberLong": "1443499200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "7915375",
+    "reviewer_name": "Helena",
+    "comments": "Apartamento muito agradável, no centro da cidade, fácil acesso de transportes públicos, supermercado em frente!\r\n"
+  }, {
+    "_id": "52722454",
+    "date": {
+      "$date": {
+        "$numberLong": "1446350400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "31463648",
+    "reviewer_name": "Jacques",
+    "comments": "Le logement est bien situé, dans un quartier paisible et agréable, à proximité des transports en commun et de tout. Ces points, importants, font en sorte que la location est acceptable. Cependant, les photos donnent une impression plus positive de l'appartement que la réalité; une des deux chambres manquent complètement d'intimité, ce qui pourrait être réglé en faisant transférant cette chambre dans une pièce quasi de rangement qui est inutilisée; l,appartement est vieillot, ce qui pourrait être acceptable, si des efforts étaient consentis pour remplacer tout ce qui est désuet et demande des réparations, somme toute, mineures: rideau de douche à quelques euros, changé de couleur et pas du tout invitant, cafetière à expresso qui a 100 ans...pleins de petits éléments brisés ou pas adéquats: lumière dans l,escalier, bout de plancher brisé, barure de porte brisée. Bref, il y a des limites à vouloir faire de l'argent: quelques centaines d'euros investis rendrait ce logement beaucoup plus acceptable. La dame qui nous a accueillie n'est pas en cause; elle est aimable et l'appartement avait été bien nettoyé, mais reste douteux quand les épouses refusent de prendre une douche parce que le rideau est blanc-brun...Finalement, je crois que AIRBNB n'est pas assez présent dans le rapport avec le locateur: il n'y a pas de standards suffisants pour garantir l'acceptabilité du service. Disons que c'était passable à acceptable, mais d'un point de vue affaire, le service peut être bien amélioré "
+  }, {
+    "_id": "58138350",
+    "date": {
+      "$date": {
+        "$numberLong": "1451624400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "23146890",
+    "reviewer_name": "Vic",
+    "comments": "Christina's place was perfect.  Spotlessly clean, and plenty of room for 5-6 people.   Great location with lots of cafes, bars and restaurants nearby. Steps to the metro.   Christina responded very quickly to questions, etc. Would stay again. "
+  }, {
+    "_id": "58839056",
+    "date": {
+      "$date": {
+        "$numberLong": "1451970000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "2882334",
+    "reviewer_name": "Nicolas",
+    "comments": "Appartement conforme à l'annonce : propre, spacieux, calme. Nous étions 5 et très à l'aise grâce la disposition en duplex.\r\nA 5 min de la place d'Espagne, au pied de la colline de Monjuic, à 2 pas du métro Poble Sec et une vingtaine de minutes à pieds des Ramblas ou du port, l'emplacement est excellent pour un séjour touristique. La prise de contact et l'accueil de Yamila a été sympathique et chaleureux. Une bonne adresse à Barcelone."
+  }, {
+    "_id": "64279937",
+    "date": {
+      "$date": {
+        "$numberLong": "1456894800000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "44945931",
+    "reviewer_name": "Eero",
+    "comments": "The apartment is very spacious and nice. Kitchen is very well equipped and beds are comfy. The area is awesome. Excellent bars and restaurants just around the corner and a good supermarket right in front of the door. Bus/metro stops are very close too. Wifi is great and the apartment is very nicely decorated. Kids (and grandmom) loved the chill out corner downstairs. Communication with Cristina and Yamila was better than I ever would have expected. Great week."
+  }, {
+    "_id": "64908690",
+    "date": {
+      "$date": {
+        "$numberLong": "1457499600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "24370482",
+    "reviewer_name": "Annie",
+    "comments": "Perfect apartment and neighborhood in Poble Sec. A lot of space and close to the metro, the city and the beautiful mont juic. "
+  }, {
+    "_id": "65496989",
+    "date": {
+      "$date": {
+        "$numberLong": "1458014400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "1673475",
+    "reviewer_name": "Jan",
+    "comments": "Cristina´s apartment si spacy, clean and very well located, just a couple of minutes walk from plaza Espanya. Yamila was a very friendly host, always on time and with a smile on her face. We enjoyed our stay a lot. "
+  }, {
+    "_id": "75215336",
+    "date": {
+      "$date": {
+        "$numberLong": "1463630400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "24798194",
+    "reviewer_name": "Daniela",
+    "comments": "Wir waren absolut begeistert von der Wohnung. Alles sehr sauber und gut ausgestattet.  Die Wohnung liegt zentral in der Stadt,  aber trotzdem absolut ruhig. Yamilla hat uns sehr freundlich empfangen und war immer gut zu erreichen. Vielen Dank für die gute Zeit  in dieser tollen Stadt. "
+  }, {
+    "_id": "76623023",
+    "date": {
+      "$date": {
+        "$numberLong": "1464408000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "61831792",
+    "reviewer_name": "Elissavet",
+    "comments": "The apartment is very spacious and nice decorated. We were 3 couple and our staying was very comfortable . The metro / bus station is so close to the apartment. You can also find anything you want to this neighborhood.. Yamila was a great host ! We had a great week in Barcelona."
+  }, {
+    "_id": "79631362",
+    "date": {
+      "$date": {
+        "$numberLong": "1465790400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "2042925",
+    "reviewer_name": "Andrea",
+    "comments": "Cristina's home worked perfectly for us. Although it is a relatively small space it felt spacious for the five of us. \r\n\r\nThe entrance is through quite a dark courtyard and arriving late at night it did give us pause. But during the day you realize it's an inner courtyard accessed by several apartments, full mostly with families from what we could see.\r\n\r\nThe kitchen had everything we needed for simple meals, the bathrooms worked perfectly, the little reading nook was a favorite space, and the air conditioning in the two primary bedrooms was appreciated as it was a hot week when we stayed. The middle room with the couch that turns into a bed didn't have air conditioning and it took some thinking to get air flowing through that space.\r\n\r\nWe liked the neighborhood as it feels like it is full of locals, not tourists. There are restaurants all around as well as markets and shops, making it very simple to keep everyone happy with food. The metro and bus stops are within a few blocks and very convenient. Both my sister and I used the bus to go to the airport (40 mins or so), though a taxi from the airport was only about 25 Euro.\r\n\r\nNoise does travel easily from apartment to apartment in the courtyard but I was impressed by how well everyone stuck to the quiet hours. From around 11 at night until around 10 in the morning there was very little noise. \r\n\r\nI would happily stay at Cristina's again, both for the comfort of the apartment and the authenticity of the neighborhood."
+  }, {
+    "_id": "80983843",
+    "date": {
+      "$date": {
+        "$numberLong": "1466395200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "18974254",
+    "reviewer_name": "Laura",
+    "comments": "Una casa con mucho encanto, cómoda, tranquila y en un barrio con todo lo necesario a un paso de casa. Sin duda para repetir y recomendar.\r\nNo coincidimos con Cristina pero en su lugar Yamila nos recibió y estuvo pendiente de lo que pudiéramos necesitar.\r\n\r\nMuchas gracias a ambas!!"
+  }, {
+    "_id": "86269797",
+    "date": {
+      "$date": {
+        "$numberLong": "1468555200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "5229323",
+    "reviewer_name": "Kent",
+    "comments": "Great place with all amenities nearby."
+  }, {
+    "_id": "89945577",
+    "date": {
+      "$date": {
+        "$numberLong": "1469851200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "40466469",
+    "reviewer_name": "Dena",
+    "comments": "A family-friendly apartment in a great location vis a vis public transport. The local contacts were really responsive whenever we had issues or questions. I would definitely stay here again!"
+  }, {
+    "_id": "91531385",
+    "date": {
+      "$date": {
+        "$numberLong": "1470369600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "2453462",
+    "reviewer_name": "Philippe",
+    "comments": "Appartement agréable, bien équipé et bien situé. "
+  }, {
+    "_id": "93428812",
+    "date": {
+      "$date": {
+        "$numberLong": "1470974400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "17096056",
+    "reviewer_name": "Michael",
+    "comments": "Great place, great location - everything as described and Xavi was very helpful both on arrival and departure, Michael"
+  }, {
+    "_id": "98795690",
+    "date": {
+      "$date": {
+        "$numberLong": "1472702400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "30555566",
+    "reviewer_name": "Dulcie",
+    "comments": "we were so happy with our stay. they flat was very clean spacious the kitchen and the whole flat was well stocked even with water and kitchen roll - very good with kids! we had a great time there really liked the area and the friendly communication leading up and during our stay. The outdoor space is overlooked by many other apt which is fine but maybe something to note if you have small loud kids! thank you for having us!"
+  }, {
+    "_id": "101531770",
+    "date": {
+      "$date": {
+        "$numberLong": "1473739200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "16011515",
+    "reviewer_name": "Matthew",
+    "comments": "We had a fabulous time in Barcelona. Staying at Cristina’s house was the perfect place to explore the city and surrounding area. \r\n\r\nYamila gave very good directions prior to arriving at the house, and additional advice on arriving by public transport to the house. \r\nThe Poble Sec metro station is only 5 minutes away from the house that connects to the airport via the train or you can catch the Eurobus to Espanya. It is only a 10-15 minutes walk away. All very easy.\r\n\r\nThe house was beautiful & everything described in their advert.\r\nIt was situated in a secure gated community with other residents which felt very safe. \r\nIt was clean and easily accommodated 6 adults with plenty of space to sit & relax, both in the house or outside on the downstairs patio or upstairs on the 2 balconies. \r\n\r\nIt was a great base for to discover the city, with all the main shopping areas, museums and cafes in easy access either by walking or by Metro. We tended to walk into the city, and catch the metro back.\r\n\r\nThere was a small supermarket across the road, plus many local shops nearby including butchers, fishmongers, bakery and a 24-hour shop.\r\n\r\nWe had no issues during our stay, but Yamila was easy to communicate with, and responded quickly to confirm our leaving plans. \r\n\r\nWe would fully recommend staying at Cristina’s house.\r\n"
+  }, {
+    "_id": "107732072",
+    "date": {
+      "$date": {
+        "$numberLong": "1476244800000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "13782735",
+    "reviewer_name": "Dani",
+    "comments": "Hemos estado cinco días muy agusto. Nos han tratado muy bien y el piso ha cumplido las espectativas."
+  }, {
+    "_id": "110931723",
+    "date": {
+      "$date": {
+        "$numberLong": "1477713600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "60640940",
+    "reviewer_name": "Pierre",
+    "comments": "Nous avons reçu plusieurs courriels avant notre arrivée. L'accueil a été très chaleureux. L'hôte a été très empressée de répondre à nos questions et à nos besoins que ce soit pour imprimer des billets pour des visites touristiques ou encore pour nous donner des références en raison d'un problème médical. \r\nL'appartement est très bien situé, à proximité d'une station de métro, d'une boulangerie, poissonnerie, boucherie, épicerie et pharmacie.\r\nL'appartement est spacieux et les deux salles de bain dont l'une avec bain et l'autre avec douche sont très pratiques. Nous sommes enchantés de notre séjour. Nous n'avons aucune hésitation à recommander cet appartement. Un gros merci!"
+  }, {
+    "_id": "124539792",
+    "date": {
+      "$date": {
+        "$numberLong": "1483333200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "12124222",
+    "reviewer_name": "Lénaig",
+    "comments": "Logement très bien équipé, très agréable, aménagé avec goût, adapté à une famille jusqu'à 4 enfants. L'espace lecture / jeu très apprécié des enfants. Les 2 belles terrasses et le balcon permettent de profiter d'une situation au calme, en fond de cour. Facilité à proximité : supermarché en face, boulangerie à côté, métro à 2 mn à pied."
+  }, {
+    "_id": "133390218",
+    "date": {
+      "$date": {
+        "$numberLong": "1487739600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "112550651",
+    "reviewer_name": "Shahar",
+    "comments": " our trip was wonderfall and cristina house was even more.\nwe couldn't ask for more.\nthe house was spacious,clean,comfortable and really domestic.\nthe location was also great and  we used the bakery and the supermarket(5 meter away!) every morning.\n at our next trip to barcelona we absolutely gonna check the possibility to rent again cristina, home and also recommend friends that looking for place at barcelona (: \nthank you and yamilia very much!"
+  }, {
+    "_id": "134127068",
+    "date": {
+      "$date": {
+        "$numberLong": "1488085200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "30679717",
+    "reviewer_name": "Anne",
+    "comments": "Tout est conforme à l'annonce!! Très bien accueillis à notre arrivée! Seul bémol, la voiture!! Législation barcelonaise compliquée, couleurs autorisées ou non, du coup atterrissage à la fourrière...Donc pensez à suivre les indications du loueur pour rejoindre un parking \"officiel\"!!\nRAS concernant l'appart, pour pinailler: la 2ème chambre double manque d'intimité car ouverte sur les escaliers donc pas d'isolation phonique possible.\nNous remercions Christina mais surtout Yamila qui s'est occupée de nous sur place!"
+  }, {
+    "_id": "137243505",
+    "date": {
+      "$date": {
+        "$numberLong": "1489464000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "59759532",
+    "reviewer_name": "Anna",
+    "comments": "Lovely place. The description is really good and we couldn't be happier with the apartment and everything else.\nHighly recommend."
+  }, {
+    "_id": "142419377",
+    "date": {
+      "$date": {
+        "$numberLong": "1491624000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "18375197",
+    "reviewer_name": "Jo",
+    "comments": "The apartment was very well located with easy access to lots of good places to visit. The area itself was not at all touristy and had a very authentic local feel. There was a supermarket across the road and a fab bakery right next door! The apartment was very comfortable with lots of homely touches which made it feel like a home away from home."
+  }, {
+    "_id": "147304993",
+    "date": {
+      "$date": {
+        "$numberLong": "1493179200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "94148454",
+    "reviewer_name": "Olivier",
+    "comments": "Une semaine à Barcelone formidable, dans un logement super bien équipé, calme, à proximité de commerces et proche d'une station de métro, c'est ce qu'il faut pour un séjour réussi. Tout correspondait à la description faite sur le site. L'accueil de Yamila est super sympa. Merci pour toutes ses explications et sa gentillesse. Une adresse à recommander vivement. Merci à Cristina et Yamila "
+  }, {
+    "_id": "150082503",
+    "date": {
+      "$date": {
+        "$numberLong": "1494129600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "91663630",
+    "reviewer_name": "Leo",
+    "comments": "Todo excelente! Gerne wieder!"
+  }, {
+    "_id": "152561889",
+    "date": {
+      "$date": {
+        "$numberLong": "1494993600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "66847538",
+    "reviewer_name": "Silviu",
+    "comments": "The apartment is everything we expected and what you see is what you get. The pictures tell the story, it was clean, it has a lot of space, the little terrace in the backyard is just perfect to relax on after a long day walk.\n\nThe metro station is indeed super close to the apartment and in 2 stops you are on Rambla and Columb's Monument is in plain sight. There's a shop right across the street and a larger one around the corner. There is even a pizza place next to it.\n\nIt took us about 45 minutes to get there from the airport, but it's a simple route.\n\nOverall, the apartment is great, the hosts are lovely people and very helpful. We had a blast in Barcelona and we just hope we'll be back soon.\n\nThank you for everything :)"
+  }, {
+    "_id": "153244050",
+    "date": {
+      "$date": {
+        "$numberLong": "1495252800000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "52665522",
+    "reviewer_name": "Timothy",
+    "comments": "Great location and values!"
+  }, {
+    "_id": "155026768",
+    "date": {
+      "$date": {
+        "$numberLong": "1495857600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "11807",
+    "reviewer_name": "Branimir",
+    "comments": "Very spacious, bright, clean, and well laid out two story apartment. All facilities in order (kitchen, internet, bathrooms...). Great for a family. "
+  }, {
+    "_id": "156435265",
+    "date": {
+      "$date": {
+        "$numberLong": "1496116800000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "131144374",
+    "reviewer_name": "Mercedes",
+    "comments": "Barrio cómodo, bien comunicado. La casa está muy bien. Tiene terraza, y tiene encanto."
+  }, {
+    "_id": "158700575",
+    "date": {
+      "$date": {
+        "$numberLong": "1496894400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "97914891",
+    "reviewer_name": "Johanna",
+    "comments": "Lovely two floor mezzainein poble sec. There is a very nice open plan living room, dining room and kitchen. There are also 3 bedrooms which suited our group of 5 friends. There is s lovely terrace and two balconies. It was great that basics such as coffee were supplied. It is a quiet area but with a bakery opposite and lots of bars/ restaurants near by. You are only 5 minutes walk from the metro and 20 from las ramblas"
+  }, {
+    "_id": "160054276",
+    "date": {
+      "$date": {
+        "$numberLong": "1497240000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "73088682",
+    "reviewer_name": "Boyang",
+    "comments": "地段不错,就是还要提供护照什么的"
+  }, {
+    "_id": "162240858",
+    "date": {
+      "$date": {
+        "$numberLong": "1497931200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "13361777",
+    "reviewer_name": "Tanya",
+    "comments": "What a wonderful place!! My family and I (a group of 4) stayed here for a full week in June. At the time, Barcelona was having an unusual heat wave, so Cristina's place ended up being a true oasis for us! Poble Sec is a great neighborhood and allows for easy access to many of the main attractions in Barcelona. We would regularly walk a couple short blocks to the main road, Paral Lel, and easily catch a taxi to the beach or to Oldtown for sightseeing etc. It's possible to walk to many sights, but during the heat wave we had to rely on rides!\nThe house itself was lovely, fully equipped kitchen, two bathrooms and a very comfortable living room. The downstairs patio magically stays cooler than anywhere else outside so we sat there often. Everything was clean and easy to use!\nThere is a wonderful bakery next door that we went to every morning. Two great plazas in either direction a block away for coffees, sandwiches, tapas and drinks. And, there is a market directly across the street so you always have access to necessities. Carrer Blai is a lively street very close by that is buzzing at night with great people watching. This is a fantastic place for pinxtos, with every option you can imagine. This is a great street for lounging with drinks in outdoor seating and seems to be filled with locals and tourists alike.\nCristina was fast with communication and gave lots of information about the house and area. Yamilla helped us check in and out, and was so kind and helpful!! We loved our stay and absolutely recommend staying here while you are in Barcelona!!"
+  }, {
+    "_id": "164391647",
+    "date": {
+      "$date": {
+        "$numberLong": "1498536000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "122065301",
+    "reviewer_name": "Johanna",
+    "comments": "Amazing flat in a great location! Everything ran smoothly with the owner and flat is very well equipped. \nHighly recommended!"
+  }, {
+    "_id": "165883845",
+    "date": {
+      "$date": {
+        "$numberLong": "1498968000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "128753526",
+    "reviewer_name": "Denise",
+    "comments": " Of the three cities we visited on our family trip Europe - BCN was the absolute best and this amazing apt. in Pablo-Sec helped make our experience perfect.  Our host was a total delight - really good at her job!  She met us at the exact appointed times, and I knew that I could count on her if anything went awry.  She was great at providing us with so many useful details about the area and for giving me all the instructions that I needed to cook and do laundry. (I guess I can't get away from that - even on vacation!!!)  \nThe house was super comfortable for me, my husband, and our two teen boys. It was also VERY clean and tidy.  Everyone had their own space - which was a welcome departure from what we experienced in London and Paris.   We did rely on the air conditioning at night. It was pretty hot for us - as we come from Oregon and are not so used to it!  We made good use of the patio, that's for sure!  (Actually, there are three outdoor patios in this home, but the one on the bottom floor, off the kitchen, got the most use by us.)  \nThe baths were great - just fine.  We are a very tall family (all the men are over 6'5\") so it was good to use a shower that they could stand up in!  \nThe kitchen was really great to use and provided everything we needed!  I was so grateful for how thoughtfully everything was provided to us as guests.  \nThe location is ideal - it's just two blocks from the Metro and the neighborhood has all the shops you need for local shopping - a bakery, a butcher, a Super Mercado and tons of cafes.  It's not a touristy location at all - which we loved.   My boys went down to the beach almost every day we were there - to swim, drink beer (and look at the awesome women !!) and my husband and I explored the beautiful streets and art and culture of Barcelona - all within easy reach.  \nWe hope to come back!  We would love to book again and certainly recommend this very nice Pablo-sec apt to friends and family... and anyone reading this review!\nDenise Slattery and Steve Michener\nLake Oswego, Oregon\n"
+  }, {
+    "_id": "173819433",
+    "date": {
+      "$date": {
+        "$numberLong": "1500868800000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "61781479",
+    "reviewer_name": "Annalisa",
+    "comments": "Wonderful apartment in a great location. Really close to the metro, buses and places to walk to.\nSupermarket opposite made life very easy. Lots of space in the apartment for family to spread out or be together.\nWould recommend!"
+  }, {
+    "_id": "178658065",
+    "date": {
+      "$date": {
+        "$numberLong": "1501992000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "122484322",
+    "reviewer_name": "银红",
+    "comments": "房子很大,很宽敞｡设施很齐全,甚至连孩子的便盆都有｡楼下就是超市,离地铁站也很近,生活很便利｡"
+  }, {
+    "_id": "181583216",
+    "date": {
+      "$date": {
+        "$numberLong": "1502596800000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "14331742",
+    "reviewer_name": "Marilyn",
+    "comments": "Appartement très bien équipé, proche des commerces (un supermarché en face) et des sites touristiques (Ramblas à 10 min à pied et Fontaine de Montjuic à 5 min) avec un parking municipal proche où il est possible de prendre un abonnement à la semaine. L'accueil de Xavi a été parfait, c'est une personne chaleureuse, professionnelle  et très ponctuelle! L'appartement a beaucoup de qualité, très bien équipé, grand et propre. Un seul bémol est la pièce principale qui est un peu sombre et sans climatisation, il fait un peu chaud l'été! Cependant les chambres sont climatisées et cela permet de bien dormir, de plus cet appartement est très calme ! Excellent séjour !"
+  }, {
+    "_id": "183100279",
+    "date": {
+      "$date": {
+        "$numberLong": "1502856000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "69463974",
+    "reviewer_name": "Marco",
+    "comments": "Cristina's apartment is great, wonderfull. It's wide, spacious, quiet, delightful. Perfect for a family. The apartment isn't far to the city center (15/20min by walk) and within walking distance to the main public transport, metro and bus. For those arriving in Barcelona by car, near the apartment (3 minuts by walk) there is a municipal parking named \"Aparcament Municipal Rius and Taulet\". With special rates for 3/5/7 days, during this time you have the opportunity to use the same ticket to park the car in several municipal parking located around the city and close to several turistic attractions: Sagrada Familia, Parc Guell, Barceloneta, etc... Barcelona is great! like its people! Last but not least, Cristina and her assistants are perfect hosts. They are always fast to reply at your  questions and very helpful. Thank you again Cristina."
+  }, {
+    "_id": "188882123",
+    "date": {
+      "$date": {
+        "$numberLong": "1504152000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "13879778",
+    "reviewer_name": "Alexander",
+    "comments": "Great location, everything went as expected."
+  }, {
+    "_id": "191853794",
+    "date": {
+      "$date": {
+        "$numberLong": "1504929600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "28870773",
+    "reviewer_name": "Michele",
+    "comments": "Cristina and her team were fantastic communicators from the start to the check out time. The house was clean and had all the household items you needed for a weeks stay. I appreciated Xavi's availability, recommendations and his kind personality. Location is a bit off the beaten track and it felt really nice to be in a more neighborhood-like location of the city instead of right in the center of all the tourists. Easy access to the metro as well as several bars, restaurants and supermercats. I would definitely recommend Cristina's flat to others visiting Barcelona!"
+  }, {
+    "_id": "194141058",
+    "date": {
+      "$date": {
+        "$numberLong": "1505534400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "60369676",
+    "reviewer_name": "Ana",
+    "comments": "The apartment was exactly as it was in photos. Cosy, well equiped and close to metro station. Although we haven't met Cristina on person, she aranged everything that was needed."
+  }, {
+    "_id": "198631050",
+    "date": {
+      "$date": {
+        "$numberLong": "1506744000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "37569260",
+    "reviewer_name": "Di",
+    "comments": "Our holiday in Barcelona is wonderful because of Cristina's house and all help from her assistant Yamila! It's warm, beautiful, quiet, comfortable and fully equipped. It's within 10 minutes walking distance from the subway station and supermarkets are around the house.\nThanks to the help from Cristina and her assistant Yamila, looking forward to returning to this beautiful city and returning to the same house that like home!\n我们在巴塞罗那的假期,因为Cristina的房子还有她助手Yamila的全程帮助而完美｡温馨美丽,安静舒适,设施齐全,距离地铁站步行距离都在10分钟内,好几家超市就在附近｡\n感谢Cristina和她的助手Yamila对我们的帮助,期待再回到这座美丽的城市旅行,再回到这个家一样的房子~"
+  }, {
+    "_id": "203600360",
+    "date": {
+      "$date": {
+        "$numberLong": "1508040000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "44876631",
+    "reviewer_name": "Ralph",
+    "comments": "All the information was sent to us ahead of time. Before we arrive, we knew exactly who to contact, what to do, how to reach the apt and all needed info. That was really great.\nWhen we reached the place, the entrance  of the building was a bit old and unexpected but we got used to it. The apt is completely renovated from the inside and totally clean. \nThe person we were supposed to meet was very helpful, answered all the questions and gave us some advises for the area.\nA supermarket is just across the main door and many restaurants are just around.  We felt safe and secure.\nI would recommend this place."
+  }, {
+    "_id": "221678023",
+    "date": {
+      "$date": {
+        "$numberLong": "1514350800000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "160215232",
+    "reviewer_name": "Fleur",
+    "comments": "Tout comme les locataires précédents, nous avons été conquis par cet appartement propre, fonctionnel et bien équipé. \nLe quartier, populaire, rempli de petits commerces et la proximité de la station de métro ont grandement facilité notre séjour avec notre petit garçon de 3 ans.\nLes contacts par mails avec Cristina ont toujours été précis et l'accueil de Yamila a été chaleureux. Nous avons réussi à nous comprendre malgré nos lacunes en espagnol et en anglais.\nNous avons senti qu'elles avaient à coeur de choyer leurs hôtes. \nC'était notre première expérience en airbnb et nous en sommes ravis !\nEt Barcelone, c'est GENIAL !!"
+  }, {
+    "_id": "237479764",
+    "date": {
+      "$date": {
+        "$numberLong": "1519362000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "56979612",
+    "reviewer_name": "Volley",
+    "comments": "Appartement très propre, bien équipé, parfait pour une famille de 5. Chauffage nickel, et très calme malgré la localisation."
+  }, {
+    "_id": "239074744",
+    "date": {
+      "$date": {
+        "$numberLong": "1519794000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "35688857",
+    "reviewer_name": "François-Xavier",
+    "comments": "Our stay was short but we really enjoyed the place with a very nice living room and terrasse."
+  }, {
+    "_id": "240211635",
+    "date": {
+      "$date": {
+        "$numberLong": "1520139600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "392560",
+    "reviewer_name": "Nicky",
+    "comments": "Beautiful, stylish and cozy apartment with everything you need. Great neighborhood close to sights, public transport and awesome restaurants/ cafes. An amazing hosts who truly cares about her guests. We loved it."
+  }, {
+    "_id": "242786349",
+    "date": {
+      "$date": {
+        "$numberLong": "1520913600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "25853022",
+    "reviewer_name": "Mary",
+    "comments": "Cristian's Place in Poble Sec was the PERFECT place for us! We used it as our base for the Barcelona Marathon and the location was ideal. Only a couple of blocks away from the Start and Finish, it was also a quick walk to the Metro which meant  we had the opportunity to see our runners multiple times over the race. The apartment was very comfortable with every imaginable amenity, loads of fresh air balconies, comfortable beds, and terrific restaurant recommendations from Cristina. Yamila was a great communicator and met us with keys and all kinds of helpful information. We would highly recommend Cristina's place to families and running groups alike!"
+  }, {
+    "_id": "243828246",
+    "date": {
+      "$date": {
+        "$numberLong": "1521259200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "5884991",
+    "reviewer_name": "Christine",
+    "comments": "Ruim apartement, goede ligging, vlakbij openbaar vervoer,  veel supermarkten en winkels in de buurt. We hebben een heel fijn verblijf gehad. Cristina en Yamila reageren snel en zijn erg behulpzaam. We raden dit apartment zeker aan."
+  }, {
+    "_id": "246753154",
+    "date": {
+      "$date": {
+        "$numberLong": "1522036800000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "12915039",
+    "reviewer_name": "Rasmus",
+    "comments": "Very nice and spacious apartment right in the middle of a fantastic neighborhood. Great apartment for travelling with kids! All the facilities you could ever need, and a superb base for exploring Barcelona. Highly recommendable!"
+  }, {
+    "_id": "247981382",
+    "date": {
+      "$date": {
+        "$numberLong": "1522382400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "106526836",
+    "reviewer_name": "Amelia",
+    "comments": "This apartment shines for the location: a lovely bakery next door, supermarket across the street, restaurants not far away, and a metro station at a two minute walk. \n\nThe apartment itself is very comfortable and well-appointed. Explore the kitchen cupboards before you shop, as there are quite a few basic items already available! The beds are easy to sleep in and there is plenty of storage place for clothes. The whole apartment is well-kept and scrupulously clean. \n\nOne thing to be aware of is that the walls between houses aren’t very sound-proof, and windows in the neighbourhood are generally kept open, so you will hear some of what’s going on next door. However the whole neighbourhood becomes very quiet in the evening and we had no trouble sleeping. \n\nOverall, a real gem and thoroughly recommended."
+  }, {
+    "_id": "249601738",
+    "date": {
+      "$date": {
+        "$numberLong": "1522641600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "167492607",
+    "reviewer_name": "Heikki",
+    "comments": "Cristina's place was very nice and the location was good. Metro stop is just around the corner, so transportation was super easy. We had a 5 person group staying there for three nights. Communication with the host was really fast and punctual."
+  }, {
+    "_id": "252015847",
+    "date": {
+      "$date": {
+        "$numberLong": "1523246400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "13643736",
+    "reviewer_name": "David",
+    "comments": "Unfortunately, i book this apartment on behalf of other people, but i think they love the house. I just hope that the guys were good with the owner."
+  }, {
+    "_id": "256151047",
+    "date": {
+      "$date": {
+        "$numberLong": "1524369600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "166604769",
+    "reviewer_name": "Nicolas",
+    "comments": "Nous avons passé une agréable semaine dans l'appartement de Cristina avec un couple d'ami et leurs deux enfants. L'appartement est très agréable, très bien placé (2 min du métro, supérette en face, boulangerie à côté) et bien équipé. La deuxième chambre double est peut être un peu petite mais nous n'étions pas à Barcelone pour rester dans les chambres. Son emplacement en arrière cour en fait un lieu calme, agréable après une journée à courir les rues. L'accueil a été très sympathique et souple, les contacts réguliers pendant la semaine répondant à nos questions, cherchant des solutions de transport pour se rendre à l'aéroport."
+  }, {
+    "_id": "259953442",
+    "date": {
+      "$date": {
+        "$numberLong": "1525320000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "152717504",
+    "reviewer_name": "Georgios",
+    "comments": "We stayed at Cristina’s place for four nights ( a couple ). House is as described and even better, in a very nice neighberhood, less crouded with nice places to eat and deink. Metro station is 2-3 minutes walk and very convenient to use for sight seeing.\nThe house is fully equiped and clear instructions for everythring are provided. \nCommunication with Yamilla was perfect and she was very friendly and willing to assist if needed ( although everything was perfect). The whole approach was very professional and friendly at the same time.  although our flight was delayed, Yamilla was available and waiting for us, very polite and friendly\nHighly recommended place, would defenitely choose again!"
+  }, {
+    "_id": "264002742",
+    "date": {
+      "$date": {
+        "$numberLong": "1526184000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "12494338",
+    "reviewer_name": "Fabienne",
+    "comments": "Appartement très agréable. Équipements très complets. Proche du métro, des commerces mais aussi d’une rue piétonne avec restos à tapas."
+  }, {
+    "_id": "266050458",
+    "date": {
+      "$date": {
+        "$numberLong": "1526702400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "134558010",
+    "reviewer_name": "Wing",
+    "comments": "Excellent value,  4 min to Metro Subway,  many convenience stores and small supermarkets within a few minutes of walk and some open really late.  Bakery open early right next to front entrance of the complex.  Unit can sleep 6 with 2 bathrooms.  However , only one fully functional shower and space is tight. Otherwise tones of space everywhere with excellent kitchen.  Extra tall ceiling and bright."
+  }, {
+    "_id": "267938606",
+    "date": {
+      "$date": {
+        "$numberLong": "1527048000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "53603942",
+    "reviewer_name": "Anne-Lise",
+    "comments": "Nous avons loger pendant 5 jours chez Cristina entre copines. Nous étions 5 et nous avons eu de la place pour chacune. L'appartement est vraiment ultra équipé, n'emmenez rien, Cristina et son amie Yamila ont pensé à tout! L'emplacement dans Barcelone est extra, un 3mn du métro. Le quartier est calme, il y a des commerçants juste devant la porte pour les courses. La cours intérieure est typique et adorable, un mix entre la beauté de l'ancien et la simplicité du contemporain. Bref nous avons adoré l'appartement et nous avons été chouchoutée par Yamila et Cristina. Deplus nous avons pu très rapidement rajouter une nuit ( problème avion) car Cristina est ultra réactive. Si je retourne à Barcelone un jour, c'est certain j'irai chez Cristina!"
+  }, {
+    "_id": "270444632",
+    "date": {
+      "$date": {
+        "$numberLong": "1527566400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "74511000",
+    "reviewer_name": "Deborah",
+    "comments": "I really cannot fault this apartment. It is in a great location, there is a grocery shop and bakery literally just outside the door. We had 2 teenagers with us and to have 3 bedrooms was just a luxury. The apartment is spacious, stylish and quirky and it was equipped with everything you could need, we all loved it! Check in was brilliant, despite us arriving late due to a delayed flight and check out was also seamless and they even arranged a taxi for us. I highly recomend."
+  }, {
+    "_id": "272865865",
+    "date": {
+      "$date": {
+        "$numberLong": "1528084800000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "5897345",
+    "reviewer_name": "Lior",
+    "comments": "Stay was great in Christina's place. It is located in a nice area, new developing neibourhood, 20 minutes walk or short metro from la ramblas. The house is fully equipped with everything u need to cook and dine. Balconies are nice too."
+  }, {
+    "_id": "276625931",
+    "date": {
+      "$date": {
+        "$numberLong": "1528948800000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "30670912",
+    "reviewer_name": "Yu",
+    "comments": "很舒服的住宅小区,安静,便利,门口的超市很方便,超市旁边有水果店,便宜又好吃｡出行既有公交巴士又有地铁非常便利｡而且周遭属于比较安全的小区环境,门口前面有个社区广场,非常多的孩子们在这里上学习班,感觉很安心｡房东们也很负责｡"
+  }, {
+    "_id": "278484224",
+    "date": {
+      "$date": {
+        "$numberLong": "1529294400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "14602537",
+    "reviewer_name": "Pablo",
+    "comments": "The location, surroundings, facilities and service were perfect. The area is well connected, splendid for several days trip in Barcelona. I totally recommend it and hopefully we’ll stay again next year. The communication with Yamila was always fluid and really friendly. Top choice!!"
+  }, {
+    "_id": "284030604",
+    "date": {
+      "$date": {
+        "$numberLong": "1530417600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "503485",
+    "reviewer_name": "Carmen",
+    "comments": "We absolutely loved staying here. It is a true living in a community feeling. The neighbors were lovely. The apartment was clean and felt like a home. The location is perfect. Yamila and Christina were fabulous hosts. We miss it already. Thank you very much. Kind regards Carmen."
+  }, {
+    "_id": "285556876",
+    "date": {
+      "$date": {
+        "$numberLong": "1530676800000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "72862997",
+    "reviewer_name": "Oscar",
+    "comments": "great house and value!"
+  }, {
+    "_id": "296116502",
+    "date": {
+      "$date": {
+        "$numberLong": "1532491200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "172673470",
+    "reviewer_name": "Annelise",
+    "comments": "Very, very nice appartement in a local neightborhood, it's to be recommended."
+  }, {
+    "_id": "300061268",
+    "date": {
+      "$date": {
+        "$numberLong": "1533096000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "48270374",
+    "reviewer_name": "Sandrine",
+    "comments": "Nous venons de passer une semaine chez Cristina avec nos 2 enfants et nous garderons un très bon souvenir de ce nid douillet.\n Cet appartement possède de très nombreuses qualités : \n-l'emplacement est exceptionnel, à 150m d'une station de métro , au calme absolu, dans une rue tranquille.\n-il possède la clim, et c'est indispensable à Barcelone en Juillet.\n-il est spacieux, (beaucoup plus qu'il n'y paraît sur les photos), haut de plafond.Tout est très propre, et l'équipement est complet ( vaisselle cuisine, toaster, bouilloire, nespresso, sèche-cheveux, machine à laver etc...)\n-rien ne manque, on se sent tout de suite comme chez soi, et nous avons pris tous nos petits déjeuners sur le patio.\n-la literie est très bonne pour tous les lits (et je suis généralement très exigeante sur ce point).\n-le quartier est populaire ,familial, sympathique et la rue de Blai qui se trouve à 5min de marche vous offre de nombreux bars à tapas!\n- il y a une supérette juste en face de l'appartement. Aussi une boulangerie, un marchand de fruits et légumes.\n-l'organisation arrivée/départ est parfaitement bien rodée , nous remercions Javier pour son extrême gentillesse et sa grande disponibilité! \nAucun défaut, allez-y les yeux fermés ! Barcelone est une ville dynamique, culturelle, festive et les barcelonais sont tous très accueillants et ont le sens du service !\nQuel dommage d'avoir du repartir ce matin..."
+  }, {
+    "_id": "312861734",
+    "date": {
+      "$date": {
+        "$numberLong": "1535083200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "199948950",
+    "reviewer_name": "Tom",
+    "comments": "Super séjour"
+  }, {
+    "_id": "319431062",
+    "date": {
+      "$date": {
+        "$numberLong": "1536206400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "175175236",
+    "reviewer_name": "Ken",
+    "comments": "Our group of six really enjoyed staying at this place. There were all the necessary items needed and the location was ideal. Nice bakeries and butcher shops nearby and walking distance to most attractions one would want to see in Barcelona."
+  }, {
+    "_id": "322464094",
+    "date": {
+      "$date": {
+        "$numberLong": "1536811200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "81511832",
+    "reviewer_name": "Cláudia",
+    "comments": "Great location, very clean and wide apartment. Perfect for families with kids.\nThe host communicated very clearly and was very helpful.\nThe only thing that can be a problem is the amount of light that comes in in the morning on the extra room."
+  }, {
+    "_id": "326830589",
+    "date": {
+      "$date": {
+        "$numberLong": "1537675200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "152403270",
+    "reviewer_name": "Max",
+    "comments": "We (2 couples) stayed at Cristina's place in Poble Sec for a week in Sept. 2018.  We loved the location.  Local coffee shop on the corner.  Tapas restaurants in the square.  Grocery store across the street.  The apartment was well equipped and sparkling clean.  Yamila was responsive to all our texts, inquiries and went out of her way to ensure we had a great stay."
+  }, {
+    "_id": "331618562",
+    "date": {
+      "$date": {
+        "$numberLong": "1538539200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "177702556",
+    "reviewer_name": "Manuela",
+    "comments": "großzügige Wohnung wie auf den Fotos, gute Ausstattung, leider durch die dichte Bebauung recht dunkel, kaum Sonne. Nachbarn teils etwas lästig (geruch, gemecker, laute Unterhaltung bis Mitternacht).\nüber öffentliche Verkehrsmittel gut zu erreichen, recht zentral, nahe belebter Strassen Aber trotzdem kein Verkehrslärm.\nBäcker gleich nebenan und kleiner Supermarkt sowie obst Händler."
+  }, {
+    "_id": "334514014",
+    "date": {
+      "$date": {
+        "$numberLong": "1539057600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "49646890",
+    "reviewer_name": "Mário",
+    "comments": "Apartamento com ótima localização, próximo ao metrô e com supermercado e frutaria exatamente na porta."
+  }, {
+    "_id": "339866976",
+    "date": {
+      "$date": {
+        "$numberLong": "1540180800000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "196208599",
+    "reviewer_name": "Sammy",
+    "comments": "Christina and Yamila's place is lovely, cozy, and spacious. It's conveniently located right outside of the city center. You can get anywhere in a very short amount of time and then come home to a nice quiet neighborhood."
+  }, {
+    "_id": "341153185",
+    "date": {
+      "$date": {
+        "$numberLong": "1540526400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "176240247",
+    "reviewer_name": "L.",
+    "comments": "Bel appartement, bien décoré, très bien placé dans un quartier calme. Bien équipé, avec les transports et plusieurs commerces et restaurants à proximité, et accueil très sympathique. \n\nNice apartment, well decorated, very well placed in a quiet area. Well equipped, with transport and several shops and restaurants nearby, and very friendly welcome."
+  }, {
+    "_id": "349763354",
+    "date": {
+      "$date": {
+        "$numberLong": "1542517200000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "18193682",
+    "reviewer_name": "Caio",
+    "comments": "Gracias por todo, departamento muy bien umbicado y la atención de Yamile fue super! Ojalá nos vemos en el proximo año. Saludos desde Brasil"
+  }, {
+    "_id": "352325431",
+    "date": {
+      "$date": {
+        "$numberLong": "1543122000000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "100861080",
+    "reviewer_name": "Brooke",
+    "comments": "Grocery store across the street, 5 minutes from metro, easy to get to main attractions. House has thin walls and neighborhood isn’t especially quiet, we felt like we had to whisper. Ear plugs were an easy fix for me at night but my husband had a hard time sleeping. Overall nice place to stay though."
+  }, {
+    "_id": "359574041",
+    "date": {
+      "$date": {
+        "$numberLong": "1545022800000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "23901007",
+    "reviewer_name": "Clai",
+    "comments": "Everything went smoothly with the reservation, the keys and the check out. Cristina is easy going and uncomplicated. We had an excellent time in her cozy apartment, well-located, 20 mn by feet to down town. Supermarket and bakery very close, same street. We definitely recommend this place!"
+  }, {
+    "_id": "362323606",
+    "date": {
+      "$date": {
+        "$numberLong": "1545800400000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "54689678",
+    "reviewer_name": "Cong",
+    "comments": "位置好,生活便利,设施和用品齐全,很舒服,就是有一间房没有对外的窗"
+  }, {
+    "_id": "400811154",
+    "date": {
+      "$date": {
+        "$numberLong": "1547355600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "159120291",
+    "reviewer_name": "Diego",
+    "comments": "Good place, however there is no proper noise isolation between neighbours walls and whenever they talked or put music on, you could hear everything. Cristina and Yamila were great hosts though, attentive to our issues. The location is great"
+  }, {
+    "_id": "409293181",
+    "date": {
+      "$date": {
+        "$numberLong": "1549515600000"
+      }
+    },
+    "listing_id": "1112838",
+    "reviewer_id": "8948935",
+    "reviewer_name": "J.J.",
+    "comments": "Beautiful Appartement in a very nice neighbourhood. We really enjoyed the time there. And we had a super and very helpful host. Muchas gracias:))"
+  }]
+}
+
+
+
+{
+  "_id": "11136898",
+  "listing_url": "https://www.airbnb.com/rooms/11136898",
+  "name": "1 or 2 rooms with private terrace in shared flat",
+  "summary": "Room located in the Eixample district in central Barcelona, only 5 minutes walk from Plaza Spain where you find public transport to the airport, other cities etc. It is a penthouse with two terraces on, and lots of light. Private terrace and possibility to receive a third person in another room.",
+  "space": "The flat is situated on the last floor so offers very nice view and lot of privacy. Two big terraces :one is private and especially used by the guest and the other one is commun. One room has a king size bed (2*2m) and the other one has a normal bed (1,5*2m). It is possible for you to cook and to have a great breakfast on the terrace. I hope you will have a great time there.",
+  "description": "Room located in the Eixample district in central Barcelona, only 5 minutes walk from Plaza Spain where you find public transport to the airport, other cities etc. It is a penthouse with two terraces on, and lots of light. Private terrace and possibility to receive a third person in another room. The flat is situated on the last floor so offers very nice view and lot of privacy. Two big terraces :one is private and especially used by the guest and the other one is commun. One room has a king size bed (2*2m) and the other one has a normal bed (1,5*2m). It is possible for you to cook and to have a great breakfast on the terrace. I hope you will have a great time there. It is possible to have access to the kitchen, the bathroom and the two terraces. You can reach me by phone, whatspp, email. This is a very quiet area and very safe. I do everything walking or by bicycle. From the airport, I recommend you to take the aerobus. This is s blue bus, you can not miss it. Then you have to stop at ",
+  "neighborhood_overview": "This is a very quiet area and very safe. I do everything walking or by bicycle.",
+  "notes": "",
+  "transit": "From the airport, I recommend you to take the aerobus. This is s blue bus, you can not miss it. Then you have to stop at plaza España and walk 5 minutes through Gran Via in direction of the center. When you reach Rocafort street, my home is located at number 91. You have to ring at SA located on the left interphone. When you enter into the building, you have to take the elevator in the left NOT the one straight. Then in the elevator please press SA.",
+  "access": "It is possible to have access to the kitchen, the bathroom and the two terraces.",
+  "interaction": "You can reach me by phone, whatspp, email.",
+  "house_rules": "It is not possible to bring guest and no possibility to organize parties. I do not accept children",
+  "property_type": "Apartment",
+  "room_type": "Private room",
+  "bed_type": "Real Bed",
+  "minimum_nights": "2",
+  "maximum_nights": "1125",
+  "cancellation_policy": "moderate",
+  "last_scraped": {
+    "$date": {
+      "$numberLong": "1552021200000"
+    }
+  },
+  "calendar_last_scraped": {
+    "$date": {
+      "$numberLong": "1552021200000"
+    }
+  },
+  "first_review": {
+    "$date": {
+      "$numberLong": "1456290000000"
+    }
+  },
+  "last_review": {
+    "$date": {
+      "$numberLong": "1546405200000"
+    }
+  },
+  "accommodates": {
+    "$numberInt": "4"
+  },
+  "bedrooms": {
+    "$numberInt": "2"
+  },
+  "beds": {
+    "$numberInt": "2"
+  },
+  "number_of_reviews": {
+    "$numberInt": "57"
+  },
+  "bathrooms": {
+    "$numberDecimal": "1.0"
+  },
+  "amenities": ["TV", "Internet", "Wifi", "Air conditioning", "Wheelchair accessible", "Kitchen", "Paid parking off premises", "Smoking allowed", "Doorman", "Elevator", "Indoor fireplace", "Buzzer/wireless intercom", "Heating", "Washer", "First aid kit", "Safety card", "Fire extinguisher", "Essentials", "Shampoo", "Hangers", "Hair dryer", "Iron", "Laptop friendly workspace", "translation missing: en.hosting_amenity_49", "translation missing: en.hosting_amenity_50", "Private entrance", "Hot water", "Bed linens", "Extra pillows and blankets", "Pocket wifi", "Coffee maker", "Refrigerator", "Dishwasher", "Dishes and silverware", "Cooking basics", "Oven", "Luggage dropoff allowed", "Wide doorway", "Well-lit path to entrance", "Wide doorway", "Accessible-height bed", "Step-free access", "Accessible-height toilet", "Step-free access", "Wide entryway", "Host greets you", "Roll-in shower"],
+  "price": {
+    "$numberDecimal": "65.00"
+  },
+  "security_deposit": {
+    "$numberDecimal": "200.00"
+  },
+  "cleaning_fee": {
+    "$numberDecimal": "35.00"
+  },
+  "extra_people": {
+    "$numberDecimal": "25.00"
+  },
+  "guests_included": {
+    "$numberDecimal": "1"
+  },
+  "images": {
+    "thumbnail_url": "",
+    "medium_url": "",
+    "picture_url": "https://a0.muscache.com/im/pictures/0f081e96-e37c-4b18-87df-00ab7c802a23.jpg?aki_policy=large",
+    "xl_picture_url": ""
+  },
+  "host": {
+    "host_id": "3320587",
+    "host_url": "https://www.airbnb.com/users/show/3320587",
+    "host_name": "Capitaine",
+    "host_location": "Barcelona, Cataluña, Spain",
+    "host_about": "Hello I am Christophe, I am French and live in Barcelona since 8 years now. I know a reasonably well the city and I will be happy to advise you on places to visit, restaurant or where to have a nice drink. \r\n\r\nI work in sales and travel also a lot so I know the meaning of \"feel like at home\" when you travel somewhere.\r\n\r\nI really hope you will enjoy your stay in Barcelona.",
+    "host_response_time": "within an hour",
+    "host_thumbnail_url": "https://a0.muscache.com/im/pictures/5d8f894f-0909-49f5-a1d1-6c7aabcf4a34.jpg?aki_policy=profile_small",
+    "host_picture_url": "https://a0.muscache.com/im/pictures/5d8f894f-0909-49f5-a1d1-6c7aabcf4a34.jpg?aki_policy=profile_x_medium",
+    "host_neighbourhood": "La Nova Esquerra de l'Eixample",
+    "host_response_rate": {
+      "$numberInt": "100"
+    },
+    "host_is_superhost": false,
+    "host_has_profile_pic": true,
+    "host_identity_verified": true,
+    "host_listings_count": {
+      "$numberInt": "1"
+    },
+    "host_total_listings_count": {
+      "$numberInt": "1"
+    },
+    "host_verifications": ["email", "phone", "reviews", "jumio", "government_id", "work_email"]
+  },
+  "address": {
+    "street": "Barcelona, Catalunya, Spain",
+    "suburb": "La Nova Esquerra de l'Eixample",
+    "government_area": "la Nova Esquerra de l'Eixample",
+    "market": "Barcelona",
+    "country": "Spain",
+    "country_code": "ES",
+    "location": {
+      "type": "Point",
+      "coordinates": [{
+        "$numberDouble": "2.15395"
+      }, {
+        "$numberDouble": "41.38005"
+      }],
+      "is_location_exact": true
+    }
+  },
+  "availability": {
+    "availability_30": {
+      "$numberInt": "21"
+    },
+    "availability_60": {
+      "$numberInt": "36"
+    },
+    "availability_90": {
+      "$numberInt": "60"
+    },
+    "availability_365": {
+      "$numberInt": "333"
+    }
+  },
+  "review_scores": {
+    "review_scores_accuracy": {
+      "$numberInt": "10"
+    },
+    "review_scores_cleanliness": {
+      "$numberInt": "9"
+    },
+    "review_scores_checkin": {
+      "$numberInt": "10"
+    },
+    "review_scores_communication": {
+      "$numberInt": "10"
+    },
+    "review_scores_location": {
+      "$numberInt": "10"
+    },
+    "review_scores_value": {
+      "$numberInt": "10"
+    },
+    "review_scores_rating": {
+      "$numberInt": "97"
+    }
+  },
+  "reviews": [{
+    "_id": "63592097",
+    "date": {
+      "$date": {
+        "$numberLong": "1456290000000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "59331613",
+    "reviewer_name": "Mandy",
+    "comments": "I had a marvellous time staying in Barcelona and felt very at home x the apartment is fab with two roof terraces and the hospitality is even better.\nCapitaine checked I was ok regularly on my way to the apartment and gave transport, restaurant, general advice all the time I was there. I now have flat envy!! "
+  }, {
+    "_id": "73362217",
+    "date": {
+      "$date": {
+        "$numberLong": "1462680000000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "60298523",
+    "reviewer_name": "Serban",
+    "comments": "My stay here was great. Just like the listing shows, the apartment is very tidy and has two amazing rooftop patios. Its close to a lot of tourist attractions and right next to the subway. The neighborhood is calm and quiet."
+  }, {
+    "_id": "75746336",
+    "date": {
+      "$date": {
+        "$numberLong": "1463889600000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "14624382",
+    "reviewer_name": "Stephanie",
+    "comments": "Die Unterkunft bei Christoph war großartig! Alles so, wie auf den Fotos dargestellt. Meine Tochter und ich haben uns so wohlgefühlt, dass wir gar nicht wieder nach Hamburg zurück fliegen wollten. Christoph war total nett, zuverlässig und ein hilfsbereiter Gastgeber bei allem, was uns am Herzen lag. Wir werden gerne wiederkommen, Barcelona muss man einfach öfter erleben!"
+  }, {
+    "_id": "82295249",
+    "date": {
+      "$date": {
+        "$numberLong": "1467000000000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "77290010",
+    "reviewer_name": "Joyce",
+    "comments": "It was my first time in Spain and first time using airbnb and everything went amazing! Pretty good area for a lot of tourist attractions and the place itself is so clean and nice (his balconies have good views and are very pretty). My friends loved this place as well. Also, Capitaine is an amazing host, always asked me if I needed anything, offered a lot of stuff and even suggested me bars I can go. I would definitely want to stay here again if I visit Barcelona again :)"
+  }, {
+    "_id": "93234006",
+    "date": {
+      "$date": {
+        "$numberLong": "1470974400000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "2283684",
+    "reviewer_name": "Mariella",
+    "comments": "We had a great time staying in Christophe´s apartment. Christophe is a really nice and fun guy and was always extremely helpful and caring. The apartment is great, especially the two huge terraces. The room is perfect for 2 and has its own access to one of the terraces. There is no wardrobe in the room but we could use one in an other room which was fine. The apartment is located right next to a metro station and the airport bus stop is nearby too which is really convenient. The city center and areas with nice restaurants and bars are in walking distance which was perfect for us. We really enjoyed our stay and would definitely come again!"
+  }, {
+    "_id": "94797172",
+    "date": {
+      "$date": {
+        "$numberLong": "1471406400000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "46347877",
+    "reviewer_name": "Lukas",
+    "comments": "Die Unterkunft war sehr toll, vorallem die Terrassen waren wunderschön. Christoph war sehr freundlich und hilfsbereit, ich würde sofort wieder buchen."
+  }, {
+    "_id": "96332178",
+    "date": {
+      "$date": {
+        "$numberLong": "1471838400000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "6227480",
+    "reviewer_name": "Jenny",
+    "comments": "First, I will start by saying how accommodating he was. Second, the flat is as pictured. The views, the views, THE VIEWS. Great location, seconds from the metro and all in all a good stay!  "
+  }, {
+    "_id": "97003225",
+    "date": {
+      "$date": {
+        "$numberLong": "1472097600000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "39977214",
+    "reviewer_name": "Hana",
+    "comments": "The best things of this house are amazing terrace and location. There are two terraces. One is common area which is very spacious and cozy. The other one is only for guest and we loved this place. Sunrise and sunset from terrace were unforgettable. The metro station is on same block, so very convenient. You can go to Katalunya station directly.(only 3 stops). Cristophe is nice guy and helpful! He is always willing to help us. \r\nI can't say the house is perfectly clean. A cleaness is ok but it can be improved. "
+  }, {
+    "_id": "102830126",
+    "date": {
+      "$date": {
+        "$numberLong": "1474257600000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "93446110",
+    "reviewer_name": "Candice",
+    "comments": "Première expérience avec Airbnb, dans un appartement idéalement placé à Barcelone  ( place d'Espagne ) proche du métro, des bus desservant l'aéroport. ...L'appartement et surtout les 2 terrasses dont une privative mérite le détour. Christophe est un hôte très accueillant aux petits soins pour nous. Ravie de ce week end. "
+  }, {
+    "_id": "103558792",
+    "date": {
+      "$date": {
+        "$numberLong": "1474603200000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "10760807",
+    "reviewer_name": "Martin",
+    "comments": "Truly one of the best Airbnb locations I have stayed at. Christophe is so warm and accommodating, and the flat can't be beat for its amazing patio spaces, comfort and ideal location. I only wish I would have been able to spend more evenings there on the patio enjoying the sunset."
+  }, {
+    "_id": "105297833",
+    "date": {
+      "$date": {
+        "$numberLong": "1475294400000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "86285365",
+    "reviewer_name": "Jenika",
+    "comments": "We couldn't have had more a lovely stay. Our host made sure our space was impeccable and not only that he wanted our trip to be a fulfilled one, he had tips for us that even after we left we still followed. If only we could've stayed longer."
+  }, {
+    "_id": "106434744",
+    "date": {
+      "$date": {
+        "$numberLong": "1475726400000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "90634617",
+    "reviewer_name": "Anita",
+    "comments": "Capitaine is a lovely young man who was always available when needed without being intrusive during our stay. Our private room & terrace was lovely. Great views over Barcelona. We had the whole flat mainly to ourselves as Capitaine is a very busy young man on a project of constant improvement. Thanks for a lovely holiday. Anita & Al"
+  }, {
+    "_id": "108958710",
+    "date": {
+      "$date": {
+        "$numberLong": "1476763200000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "13018218",
+    "reviewer_name": "Paulo",
+    "comments": "Espectacular experiencia en el Centro de Barcelona, donde logramos sentirnos en un barrio típico de esa ciudad.  La cercanía con la estación de Rocafort es genial además de la gran cantidad de cafés, restaurantes, pastelerías, supermercados, etc.  La atención de Christophe muy amable y servicial, muy acogedora, siempre atento a nuestras necesidades y consultas.  "
+  }, {
+    "_id": "111892037",
+    "date": {
+      "$date": {
+        "$numberLong": "1478059200000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "94354449",
+    "reviewer_name": "Cristina",
+    "comments": "Cristoph es un excelente anfitrión. Siempre estuvo disponible y atento para cualquier cosa que necesitáramos.  Las fotos reflejan el departamento tal cual es. Muy cómodo y luminoso al igual que su cocina. Las terrazas un verdadero placer!! y la cama muy cómoda. La zona donde está es muy práctica para desplazarse ya sea en metro como en bus. Tambien se puede ir caminando hasta la estación de tren. es una opción muy recomendable."
+  }, {
+    "_id": "135089978",
+    "date": {
+      "$date": {
+        "$numberLong": "1488517200000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "387028",
+    "reviewer_name": "Dmitry",
+    "comments": "Fantastic place and great host, extremely welcoming and caring"
+  }, {
+    "_id": "140163610",
+    "date": {
+      "$date": {
+        "$numberLong": "1490673600000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "36339703",
+    "reviewer_name": "Longhui",
+    "comments": "Christophe is a very nice person. We left the keys inside the house and he was in France at the moment, but he called his friends to open the door for us! The house is close to a metro station of L1. And 5 min walk to Spain square! "
+  }, {
+    "_id": "142769031",
+    "date": {
+      "$date": {
+        "$numberLong": "1491710400000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "13852610",
+    "reviewer_name": "Sarah",
+    "comments": "Christophe is a great host and really made me feel at home. The communication was really smooth and he helped me with every question I had. I really enjoyed staying at Christophe's nice apartment. I appreciated the comfortable bed, the silence and that he offered water, tea and coffee. He was even letting me cook und use from his own food so I hadn't got to rush out on the first evening and organize something. \nThe apartment is nicely furnished and the two terrasses are really amazing. Wished I had had more time to enjoy the wonderful terrasse. \nAnd although I haven't seen hin much I enjoyed the few conversations we had. Christophe is a very friendly person, charming and willing to help make your stay a great experience. \nThanks for everything, Christophe! Staying at your place was definitely a great airbnb experience!"
+  }, {
+    "_id": "145041290",
+    "date": {
+      "$date": {
+        "$numberLong": "1492401600000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "103826885",
+    "reviewer_name": "Marc",
+    "comments": "Christophe is very friendly and proactively asking for possible requests one might have. We had a good time living in his beautiful apartment. Our room and bed was in great condition and the highlight are the two specious Terraces, especially also for guests who like plants and flowers.\nThank you again Christophe, for having been such an excellent host."
+  }, {
+    "_id": "148242094",
+    "date": {
+      "$date": {
+        "$numberLong": "1493524800000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "86757234",
+    "reviewer_name": "Moy",
+    "comments": "I would definitely recommend this place!"
+  }, {
+    "_id": "150164890",
+    "date": {
+      "$date": {
+        "$numberLong": "1494129600000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "61873820",
+    "reviewer_name": "Jenna",
+    "comments": "Christophe is a wonderful host. His apartment was perfect for my stay in Barcelona--clean, comfortable, and gorgeous rooftop space. He left a large bottle of water, tea, and coffee in my room. I enjoyed spending time with Christophe and his friends. He is friendly, accommodating, and knowledgeable about Barcelona. I highly recommend his flat !! :)   "
+  }, {
+    "_id": "152174628",
+    "date": {
+      "$date": {
+        "$numberLong": "1494820800000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "128359993",
+    "reviewer_name": "Adi",
+    "comments": "I defiantly recommend this place. The apartment is charming, the room is very private and nice, the two balconies are just amazing and Christoph is such a good guy. The location is great and very easy to get to where ever you like in no time by the metro. you can also walk to most of the touristic places. don't hesitate, book it"
+  }, {
+    "_id": "155977079",
+    "date": {
+      "$date": {
+        "$numberLong": "1496030400000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "79824156",
+    "reviewer_name": "David",
+    "comments": "Christophe est un hôte super sympa, disponible, prêt à rendre service. Christophe m'a fait partager une soirée avec ses amis, excellent souvenir ! très bon séjour. merci"
+  }, {
+    "_id": "157650084",
+    "date": {
+      "$date": {
+        "$numberLong": "1496548800000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "67404993",
+    "reviewer_name": "Des",
+    "comments": "Pleasant air bnb experience - from the host, the room was great specially the balcony overlooking Barcelona neighborhood. Location was more than perfect, a stone throw away from the Metro. Highly recommended stay! "
+  }, {
+    "_id": "159212486",
+    "date": {
+      "$date": {
+        "$numberLong": "1497067200000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "131049334",
+    "reviewer_name": "Brendan",
+    "comments": "Really nice apartment in a great location , underground station less than 2 min away .\nI really liked the neighbourhood friendly locals and some authentic Spanish food to be had. \nHost was great gave me some recommendations for good restaurants and even a club nearby. \nOverall a great experience "
+  }, {
+    "_id": "165996214",
+    "date": {
+      "$date": {
+        "$numberLong": "1498968000000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "131544706",
+    "reviewer_name": "Margarita",
+    "comments": "It's a great spacious apartment with a huge terrace , lots of light and many plants. Everything is clean and in a good condition. The host is super friendly, easy going and helpful!"
+  }, {
+    "_id": "167860548",
+    "date": {
+      "$date": {
+        "$numberLong": "1499486400000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "22439434",
+    "reviewer_name": "Johann",
+    "comments": "One of the best places to find in Barcelona! Christophe is a fantastic host, super helpful and reliable. He welcomed us with coffee and gave us great recommendations for our sightseeing and dinner plans. You can feel that he really wants to make sure his guests have the best time in the city of his choice.\nThe room was tidy and clean, has AC and comes with a private rooftop terrace overlooking the city. What else could you ask for?"
+  }, {
+    "_id": "172004145",
+    "date": {
+      "$date": {
+        "$numberLong": "1500436800000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "7867852",
+    "reviewer_name": "Adam",
+    "comments": "Such a cool place, I'm sure that Il Capitaine is equally cool!  We had a great time here - dreamy long evenings out on the terrace and cool lie-ins to recover from Barcelona's many temptations. Recommended. "
+  }, {
+    "_id": "175236980",
+    "date": {
+      "$date": {
+        "$numberLong": "1501214400000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "139853240",
+    "reviewer_name": "Arno",
+    "comments": "Such a wonderful appartement! Wonderful appartement! Christophe is a very kind and flexible host. He offered us coffee and provided us with infos about the city. And it was sooo relaxing sitting on our private terrasse looking at the Barcelona. skyline. We definitely want to come back soon! :)"
+  }, {
+    "_id": "177934854",
+    "date": {
+      "$date": {
+        "$numberLong": "1501819200000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "315167",
+    "reviewer_name": "Virginie",
+    "comments": "Well deserved Super Host! Christophe was friendly, reliable and funny.\nIt was a really nice stay in such a beautiful Appartment. Our room was clean and cozy and we had our own Terrasse. Recommendable! "
+  }, {
+    "_id": "186061356",
+    "date": {
+      "$date": {
+        "$numberLong": "1503460800000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "40094413",
+    "reviewer_name": "Stuti",
+    "comments": "Love the place! It's clean and tastefully done. A huge living space and two balconies one next to our bedroom and the other from the living room with lots of plants and a stunning view of the city.  Plenty of natural light that just made it a happy sunny place for us. Definitely visiting again. Cheers!"
+  }, {
+    "_id": "188692869",
+    "date": {
+      "$date": {
+        "$numberLong": "1504065600000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "140515843",
+    "reviewer_name": "승훈",
+    "comments": "위치가 좋고 에어컨이 빵빵하게 잘 나옵니다. 그것만으로도 완벽한 숙소였습니다. 테라스도 좋았으나 별로 사용할 일은 없었습니드."
+  }, {
+    "_id": "190818033",
+    "date": {
+      "$date": {
+        "$numberLong": "1504584000000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "19444544",
+    "reviewer_name": "Carly",
+    "comments": "One of the best locations and hosts in Barcelona. After hearing a lot of not-so-great reviews about lodging throughout Barcelona from friends and fellow travelers, I was worried about the trip. Capitaine's personality and apartment completely proved me wrong! He was always available to help, sitting down with us to show us some great spots to eat and visit, and even offered us a bottle of wine one night when we forgot to stop and grab one. \n\nThe room was clean, the air conditioner was cold (and welcomed!), and the views are unbeatable. Location is in a quiet neighborhood that makes you feel like a local. HIGHLY recommend!"
+  }, {
+    "_id": "192467535",
+    "date": {
+      "$date": {
+        "$numberLong": "1505016000000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "15610764",
+    "reviewer_name": "Thomas",
+    "comments": "We couldn't rate Christophe's place highly enough, amazing views from our private terrace, bed was so comfy, not like a cheap hotel bed, a proper king size amazing mattress .. great location, close to everything but on a totally quiet and beautiful street.....Can't wait to go back.."
+  }, {
+    "_id": "195064450",
+    "date": {
+      "$date": {
+        "$numberLong": "1505707200000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "29790107",
+    "reviewer_name": "James",
+    "comments": "Cristophe was an excellent host, very accommodating and easy to get along with, but respectful of our personal space. His apartment is beautiful and in a really great location for transport and local resturants/shops. I would highly recommend staying here."
+  }, {
+    "_id": "197608606",
+    "date": {
+      "$date": {
+        "$numberLong": "1506398400000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "25666326",
+    "reviewer_name": "Lauren",
+    "comments": "Christophe was a great host! The location was fairly walkable to most of the main tourist attractions in Barcelona."
+  }, {
+    "_id": "199870685",
+    "date": {
+      "$date": {
+        "$numberLong": "1507003200000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "147691690",
+    "reviewer_name": "Sonia",
+    "comments": "Tres bel Appartement , belle chambre et sa terrasse privative est tres Belle.\nChristophe est a l écoute, flexible et discret.\nL appartement est situé a proximite de commerces, restaurants, bar, 24/24h. \nLa rue est au calme donc vous pouvez faire la grasse matinée sans problème.\nVous pouvez vous rendre a pied a la place d Espagne, Cataluyna et meme aller jusqu'au Ramblas a pied. \nIl y a un arret de metro en bas de la rue, il y a des bus.\nLorsque vous arrivez de l aéroport, le bus Aerobus vous laisse a 5 min de l appart, place d Espagne. Et il y a un grand centre commercial.\nTres bon sejour et hôte. Allez y les yeux fermés"
+  }, {
+    "_id": "205118880",
+    "date": {
+      "$date": {
+        "$numberLong": "1508558400000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "146859470",
+    "reviewer_name": "Matthias",
+    "comments": "Wir hatten einen tollen Aufenthalt bei Christophe!\nSeine Wohnung ist schön eingerichtet (besonders die Dachterassen und die offene Küche) und gut gelegen (kurzer Weg zu Metro, schönes Viertel mit wenigen Touristen). \nChristophe ist sehr hilfsbereit, gut erreichbar und hat gute Tipps zu Essen und Ausflügen. \nKlare Empfehlung!"
+  }, {
+    "_id": "239363062",
+    "date": {
+      "$date": {
+        "$numberLong": "1519880400000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "87161606",
+    "reviewer_name": "Salah",
+    "comments": "Fantastic apartment and great central location. Thank you Christopher so much for all advises"
+  }, {
+    "_id": "248728577",
+    "date": {
+      "$date": {
+        "$numberLong": "1522555200000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "89458467",
+    "reviewer_name": "颖琪",
+    "comments": "Capitaine是一位很棒的房东,帅气而贴心｡他的英语水平很棒,人也很友善｡他很乐意回答你的问题并力所能及的帮助你解决问题｡整个房间有两个大天台,一个在公共区一个在客房里,可以看到巴塞全景｡他关于美食的建议也很令人心喜｡总之,在他的帮助下我们开心的在巴塞度过了假期｡"
+  }, {
+    "_id": "260940460",
+    "date": {
+      "$date": {
+        "$numberLong": "1525492800000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "36570180",
+    "reviewer_name": "Xie",
+    "comments": "跟房东一起住,房东人很好!房子地理位置也不错,离景点都还可以,周围也很便利,吃东西买东西都方便,"
+  }, {
+    "_id": "272769004",
+    "date": {
+      "$date": {
+        "$numberLong": "1528084800000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "141533011",
+    "reviewer_name": "Carole",
+    "comments": "Merci à Christophe pour sa gentillesse sa disponibilité et ses super conseils pour découvrir Barcelone. Que dire de l'appartement avec sa terrasse privative à part Waouh !Super séjour ! ! appartement genial propre, très bien placé avec un métro au bout de la rue. merci encore pour tout et à très bientôt ! !"
+  }, {
+    "_id": "275513461",
+    "date": {
+      "$date": {
+        "$numberLong": "1528689600000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "32070630",
+    "reviewer_name": "华",
+    "comments": "这是一个完美的家和安静,温暖的房子,当我到达得很晚时他是很有耐心的等待｡非常好的房东,非常热情!交通便利,靠近餐馆和超市,非常感谢,享受住在他家,因为有一个大阳台,主卧室还有小阳台,我可以看到巴塞罗那整个城市!完美的旅程､感谢房东!"
+  }, {
+    "_id": "284894318",
+    "date": {
+      "$date": {
+        "$numberLong": "1530504000000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "335380",
+    "reviewer_name": "Liz",
+    "comments": "Everything was perfect! Christophe is an amazing host. I started the trip by booking the night before I arrived and he did a fantastic job accommodating me. The flat is in the perfect location, the bed is so comfy and the two outdoor spaces are quite special. I really felt like it was home for the week and would definitely stay here again. Thank you!"
+  }, {
+    "_id": "288205354",
+    "date": {
+      "$date": {
+        "$numberLong": "1531108800000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "128779527",
+    "reviewer_name": "Adrian",
+    "comments": "This flat is a great place to stay at while visiting Barcelona. Chris made us feel at home and I would definitely stay here again. Aside from the beautiful view, the bed is super comfortable. "
+  }, {
+    "_id": "290733737",
+    "date": {
+      "$date": {
+        "$numberLong": "1531627200000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "87021581",
+    "reviewer_name": "Christine",
+    "comments": "The host canceled this reservation 5 days before arrival. This is an automated posting."
+  }, {
+    "_id": "299175494",
+    "date": {
+      "$date": {
+        "$numberLong": "1532923200000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "16472576",
+    "reviewer_name": "Ingrid Tuestad",
+    "comments": "This apartment is amazing!! The terraces are absolutely incredible and perfect for chilling with food, drinks and sunbathing. Furthermore the apartment was clean with a good atmosphere. Capitaine is a very friendly and funny host. Both him and his friend Orione, who helped us with the check in, were so helpful. We got some really good tips regarding places to eat and go out for drinks. We felt really fortunate to stay at such a nice apartment and we would absolutely recommend staying there. "
+  }, {
+    "_id": "303286189",
+    "date": {
+      "$date": {
+        "$numberLong": "1533614400000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "21134200",
+    "reviewer_name": "Ildefonso",
+    "comments": "Alojamiento adecuado y terraza espectacular. El trato cordial y agradable."
+  }, {
+    "_id": "308938978",
+    "date": {
+      "$date": {
+        "$numberLong": "1534478400000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "32259016",
+    "reviewer_name": "Ana",
+    "comments": "\nWe really enjoyed trip to Barcelona . Excellent apartment with some amazing views and stylish modern interior. The room is very comfortable, beautiful, clean and you can enjoy with your private terrace. Location was perfect for getting around the city, near the metro station and also you can go on foot from this location to the center. \nI would highly recommended this place! "
+  }, {
+    "_id": "321312094",
+    "date": {
+      "$date": {
+        "$numberLong": "1536552000000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "158607158",
+    "reviewer_name": "Ugnius",
+    "comments": "Wir waren 3uhr nachts erst da, check in war ohne Probleme. Location wie erwartet sehr praktisch und einfach zu erreichen, auch nachts, supermarkt ist auch um die Ecke; Wir hatten Glück, dass wir die ganze Wohnung gehabt haben, was für 4 Personen sehr bequem war. Besonders Frühstück auf der Terrasse. Klimaanlagen funktionierte, alles wie geschrieben. Die einzige Überraschung war extra Reinigungsgebühr, was am Ende der gefragt wurde. All in all, we enjoyd our stay and hope You to get more good guest in your house, Capitaine. Thank You."
+  }, {
+    "_id": "328829604",
+    "date": {
+      "$date": {
+        "$numberLong": "1538020800000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "1612980",
+    "reviewer_name": "Angelika",
+    "comments": "Ich mag diese Unterkunft sehr. Der Blick morgens aus dem Bett auf die Dächer von Barcelona. Einen Cafe auf der Terrasse trinken oder Yoga am Morgen und unten rauscht die Stadt. Auch, dass es nur ein Badezimmer gab, war kein Problem, weil Capitaine ein Schnell- und Frühduscher ist. Die Wohnung ist gemütlich, hat Dielenboden - eher selten in Spanien, die Atmosphäre ist nett und besonders. Die Anbindung an die U-Bahn ist gut, sehr nette Cafes in Laufnähe, die Kommunikation lief easy und alles fein. Sollten wir mal wieder eine Wohnung in Barcelona brauchen, wird das die Wohnung unserer Wahl sein."
+  }, {
+    "_id": "331971899",
+    "date": {
+      "$date": {
+        "$numberLong": "1538625600000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "213536029",
+    "reviewer_name": "Lennard",
+    "comments": "Die Unterkunft ist großartig, besonders die schöne Dachterasse und die tolle Lage. Die nächste U-Bahn Station ist noch in der selben Straße, genau wie nette Cafés und Supermärkte. Viele Restaurants und Einkaufsmöglichkeiten sind in Laufnähe. Christoph ist ein sehr netter und hilfsbereiter Gastgeber. Klare Empfehlung!"
+  }, {
+    "_id": "337065382",
+    "date": {
+      "$date": {
+        "$numberLong": "1539576000000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "61624067",
+    "reviewer_name": "Vlad",
+    "comments": "big apartment with 2 nice terraces and all facilities that one would need. close to metro, aerobus station and all other public means. very helpful and friendly host."
+  }, {
+    "_id": "340269155",
+    "date": {
+      "$date": {
+        "$numberLong": "1540267200000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "6926639",
+    "reviewer_name": "Julian",
+    "comments": "Appartement magnifique avec deux belles terrasses et jolie vues sur Barcelone. Impeccable pour la localisation, propreté confort. Christophe est présent, réactif, et sympathique. Parfaite place pour séjourner à Barcelone, c est sûr."
+  }, {
+    "_id": "343665139",
+    "date": {
+      "$date": {
+        "$numberLong": "1541044800000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "14708076",
+    "reviewer_name": "Дарья",
+    "comments": "In general, many thanks for this wonderful place. Awesome terrace. Cozy. We spent these days with joy and comfort.  Wonderful apartment.\nMany thanks to Christoph for the flexibility in check out deadlines.\n\nFor future tourists who are going to prepare their own food.\nIf you leave the house, turn left, cross the street to the other side and walk a little higher through the intersection - you will see on the right an excellent supermarket, where they sell almost everything at normal city prices. Called Mercado it seems.\nMetro in 3-minute availability.\nCareful with parking on the street: free ones are engaged in an instant, the rest are either for residents who live nearby (you may not understand), or for people with disabilities (pictures are often erased and barely visible)), or for employees if there is an office building nearby. Better to leave on special underground parking, they are cheaper than fines"
+  }, {
+    "_id": "345568605",
+    "date": {
+      "$date": {
+        "$numberLong": "1541394000000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "103457424",
+    "reviewer_name": "Juan",
+    "comments": "Un fantástico apartamento para una escapada en el centro de Barcelona."
+  }, {
+    "_id": "347310079",
+    "date": {
+      "$date": {
+        "$numberLong": "1541912400000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "15234297",
+    "reviewer_name": "Céline",
+    "comments": "Excellent séjour. L’appartement est très agréable avec sa terrasse privée. Juste à côté du métro. Et en plus, très bon accueil de notre hôte "
+  }, {
+    "_id": "366045051",
+    "date": {
+      "$date": {
+        "$numberLong": "1546405200000"
+      }
+    },
+    "listing_id": "11136898",
+    "reviewer_id": "76632505",
+    "reviewer_name": "Ilaria",
+    "comments": "The place is really cool, especially the rooftop terrace. It is well connected to public transport. The house is nice. You will have to buy your own water since tap water is not good. The owner was good in giving us tips on things to do. Overall a very nice stay in Barcelona"
+  }]
+}
+
+

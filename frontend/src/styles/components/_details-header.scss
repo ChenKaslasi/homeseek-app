@@ -1,0 +1,21 @@
+.details-header-container {
+    -webkit-box-align: center ;
+    display: flex ;
+    align-items: center ;
+    height: 64px ;
+    padding-left: 16px ;
+    padding-right: 16px ;
+    position: relative ;
+    z-index: 1 ;
+    border-bottom: 1px solid rgb(235, 235, 235) ;
+    /* background-color: lightcoral; */
+     height: 80px;
+    box-shadow: 0px 9px 14px -9px #2222;
+    /* position: fixed; */
+    top: 0;
+    z-index: 999;
+    transition: 0.1s;
+    width: 100%;
+    
+
+}

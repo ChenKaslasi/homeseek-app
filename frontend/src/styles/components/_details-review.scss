@@ -1,0 +1,73 @@
+.card-container-reviews{
+    display: flex;
+    // align-items: center;
+    justify-content: space-between;
+  }
+  .cards {
+    max-width: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 20px; 
+  }
+  .review-container {
+    line-height: 20px;
+    border-top: 1px solid rgb(221, 221, 221);
+    padding: 30px 0px;
+    .card-container-reviews {
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: row;
+      width: 100%;
+      .review-card {
+        color: #222222;
+        text-align: start;
+        // max-width: 350px; //later media query it
+        object-fit: contain;
+        margin-bottom: 30px;
+        
+  
+        & img {
+          object-fit: cover;
+          vertical-align: middle;
+          width: 50px;
+          height: 50px;
+          border-radius: 50%;
+        }
+        & .card-header {
+          display: flex;
+          .header-txt {
+            display: flex;
+            flex-direction: column;
+            line-height: 30px;
+            margin-left: 10px;
+            & .reviewer-name {
+              font-size: 1rem;
+              line-height: 20px;
+              font-weight: 700;
+            }
+          }
+        }
+        & .review-txt {
+          margin-top: 5%;
+          font-size: 1rem;
+          font-weight: 400;
+        }
+      }
+    }
+  }
+  .review-container > * {
+    padding: 10px;
+}
+@include  for-medium-break-layout {
+    .cards {
+        max-width: none;
+    }
+}
+@include for-wide-large-layout{
+    .card-container-reviews-reviews{
+        max-width: 1050px;
+        .cards{
+            max-width: 450px;
+        }
+    }
+}

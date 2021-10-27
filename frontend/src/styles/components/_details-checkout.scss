@@ -1,0 +1,225 @@
+.modal {
+    position: absolute !important;
+    left: 0px !important;
+    // top: 100% !important;
+    z-index: 1 !important;
+    background: rgb(255, 255, 255) !important;
+    border-radius: 32px !important;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 6px 20px !important;
+    margin-top: 12px !important;
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+    // max-height: calc(100vh - 220px) !important;
+    overflow: hidden auto !important;
+    padding: 16px 32px !important;
+    width: 92%;
+    .container-btns {
+      display: flex;
+      flex-direction: column;
+      padding: 10px;
+      z-index: 20;
+      .close-btn {
+        text-decoration: underline gray;
+        padding-top: 14px;
+        padding-bottom: 10px;
+        width: 40px;
+        height: 30px;
+        &:hover {
+          cursor: pointer;
+          transform: scaleY(0.95);
+          text-decoration: underline black;
+        }
+      }
+      .txt {
+        display: flex;
+        font-size: rem(14px) !important;
+        line-height: 20px !important;
+        font-weight: 600 !important;
+      }
+      .btns {
+        display: flex;
+        -webkit-box-align: center !important;
+        display: inline-flex !important;
+        align-items: center !important;
+        justify-content: space-between !important;
+        width: 104px !important;
+        height: 32px !important;
+        color: rgb(34, 34, 34) !important;
+        font-weight: 400 !important;
+        font-size: 16px !important;
+        line-height: 20px !important;
+        p {
+          margin: 0px 8px;
+        }
+      }
+    }
+    .btn-container {
+      -webkit-box-pack: justify !important;
+      -webkit-box-align: center !important;
+      color: rgb(34, 34, 34) !important;
+      padding-top: 16px !important;
+      padding-bottom: 16px !important;
+      padding-right: 4px !important;
+      display: flex !important;
+      align-items: center !important;
+      justify-content: space-between !important;
+    }
+    .guest-num {
+      display: flex;
+      line-height: 1;
+    }
+    .guest-btn {
+      -webkit-box-pack: center !important;
+      -webkit-box-align: center !important;
+      -webkit-box-flex: 0 !important;
+      width: 32px !important;
+      height: 32px !important;
+      flex-grow: 0 !important;
+      flex-shrink: 0 !important;
+      cursor: pointer !important;
+      display: inline-flex !important;
+      margin: 0px !important;
+      padding: 0px !important;
+      text-align: center !important;
+      text-decoration: none !important;
+      border-width: 1px !important;
+      border-style: solid !important;
+      border-color: rgb(176, 176, 176) !important;
+      color: rgb(113, 113, 113) !important;
+      font-family: inherit !important;
+      outline: none !important;
+      touch-action: manipulation !important;
+      align-items: center !important;
+      justify-content: center !important;
+      background: rgb(255, 255, 255) !important;
+      border-radius: 50% !important;
+    }
+  }
+  // .btn-container:nth-last-child(2) {
+  //   border-bottom: 1px solid #9c9a9a;
+  //   border-top: 1px solid #a3a1a1;
+  // }
+  
+  .guest-modal-btn {
+    border: none;
+    background-color: transparent;
+    color: #717171;
+    margin: 0;
+    padding: 16.5px 20px;
+    border-top: transparent;
+    border-radius: 0 0 8px 8px;
+    font-size: 16px;
+    font-family: Circular;
+    font-weight: 600;
+    text-align: left;
+    outline: none;
+    width: 100%;
+  }
+  .checkout-container {
+    margin-top: 30px;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    height: 95%;
+    max-width: 380px;
+  
+    .checkout-card {
+      position: sticky;
+      top: 100px;
+      display: flex;
+      border-radius: 12px;
+      padding: 24px;
+      padding-bottom: 0px;
+      box-shadow: rgba(0, 0, 0, 0.12) 0px 6px 16px;
+      width: 100%;
+      min-height: 290px; //height?
+      border: none;
+      .checkout-header {
+        display: flex;
+        justify-content: space-between;
+        padding-bottom: 8px;
+        margin: 5px;
+        .price {
+          font-weight: 600;
+          font-size: 1.2rem;
+          span {
+            font-size: 0.925rem;
+            font-weight: 400;
+            color: #717171;
+          }
+        }
+        .star {
+          color: #ff385c;
+          font-size: 20px;
+          text-align: start;
+          margin-inline-end: 2px;
+        }
+      }
+      .checkout-btn {
+        // position: absolute;
+        margin-top: 35px;
+        color: #ffffff;
+        width: 100%;
+        line-height: 14px !important;
+        font-weight: 600 !important;
+        font-size: 18px;
+        outline: none !important;
+        background-image: linear-gradient(
+          to right,
+          #ff385c,
+          #ef305c,
+          #e93568,
+          #ce235b,
+          #ce2d63
+        );
+        &:hover {
+          cursor: pointer;
+          background-image: radial-gradient(
+            circle at center center,
+            rgb(255, 56, 92) 0%,
+            rgb(230, 30, 77) 27.5%,
+            rgb(227, 28, 95) 40%,
+            rgb(215, 4, 102) 57.5%,
+            rgb(189, 30, 89) 75%,
+            rgb(189, 30, 89) 100%
+          ) ;
+        }
+        border: none;
+        padding: 22px;
+        overflow: hidden !important;
+        border-radius: 8px !important;
+        &:hover {
+          cursor: pointer;
+        }
+      }
+    }
+    .checkout-select {
+      border: 1px solid #717171;
+      border-radius: 8px;
+    }
+    .input-container {
+      border-bottom: 1px solid #717171;
+      border-radius: 8px 8px 0px 0px;
+      padding: 3px;
+      .start-date {
+        outline: none;
+        margin: 0;
+        width: 100%;
+        height: 100%;
+        border: none;
+        padding: 10px;
+        border-right: 1px solid #717171;
+        font-family: Circular;
+        font-size: 16px;
+      }
+      .end-date {
+        outline: none;
+        font-family: Circular;
+        font-size: 16px;
+        padding: 10px;
+        width: 100%;
+        border: none;
+      }
+    }
+    
+  }

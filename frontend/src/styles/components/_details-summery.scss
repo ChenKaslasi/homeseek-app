@@ -1,0 +1,48 @@
+.details-summery {
+  padding: 48px 0 24px 0;
+  display: grid;
+  grid-template-columns: 1fr 60px;
+  grid-template-rows: 1fr 1fr;
+  grid-row-gap: 10px;
+  grid-template-areas:
+    "text1 img"
+    "text2 img";
+  justify-items: start;
+  align-items: center;
+
+
+  .thumbnail {
+    grid-area: img;
+    justify-self: flex-end;
+    &:hover{
+      cursor: pointer;
+    }
+    img {
+      object-fit: cover;
+      vertical-align: middle;
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+    }
+  }
+  
+
+  .title {
+    grid-area: text1;
+    line-height: 26px;
+    font-size: 22px;
+  }
+
+  .info {
+    grid-area: text2;
+    line-height: 20px;
+  }
+
+}
+@include for-mobile-layout{
+  .details-summery{
+    padding: 16px 0 16px 0;
+    align-items: flex-start;
+    // background-color: cadetblue;
+  }
+}

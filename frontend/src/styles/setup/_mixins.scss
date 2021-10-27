@@ -1,0 +1,91 @@
+/* Media queries Breakpoint mixins */
+// can use later for our layout
+  @mixin for-mobile-layout {
+    @media (max-width: $break-narrow) {
+      @content;
+    }
+  }
+
+@mixin for-narrow-layout {
+  @media (min-width: $break-narrow) {
+    @content;
+  }
+}
+
+@mixin for-normal-layout {
+  @media (min-width: $break-normal) {
+    @content;
+  }
+}
+
+@mixin for-medium-layout {
+  @media (max-width: $break-medium) {
+    @content;
+  }
+}
+@mixin for-medium-break-layout {
+  @media (max-width: $break-medium-large) {
+    @content;
+  }
+}
+
+@mixin for-home-layout {
+}
+
+@mixin for-normal-layout {
+  @media (min-width: $break-normal) {
+    @content;
+  }
+}
+
+@mixin for-wide-layout {
+  @media (min-width: $break-wide) {
+    @content;
+  }
+}
+@mixin for-wide-large-layout {
+  @media (min-width: $break-wide) {
+    @content;
+  }
+}
+
+@mixin for-normal-details{
+  @media (max-width: $break-normal) {
+    @content;
+  }
+}
+/* Media  Mixins */
+
+// aspect ratio mixin
+
+@mixin aspect-ratio($width, $height) {
+  position: relative;
+  overflow: hidden;
+  &:before {
+    content: "";
+    display: block;
+    width: 100%;
+    padding-top: ($height / $width) * 100%;
+  }
+  > * {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+  > img {
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+// Mixin for removing hover efects on iphone screen
+
+@mixin hover-supported {
+  @media not all and (pointer: coarse) {
+    &:hover {
+      @content;
+    }
+  }
+}

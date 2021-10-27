@@ -1,0 +1,58 @@
+.about-us {
+    margin: 0 auto;
+    .about-header {
+      font-size: 46px;
+      padding-bottom:60px;
+      font-weight: 900;
+      text-align: center;
+      color: #333333 !important;
+    }
+    .txt-container {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 1.75em;
+      color: #484848;
+      h3 {
+        margin: 0px ;
+        word-wrap: break-word ;
+        font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto,
+          Helvetica Neue, sans-serif ;
+        font-size: 24px ;
+        font-weight: 800 ;
+        line-height: 1.25em ;
+        color: #484848 ;
+        padding-top: 2px ;
+        padding-bottom: 2px ;
+      }
+      p {
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+      }
+      // text-align: center;
+      .desc-airbnb {
+        width: 50%;
+        float: left;
+        margin-left: 0px;
+        margin-right: 64px;
+      }
+      .desc-hosting {
+        width: 50%;
+        float: right;
+        margin-left: 0px;
+        margin-right: 64px;
+        a {
+          text-decoration: none;
+          color: inherit;
+          &:hover{
+            color: #ff385c;
+          }
+        }
+      }
+    }
+}

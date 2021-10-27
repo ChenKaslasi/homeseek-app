@@ -1,0 +1,575 @@
+.home {
+  // @include for-home-layout;
+  // @include for-narrow-layout;
+  @include for-mobile-layout;
+}
+
+.hero {
+  margin-bottom: 60px;
+  height: 80vh;
+  width: 100%;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.123), rgba(0, 0, 0, 0.178)),
+    url("https://cdn57.androidauthority.net/wp-content/uploads/2019/12/Home-available-on-BoutiqueHomes.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+  & .h1-container {
+    line-height: 70px;
+    grid-column: 2;
+    display: flex;
+    flex-direction: column;
+    font-size: 6.5rem;
+    font-weight: 800;
+    color: white;
+    justify-content: center;
+    align-items: end;
+    height: 100%;
+
+    // position: absolute;
+    & h1 {
+      padding: 20px;
+      padding-inline-start: 0;
+
+      &.hero-header2 {
+        font-weight: 800;
+      }
+
+      & span {
+        color: #f05;
+        font-size: 4rem;
+      }
+    }
+  }
+
+  .hero {
+    height: 80vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.123), rgba(0, 0, 0, 0.178)),
+      url("https://cdn57.androidauthority.net/wp-content/uploads/2019/12/Home-available-on-BoutiqueHomes.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+    & h1 {
+      margin-left: 3%;
+      color: white;
+      font-size: 5rem;
+      margin-top: 20px;
+      font-weight: 100;
+      padding: 20px;
+
+      &.hero-header2 {
+        font-weight: 800;
+      }
+    }
+  }
+
+  .card {
+    margin-top: 20px;
+    text-align: start;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 6px 16px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+
+    & h3 {
+      padding: 10px;
+      padding-left: 10px;
+      font-weight: 800;
+      font-size: 1.3rem;
+    }
+  }
+}
+
+.location-header {
+  grid-column: 2;
+  font-size: rem(32px);
+  line-height: rem(36px);
+  color: #222222;
+  margin-bottom: 35px;
+}
+
+.home-container {
+  margin-bottom: 40px;
+  flex-direction: column;
+  font-size: 32px;
+  line-height: 36px;
+  color: #222222;
+
+  & .card-container {
+    display: flex;
+    justify-content: space-between;
+    z-index: 1;
+
+    div:not(:last-child) {
+      margin-inline-end: 30px;
+    }
+
+    >* {
+      margin-block-end: 30px;
+    }
+  }
+
+  & .card {
+    display: inline-block;
+    // margin: 0px 30px 30px 0px;
+    font-size: rem(18px);
+    line-height: rem(22px);
+    color: #222222;
+    width: 100%;
+
+    & img {
+      // width: 360px;
+      height: 240px;
+      border-radius: 8px;
+      margin-bottom: 8px;
+      width: 100%;
+    }
+
+    & p {
+      color: rgb(136, 134, 134);
+      padding-left: 4px;
+      padding-bottom: 7px;
+    }
+
+    h3 {
+      font-family: 'Circular-medium';
+      padding-left: 4px;
+      padding-bottom: 4px;
+      // margin-bottom: 5px;
+    }
+
+    & :hover {
+      cursor: pointer;
+    }
+  }
+}
+
+@media (max-width: $break-ultra-wide) {
+
+  // background-color: blue;
+  .hero {
+    .h1-container {
+      font-size: rem(82px);
+      font-weight: 800;
+      color: white;
+      padding-bottom: 80px;
+
+    }
+
+  }
+
+  // @content;
+}
+
+@media (max-width: 1100px) {
+  .home-container {
+    & .card-container {
+      & .card {
+        & img {
+          // width: 360px;
+          height: 240px;
+          border-radius: 8px;
+          margin-bottom: 8px;
+          width: 360px;
+        }
+      }
+    }
+  }
+
+  .home-container {
+    margin: 0;
+    // .home-container {
+    // display: flex;
+    overflow-x: scroll !important;
+    overflow-y: hidden;
+    white-space: nowrap;
+
+    // margin-top: 20px;
+    &::-webkit-scrollbar {
+      display: none;
+    }
+
+    &:hover {
+      &::-webkit-scrollbar {
+        display: block;
+        height: 8px;
+        width: 4px;
+        border: 1px solid #d5d5d5;
+      }
+
+      &::-webkit-scrollbar-track {
+        border-radius: 0;
+        background: #eeeeee;
+      }
+
+      &::-webkit-scrollbar-thumb {
+        border-radius: 40px;
+        background: #b0b0b0;
+      }
+    }
+
+    // }
+
+  }
+
+  .hero {
+    .h1-container {
+      // padding-top: 0px;
+      font-size: rem(72px);
+      font-weight: 800;
+      color: white;
+
+      .hero-header {
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+      }
+    }
+  }
+}
+
+// responsive
+@include for-medium-layout {
+  .mobileSearch{
+        .search-boxes {
+          .box {
+            & :hover{
+              cursor: pointer;
+            }
+      }
+    }
+  }
+}
+
+@include for-mobile-layout {
+  .mobileSearch {
+    height: 100vh !important;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 6px 20px !important;
+
+    .content {
+      align-items: initial;
+    }
+
+    .search {
+      position: relative !important;
+      top: initial;
+      left: initial;
+      transform: none;
+      padding-top: 40px;
+      width: 100%;
+
+
+      .search-bar {
+        margin-bottom: 20px;
+
+        input {
+          font-family: Circular;
+          padding-inline-start: 12px;
+          padding-inline-end: 36px;
+          line-height: 20px;
+          font-size: 16px;
+          border: 0px;
+
+          &:focus {
+            border: none;
+            outline: none !important;
+          }
+        }
+
+        .back-btn {
+          width: 16px;
+
+          img {
+            width: 100%;
+            object-fit: cover;
+          }
+        }
+      }
+
+      .search-boxes {
+        
+
+        .box {
+         
+          padding: 8px 16px 8px 6px;
+
+          .image {
+            width: 48px;
+            margin-inline-end: 16px;
+
+            img {
+              width: 100%;
+              border-radius: 8px;
+            }
+          }
+
+          .txt {
+            .top {
+              font-size: 16px;
+              line-height: 20px;
+            }
+
+            .bottom {
+              font-size: 12px;
+              line-height: 16px;
+              color: rgb(113, 113, 113)
+            }
+          }
+        }
+      }
+
+    }
+  }
+
+  .logo {
+    display: none !important;
+  }
+
+  .link-container {
+    display: none;
+  }
+
+  .filter-container {
+    display: none;
+  }
+
+  .about-header {
+    text-align: left !important;
+  }
+
+  .hero {
+    object-fit: cover;
+    width: 100vw;
+
+    .h1-container {
+      line-height: initial;
+      justify-content: flex-end;
+      padding-bottom: 40px !important;
+
+      h1 {
+        line-height: 60px;
+        font-size: 50px;
+        padding: 0px;
+
+      }
+    }
+  }
+
+  .txt-container {
+    display: flex;
+    flex-wrap: wrap;
+
+
+    .desc-airbnb,
+    .desc-hosting {
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+      width: 100% !important;
+      margin-bottom: 40px;
+    }
+
+  }
+
+  .home-banner {
+    margin-top: 0px !important;
+    height: initial !important;
+
+    .banner-content {
+      height: 180px !important;
+      p {
+        padding-left: 0px !important;
+
+      }
+    }
+
+    .banner-content2 {
+      display: none !important;
+    }
+
+    button {
+      position: absolute;
+      bottom: 40px;
+      right: 30px;
+      padding: 9px 16px !important;
+      width: initial !important;
+      border-radius: 8px !important;
+      font-size: 14px !important;
+      font-weight: 600 !important;
+      margin-top: 0px !important;
+    }
+
+    h2 {
+      font-size: 22px !important;
+      line-height: 30px;
+    }
+  }
+
+}
+@include for-medium-layout {
+  .mobileSearch {
+    height: 100vh !important;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 6px 20px !important;
+
+    .content {
+      align-items: initial;
+    }
+
+    .search {
+      position: relative !important;
+      top: initial;
+      left: initial;
+      transform: none;
+      padding-top: 40px;
+      width: 100%;
+
+
+      .search-bar {
+        margin-bottom: 20px;
+
+        input {
+          font-family: Circular;
+          padding-inline-start: 12px;
+          padding-inline-end: 36px;
+          line-height: 20px;
+          font-size: 16px;
+          border: 0px;
+
+          &:focus {
+            border: none;
+            outline: none !important;
+          }
+        }
+
+        .back-btn {
+          width: 16px;
+
+          img {
+            width: 100%;
+            object-fit: cover;
+          }
+        }
+      }
+
+      .search-boxes {
+
+        .box {
+          padding: 8px 16px 8px 6px;
+
+          .image {
+            width: 48px;
+            margin-inline-end: 16px;
+
+            img {
+              width: 100%;
+              border-radius: 8px;
+            }
+          }
+
+          .txt {
+            .top {
+              font-size: 16px;
+              line-height: 20px;
+            }
+
+            .bottom {
+              font-size: 12px;
+              line-height: 16px;
+              color: rgb(113, 113, 113)
+            }
+          }
+        }
+      }
+
+    }
+  }
+
+  .logo {
+    display: none !important;
+  }
+
+  .link-container {
+    display: none;
+  }
+
+  .filter-container {
+    display: none;
+  }
+
+  .about-header {
+    text-align: left !important;
+  }
+
+  .hero {
+    object-fit: cover;
+    width: 100vw;
+
+    .h1-container {
+      line-height: initial;
+      justify-content: flex-end;
+      padding-bottom: 40px !important;
+
+      h1 {
+        line-height: 60px;
+        font-size: 50px;
+        padding: 0px;
+
+      }
+    }
+  }
+
+  .txt-container {
+    display: flex;
+    flex-wrap: wrap;
+
+
+    .desc-airbnb,
+    .desc-hosting {
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+      width: 100% !important;
+      margin-bottom: 40px;
+    }
+
+  }
+
+  .home-banner {
+    margin-top: 0px !important;
+    height: initial !important;
+
+    .banner-content {
+      height: 180px !important;
+    }
+
+    .banner-content2 {
+      display: none !important;
+    }
+
+    button {
+      position: absolute;
+      bottom: 40px;
+      right: 30px;
+      padding: 9px 16px !important;
+      width: initial !important;
+      border-radius: 8px !important;
+      font-size: 14px !important;
+      font-weight: 600 !important;
+      margin-top: 0px !important;
+    }
+
+    h2 {
+      font-size: 22px !important;
+      line-height: 30px;
+    }
+  }
+
+}
+
+
+.card-container {
+
+  .card {
+    width: 100% !important;
+  }
+}

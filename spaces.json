@@ -1,0 +1,1392 @@
+{
+    "listingUrl" : "https://www.airbnb.com/rooms/10612199",
+    "name" : "Serene luxury in Harlem",
+    "locationDesc" : "Lovely 1500sqft gem located in Central Harlem close to Columbia University. Gorgeous Pre-war flat with 6ft ceilings, 2 fireplaces, and laundry in the unit. Located in a safe, friendly building and close to major restaurants and subway lines.",
+    "spaceDesc" : "Lovely 1500sqft gem located in Central Harlem close to Columbia University. Gorgeous Pre-war flat with 6ft ceilings, 2 fireplaces, and laundry in the unit. Located in a safe, friendly building and close to major restaurants and subway lines. Very short walking distance to restaurants, bars, supermarket, pharmacy, cafes, and movie theaters. Only 10 minute walk to Columbia University. Just a few short blocks to the A-B-C-D-2-3 subway lines. A-D-2-3 are express trains. Lots of bus lines nearby, as well.",
+    "spaceType" : "Apartment",
+    "roomType" : "Private room",
+    "cancellationPolicy" : "moderate",
+    "capacity" : 1,
+    "bedrooms" : 1,
+    "beds" : 1,
+    "numberOfReviews" : 10,
+    "bathrooms" : 1,
+    "amenities" : [ 
+        "Air conditioning", 
+        "Essentials", 
+        "Hangers", 
+        "Heating", 
+        "Iron", 
+        "Kitchen", 
+        "Parking", 
+        "TV", 
+        "Wifi"
+    ],
+    "price" : 80,
+    "imgs" : [ 
+        "https://a0.muscache.com/im/pictures/3714c0c3-a056-430f-ba0c-d21aff778860.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/45e913c3-0a5a-4431-a1c0-c5c53a0f2ad4.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/71d2eb44-70d4-4bd0-bf5f-b9bf6ef5a9c4.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/51217d3a-563a-4d9a-be6a-16a051254e77.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/e8bded95-adfa-48b6-8c89-fe949ba24f59.jpg?im_w=720"
+    ],
+    "host" : {
+        "id" : "54761069",
+        "url" : "https://www.airbnb.com/users/show/54761069",
+        "name" : "Erika",
+        "location" : "New York, New York, United States",
+        "about" : "Always available by cell/text",
+        "responseTime" : "within an hour",
+        "thumbnail" : "https://a0.muscache.com/im/pictures/user/276613c7-ff80-4c9f-91a7-467c029c0c5e.jpg?im_w=240",
+        "profileImg" : "https://a0.muscache.com/im/pictures/user/276613c7-ff80-4c9f-91a7-467c029c0c5e.jpg?im_w=240",
+        "neighbourhood" : "Harlem",
+        "responseRate" : 100,
+        "isSuperhost" : false,
+        "identityVerified" : true
+    },
+    "address" : {
+        "street" : "New York, NY, United States",
+        "city" : "New York",
+        "country" : "United States",
+        "coordinates" : {
+            "lat" : 40.80708,
+            "lng" : -73.95211
+        }
+    },
+    "reviewScores" : {
+        "accuracy" : 10,
+        "cleanliness" : 10,
+        "checkin" : 10,
+        "communication" : 10,
+        "location" : 10,
+        "value" : 10,
+        "rating" : 100
+    },
+    "reviews" : [ 
+        {
+            "_id" : "93734315",
+            "date" : "1471060800000",
+            "by" : {
+                "id" : "54401890",
+                "name" : "Ashlie",
+                "img" : "https://a0.muscache.com/im/pictures/user/301640ba-0dd6-456a-8c65-656d59613f41.jpg?im_w=240"
+            },
+            "txt" : "Erika was extremely friendly, kind, and caring while I stayed there. She made me feel at home! She knows the area very well and can provide information about things to do and places to eat in the neighborhood.\r\n\r\nThe area is also quite safe and it is not uncommon to hear kids playing outside at 9 pm or later.\r\n\r\nThe apartment is a few minutes walk from a good-sized grocery store, numerous restaurants, multiple subway stations, and Central Park, making it an ideal place to stay while visiting."
+        }, 
+        {
+            "_id" : "103823581",
+            "date" : "1474689600000",
+            "by" : {
+                "id" : "33981348",
+                "name" : "Alice",
+                "img" : "https://a0.muscache.com/im/pictures/user/3431aa56-325f-4bb8-85c4-8da12e6e18a1.jpg?im_w=240"
+            },
+            "txt" : "I stayed with Erica for 2 weeks and it was great! When I arrived at Erica's I was greeted by her delightful son as she was sunning it up on a beautiful beach! I was free to do what I want and when I want. The room was spotless and so comfy - I felt right at home. Amazing stay, I would definitely recommend staying here. "
+        }, 
+        {
+            "_id" : "108103645",
+            "date" : NumberLong(1476417600000),
+            "by" : {
+                "id" : "44597213",
+                "name" : "Will",
+                "img" : "https://a0.muscache.com/im/pictures/user/bb994ce0-5785-4c12-9815-e08df5db0658.jpg?im_w=240"
+            },
+            "txt" : "True to the description, Erika's place is an oasis of serenity in the city. Erika was a great host and really extended herself to make sure I was comfortable and felt welcome. Her apartment is absolutely lovely, spacious, very clean and tidy, as is the room. The apartment is just a few steps away from subway stations, restaurants and a great grocery store. Staying with Erika and her son was a wonderful experience; they are both lovely people. I had a great stay and would highly recommend.\r\n\r\nAlso, Erica makes a mean cup of Italian coffee.  If you stay with her, don't miss it! "
+        }
+    ]
+}
+{
+    "listingUrl" : "https://www.airbnb.com/rooms/1068505",
+    "name" : "Relaxing and Roomy in Crown Heights",
+    "locationDesc" : "This comfortable and spacious room is the middle room of a beautiful 3 bedroom apartment. With 2 doorway exits (one to the hallway and the other to the living room) the room has a unique setup while maintaining complete privacy. There is a skylight on the ceiling allowing for natural light and a ceiling fan for circulation.   The apartment is on the street side of a tree lined street, where natural light filters in throughout most of the day. I am located on the top (3rd floor, walk-up) of a lovely, family-owned brownstone which is located conveniently near numerous train lines (2,3,4,5,A,C, or Shuttle to the B,Q) - a short 20 minute commute to Manhattan. I have enjoyed this vibrant, lively and fun neighborhood for more than 6 years. On the block you can find unique coffee & tea shops with wireless internet, fresh baked goods, friendly bodegas, a couple of bars and EXCELLENT food (Thai, Mexican, Chinese, etc.) and a laundromat on the corner. Just a couple blocks further in either direc",
+    "spaceDesc" : "This comfortable and spacious room is the middle room of a beautiful 3 bedroom apartment. With 2 doorway exits (one to the hallway and the other to the living room) the room has a unique setup while maintaining complete privacy. There is a skylight on the ceiling allowing for natural light and a ceiling fan for circulation.   The apartment is on the street side of a tree lined street, where natural light filters in throughout most of the day. I am located on the top (3rd floor, walk-up) of a lovely, family-owned brownstone which is located conveniently near numerous train lines (2,3,4,5,A,C, or Shuttle to the B,Q) - a short 20 minute commute to Manhattan. I have enjoyed this vibrant, lively and fun neighborhood for more than 6 years. On the block you can find unique coffee & tea shops with wireless internet, fresh baked goods, friendly bodegas, a couple of bars and EXCELLENT food (Thai, Mexican, Chinese, etc.) and a laundromat on the corner. Just a couple blocks further in either direc",
+    "spaceType" : "Apartment",
+    "roomType" : "Private room",
+    "cancellationPolicy" : "moderate",
+    "capacity" : 2,
+    "bedrooms" : 1,
+    "beds" : 1,
+    "numberOfReviews" : 46,
+    "bathrooms" : 1,
+    "amenities" : [ 
+        "Air conditioning", 
+        "Essentials", 
+        "Hangers", 
+        "Heating", 
+        "Iron", 
+        "Kitchen", 
+        "Parking", 
+        "TV", 
+        "Wifi"
+    ],
+    "price" : 50,
+    "imgs" : [ 
+        "https://a0.muscache.com/im/pictures/acf0d195-2e73-4756-9f28-e81369a9bf3b.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/d534a3df-c57f-4049-8a80-33184e332d3f.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/970dcbe8-c1ea-4004-9a02-bfe727fa46a4.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/6954e4dd-3bba-42e0-8b6b-ccb79b87ca39.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/221a673a-0d8e-4bed-83d1-3b0b5a74df72.jpg?im_w=720"
+    ],
+    "host" : {
+        "id" : "2128778",
+        "url" : "https://www.airbnb.com/users/show/2128778",
+        "name" : "Rachael",
+        "location" : "Brooklyn, NY",
+        "about" : "As a Social Work Community Organizer, Educator and Activist, I spend most of my time working both locally and in other parts of the country/world.  I love the arts and have a background in theatre and music- and an interest in writing poetry. Although I dont drink or party, I am known to work it out on the dance floor! I talk on the phone a lot and am a morning gym person.\n\nI grew up in the midwest and have lived in NYC for about 13 years. Ive been in my current (3 bedroom) apartment for about 12 years and have been doing airbnb for about half of that time! I am in my mid 30's, I work from home and enjoy a friendly, clean, peaceful environment.\n\nIf im home, Im often working in my room/home office. From time to time i host small meetings in my room or living room. Guests are welcome to come and go as they please. Since i have 2 rooms on airbnb i just ask folks to be mindful of other people, shared bathroom and kitchen, etc.  Although i dont normally get to spend a lot of time with guests, I truly enjoy meeting new people and it means so much to me for people to enjoy my home. Given the high rate of gentrification where i live, im also happy to share more about local businesses to support that invest in families who have historically lived in this neighborhood. Feel free to ask!",
+        "responseTime" : "within a day",
+        "thumbnail" : "https://a0.muscache.com/im/pictures/user/f6c7bc12-dca4-48d1-8b1a-d6d0ad27e84c.jpg?im_w=240",
+        "profileImg" : "https://a0.muscache.com/im/pictures/user/f6c7bc12-dca4-48d1-8b1a-d6d0ad27e84c.jpg?im_w=240",
+        "responseRate" : 100,
+        "isSuperhost" : true,
+        "identityVerified" : true
+    },
+    "address" : {
+        "street" : "Brooklyn, NY, United States",
+        "city" : "New York",
+        "country" : "United States",
+        "coordinates" : {
+            "lat" : 40.67414,
+            "lng" : -73.95667
+        }
+    },
+    "reviewScores" : {
+        "accuracy" : 10,
+        "cleanliness" : 10,
+        "checkin" : 10,
+        "communication" : 10,
+        "location" : 10,
+        "value" : 9,
+        "rating" : 96
+    },
+    "reviews" : [ 
+        {
+            "_id" : "4484746",
+            "date" : "1367899200000",
+            "by" : {
+                "id" : "6061475",
+                "name" : "Silvia",
+                "img" : "https://a0.muscache.com/im/pictures/user/4372a802-7684-4d18-ad96-ff6289d34b9c.jpg?im_w=240"
+            },
+            "txt" : "It was great! \r\nRachael`s cosy home is in the middle of Brooklyn and Rachael is just brilliant, full of joy and energy. Just around the corner there are many nice bars and delis. It is such a nice place to be. On our first day we go for a \"little\"walk from R home to and over the Brooklyn Bridge. You can see and look so much on this walk, perfect. We definetely enjoyed our trip to NY and would ever go back to Rachaels home! \r\nSilvi & Jo"
+        }, 
+        {
+            "_id" : "5081248",
+            "date" : "1370923200000",
+            "by" : {
+                "id" : "5983688",
+                "name" : "Kathrine Bork",
+                "img" : "https://a0.muscache.com/defaults/user_pic-225x225.png?im_w=240"
+            },
+            "txt" : "We had 5 wonderful weeks in the cozy brownstone-apartment in Brooklyn. The neighbourhood was amazing, with small cafés etc. with live music and local events on Franklin Ave (Little Zelda's, Cool Pony...), Brooklyn Botanic Garden + Brooklyn Museum + Prospect Park nearby. The apartment had a great kitchen, fully equipped and we sometimes took the dinner with us down to the front stairs on the street. Our room had a small walk-in closet and a bed, we also enjojyed the big living room. Rachael was so sweet. She worked a lot, but we could always ask her about anything. She had a great laughter and we sometimes chit chattet with her in the kitchen. We would definately recommend a stay in this great apartment!"
+        }, 
+        {
+            "_id" : "7288845",
+            "date" : "1379131200000",
+            "by" : {
+                "id" : "1525791",
+                "name" : "Dorian",
+                "img" : "https://a0.muscache.com/im/pictures/user/71d5560f-6991-44a6-a78d-efc8931bd93a.jpg?im_w=240"
+            },
+            "txt" : "Rachael was so wonderful! She really makes the effort to make her spaceDesc friendly and lovely. She so obviously loves where she lives and loves her neighborhood and having others to share it with. It was so much fun and relaxing staying with her and talking about all kinds of things. She's the best and I would happily stay with her again!"
+        }, 
+        {
+            "_id" : "7840236",
+            "date" : "1380945600000",
+            "by" : {
+                "id" : "1645904",
+                "name" : "John",
+                "img" : "https://a0.muscache.com/im/pictures/user/7fa95ea2-7383-4c52-b99b-f4c0454323ff.jpg?im_w=240"
+            },
+            "txt" : "I couldn't recommend staying in Rachael's house more highly. Rachael was very warm and welcoming and almost always available to ask questions of or even just have a chat with.\r\nThe house is in a really great old Brooklyn neighbourhood with plenty of character and some really great cafes, restaurants and vintage stores springing up just around the corner."
+        }, 
+        {
+            "_id" : "9020177",
+            "date" : "1385960400000",
+            "by" : {
+                "id" : "2845999",
+                "name" : "Max",
+                "img" : "https://a0.muscache.com/im/pictures/user/1f56b1f8-08f7-4818-b43d-e54ce1e86cf9.jpg?im_w=240"
+            },
+            "txt" : "I really didn't feel that Rachel's room was adequately represented in the listing. It's very much an interior room, not just by a hall and a living room, but also by a staircase, the bathroom and the kitchen. It's in the center of the apartment. The openings are sheet rocked in, so have no insulation. There is no separation from the owner's unit downstairs. "
+        }
+    ]
+}
+{
+    "listingUrl" : "https://www.airbnb.com/rooms/10573225",
+    "name" : "Charming Spacious Park Slope Studio",
+    "locationDesc" : "Spacious and inviting garden level studio apartment in townhouse with separate entrance and large kitchen located in Park Slope, very near the F and G subway and Prospect Park, and only a few steps away from 7th Avenue, with its many fine shops and restaurants.",
+    "spaceDesc" : "The apartment is a very pleasant and comfortable place to relax after a busy day exploring New York. It is located on a quiet tree-lined block on the ground floor of the townhouse where we live. There is a separate entrance to the studio apartment, which leads into a fully furnished living room/bedroom area, with wifi, TV, books to read, music to listen to, even a guitar to strum if you’re in the mood. There is a queen sized bed as well as a futon that can convert into a very comfortable bed as well where children could sleep. The full kitchen is quite spacious, with butcher block countertops and a new dishwasher. There is a coffeemaker, toaster oven, and microwave in the kitchen, as well as other amenities like pots, pans, dishes, glasses, mugs, cutlery, soap, towels, etc. The dining room is connected to the kitchen and is also quite roomy and comfortable, with lots of light coming from the backyard; it is one of our favorite spots in the whole house. You are also welcome in warmer mo",
+    "description" : "Spacious and inviting garden level studio apartment in townhouse with separate entrance and large kitchen located in Park Slope, very near the F and G subway and Prospect Park, and only a few steps away from 7th Avenue, with its many fine shops and restaurants. The apartment is a very pleasant and comfortable place to relax after a busy day exploring New York. It is located on a quiet tree-lined block on the ground floor of the townhouse where we live. There is a separate entrance to the studio apartment, which leads into a fully furnished living room/bedroom area, with wifi, TV, books to read, music to listen to, even a guitar to strum if you’re in the mood. There is a queen sized bed as well as a futon that can convert into a very comfortable bed as well where children could sleep. The full kitchen is quite spacious, with butcher block countertops and a new dishwasher. There is a coffeemaker, toaster oven, and microwave in the kitchen, as well as other amenities like pots, pans, dish",
+    "spaceType" : "Apartment",
+    "roomType" : "Entire place",
+    "cancellationPolicy" : "moderate",
+    "capacity" : 3,
+    "bedrooms" : 0,
+    "beds" : 0,
+    "numberOfReviews" : 115,
+    "bathrooms" : 1.0,
+    "amenities" : [ 
+        "Air conditioning", 
+        "Essentials", 
+        "Hangers", 
+        "Heating", 
+        "Iron", 
+        "Kitchen", 
+        "Parking", 
+        "TV", 
+        "Wifi"
+    ],
+    "price" : 135,
+    "imgs" : [ 
+        "https://a0.muscache.com/im/pictures/9d2bdd04-bb14-4059-894e-bebc1ce4fa65.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/miso/Hosting-46492930/original/6e749462-f1d6-464e-ae43-fc473e7f1a44.jpeg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/miso/Hosting-46492930/original/313e4b0e-0655-4cc8-848f-8f60b05144c2.jpeg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/miso/Hosting-46492930/original/20b09347-cef1-4761-be53-5dc22c040c58.jpeg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/user/d672c22a-1fdd-4bc0-acd7-7e892419dc03.jpg?im_w=240"
+    ],
+    "host" : {
+        "id" : "54539364",
+        "name" : "Ildiko",
+        "location" : "New York, New York, United States",
+        "about" : "I'm a chief executive at an insurance company in New York City. Educated in cinema at Nyu, I'm into fitness and nutrition. I've lived in the city since enrolling at Parsons in the late 90s.\r\n\r\nIf you're looking for restaurant reservations, boutique fitness studios, or things to do in the city, then just let me know what you're interested in. I'd love to offer some suggestions and help you have a wonderful stay in New York City.",
+        "responseTime" : "within a day",
+        "thumbnail" : "https://a0.muscache.com/im/pictures/user/db6818d9-ccda-4881-9789-525287fb2692.jpg?im_w=240",
+        "profileImg" : "https://a0.muscache.com/im/pictures/user/db6818d9-ccda-4881-9789-525287fb2692.jpg?im_w=240",
+        "responseRate" : 93,
+        "isSuperhost" : true,
+        "identityVerified" : false
+    },
+    "address" : {
+        "street" : "Brooklyn, NY, United States",
+        "city" : "New York",
+        "country" : "United States",
+        "coordinates" : {
+            "lat" : 40.6651,
+            "lng" : -73.98307
+        }
+    },
+    "reviewScores" : {
+        "accuracy" : 10,
+        "cleanliness" : 10,
+        "checkin" : 10,
+        "communication" : 10,
+        "location" : 10,
+        "value" : 10,
+        "rating" : 98
+    },
+    "reviews" : [ 
+        {
+            "_id" : "60372814",
+            "date" : "1453438800000",
+            "by" : {
+                "id" : "10573225",
+                "name" : "Evan",
+                "img" : "https://a0.muscache.com/im/pictures/user/a1cd3a29-c61d-42e3-8528-44f6ead5f2c6.jpg?im_w=240"
+            },
+            "txt" : "Ildiko and her spaceDesc were nothing short of great.\r\n\r\nI had rented out the spaceDesc under unusual circumstances, likely out of the ordinary compared to most Airbnb reservations. Ildiko was super accommodating and understanding throughout our time in her spaceDesc."
+        }, 
+        {
+            "_id" : "65180630",
+            "date" : "1457672400000",
+            "by" : {
+                "id" : "39172437",
+                "name" : "Sean",
+                "img" : "https://a0.muscache.com/im/pictures/user/4b723bc0-7a8b-4f1a-ba43-83a42718139a.jpg?im_w=240"
+            },
+            "txt" : "Ildiko met me at the apartment and personally showed me around the spaceDesc. The apartment is quite a bit larger than the photos made it seem, and I was very comfortable here. It's also on the first floor, which is nice if you have heavy suitcases (it gets difficult lugging stuff up three flights of stairs). Even though it's on street level, the street is a quiet / residential one."
+        }, 
+        {
+            "_id" : "69347666",
+            "date" : "1460260800000",
+            "by" : {
+                "id" : "13238133",
+                "name" : "Oswaldo",
+                "img" : "https://a0.muscache.com/im/pictures/user/1bc13372-313a-4ab0-ab86-0b0749d44c7c.jpg?im_w=240"
+            },
+            "txt" : "Apartment is excellent! Good spaceDesc and very clean. Bathroom is very quite comfortable. The location is very good if you want to wonder around Park slope and other areas of Brooklyn. \r\n\r\nIldiko was always attentive and helpful. \r\n"
+        }
+    ]
+}
+{
+    "listingUrl" : "https://www.airbnb.com/rooms/10542174",
+    "name" : "Luxury 1-Bdrm in Downtown Brooklyn",
+    "locationDesc" : "A perfect blend of one of BKLYN's hippest areas with a new, high-rise apartment building. You'll be hard pressed to find a corner unit like this closer the the City. Almost 800 sf of living space with luxury amenities & modern but comfy furnishings.",
+    "spaceDesc" : "A perfect blend of one of BKLYN's hippest areas with a new, high-rise apartment building. You'll be hard pressed to find a corner unit like this closer the the City. Almost 800 sf of living space with luxury amenities & modern but comfy furnishings.",
+    "spaceType" : "Apartment",
+    "roomType" : "Entire place",
+    "cancellationPolicy" : "strict 14 with grace period",
+    "capacity" : 2,
+    "bedrooms" : 1,
+    "beds" : 1,
+    "numberOfReviews" : 1,
+    "bathrooms" : 1,
+    "amenities" : [ 
+        "Air conditioning", 
+        "Essentials", 
+        "Hangers", 
+        "Heating", 
+        "Iron", 
+        "Kitchen", 
+        "Parking", 
+        "TV", 
+        "Wifi"
+    ],
+    "price" : 144,
+    "imgs" : [ 
+        "https://a0.muscache.com/im/pictures/3853d9c2-daf1-45f9-84f8-c73f60deea99.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/994ed6cc-ae55-49b9-a7cb-9ad4141f6c6e.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/0df34fef-652a-4536-a321-94b99c3c7090.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/7b013920-ccd4-4b09-85e0-7a90f865c618.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/user/17148627-690e-4d7e-b13b-8f4d013ae833.jpg?im_w=240"
+    ],
+    "host" : {
+        "id" : "10099253",
+        "url" : "https://www.airbnb.com/users/show/10099253",
+        "name" : "Ashley",
+        "location" : "New York, New York, United States",
+        "about" : "I'm an executive at a wellness company in New York City. Educated in Fashion at Parsons, I'm into fitness and nutrition. I've lived in the city since enrolling at Parsons in the late 90s.\r\n\r\nIf you're looking for restaurant reservations, boutique fitness studios, or things to do in the city, then just let me know what you're interested in. I'd love to offer some suggestions and help you have a wonderful stay in New York City.",
+        "thumbnail" : "https://a0.muscache.com/im/pictures/user/acf167de-12e4-4e10-828a-972f32da70bd.jpg?im_w=240",
+        "profileImg" : "https://a0.muscache.com/im/pictures/user/acf167de-12e4-4e10-828a-972f32da70bd.jpg?im_w=240",
+        "neighbourhood" : "Downtown Brooklyn",
+        "isSuperhost" : false,
+        "identityVerified" : false
+    },
+    "address" : {
+        "street" : "Brooklyn, NY, United States",
+        "city" : "New York",
+        "country" : "United States",
+        "coordinates" : {
+            "lat" : 40.69406,
+            "lng" : -73.98102
+        }
+    },
+    "reviewScores" : {
+        "accuracy" : 10,
+        "cleanliness" : 10,
+        "checkin" : 9,
+        "communication" : 9,
+        "location" : 6,
+        "value" : 9,
+        "rating" : 90
+    },
+    "reviews" : [ 
+        {
+            "_id" : "63276241",
+            "date" : "1456030800000",
+            "by" : {
+                "id" : "2043011",
+                "name" : "Francesco",
+                "img" : "https://a0.muscache.com/im/pictures/user/02f64f9c-57e9-43c8-ae5b-c444343d5f89.jpg?im_w=240"
+            },
+            "txt" : "The host canceled this reservation 2 days before arrival. This is an automated posting."
+        }
+    ]
+}
+{
+    "listingUrl" : "https://www.airbnb.com/rooms/10332161",
+    "name" : "A large sunny bedroom",
+    "locationDesc" : "A large, sunny , affordable and very clean room in a fully renovated 2-bedroom apartment with only 2 mins walk to D train at Bronx.",
+    "spaceDesc" : "A large, sunny , affordable and very clean room in a fully renovated 2-bedroom apartment with only 2 mins walk to D train at Bronx.",
+    "spaceType" : "Apartment",
+    "roomType" : "Private room",
+    "cancellationPolicy" : "moderate",
+    "capacity" : 1,
+    "bedrooms" : 1,
+    "beds" : 1,
+    "numberOfReviews" : 2,
+    "bathrooms" : 1.0,
+    "amenities" : [ 
+        "Air conditioning", 
+        "Dryer", 
+        "Essentials", 
+        "Hangers", 
+        "Heating", 
+        "Iron", 
+        "Kitchen", 
+        "Parking", 
+        "TV", 
+        "Wifi"
+    ],
+    "price" : 35,
+    "imgs" : [ 
+        "https://a0.muscache.com/im/pictures/f47b1f5f-43ed-4363-b126-e0b07f4c7993.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/e188d532-5384-4c86-9007-8f39de065d22.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/c5e3ca5c-dd71-4036-9f04-fc71d7d5cd14.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/47befafb-07a1-469c-9d77-a3a74bb3482b.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/368c947d-16a1-43ca-8db8-a67efd614d39.jpg?im_w=720"
+    ],
+    "host" : {
+        "id" : "53169195",
+        "name" : "Eddie",
+        "location" : "New York, New York, United States",
+        "about" : "My name is Eddie, i work in the show biz. Ilove Nyc and would love it if you would join me!",
+        "thumbnail" : "https://a0.muscache.com/im/pictures/c6f4d130-30d3-482c-994b-4a4ea575ac39.jpg?aki_policy=profile_small",
+        "profileImg" : "https://a0.muscache.com/im/pictures/c6f4d130-30d3-482c-994b-4a4ea575ac39.jpg?aki_policy=profile_x_medium",
+        "isSuperhost" : false,
+        "identityVerified" : true
+    },
+    "address" : {
+        "street" : "Bronx, NY, United States",
+        "city" : "New York",
+        "country" : "United States",
+        "coordinates" : {
+            "lat" : 40.85598,
+            "lng" : -73.90052
+        }
+    },
+    "reviewScores" : {
+        "accuracy" : 10,
+        "cleanliness" : 10,
+        "checkin" : 9,
+        "communication" : 9,
+        "location" : 6,
+        "value" : 9,
+        "rating" : 90
+    },
+    "reviews" : [ 
+        {
+            "_id" : "91468272",
+            "date" : "1470369600000",
+            "by" : {
+                "id" : "35316156",
+                "name" : "Ron",
+                "img" : "https://a0.muscache.com/im/pictures/user/02f64f9c-57e9-43c8-ae5b-c444343d5f89.jpg?im_w=240"
+            },
+            "txt" : "I had a fantastic stay. I didn't meet Eddie in person, but he did a great job of making sure his roommate took care of everything I needed and he was extremely hospitable. The place was especially clean, and the room was exactly as pictured and described. Note that there was a block party nearby, so there was some level of noise a couple nights, but it ended at reasonable hours.\r\n\r\nI would DEFINITELY stay here again and recommend it to others."
+        }, 
+        {
+            "_id" : "95773716",
+            "date" : "1471665600000",
+            "by" : {
+                "id" : "82945666",
+                "name" : "Gabby",
+                "img" : "https://a0.muscache.com/im/pictures/user/cf788a2d-0d19-4253-bff5-ef60772c6673.jpg?im_w=240"
+            },
+            "txt" : "Excellent accommodation in staying here. A very clean apartment with a friendly and helpful roommate. The bedroom was large, quiet and air conditioned :)"
+        }
+    ]
+}
+{
+    "name" : "Cozy Art Top Floor Apt in PRIME Williamsburg!",
+    "listingUrl" : "https://www.airbnb.com/rooms/103161",
+    "locationDesc" : "My Apt it's right in the middle of the best and hot spots in the heart of REAL Williamsburg on Bedford Ave. Close to everything. 4 Subway stations (L/G/JMZ) around, same distance all! Very chill and cozy! 2 people only. No kids and pets please.",
+    "spaceDesc" : "My Apt it's right in the middle of the best and hot spots in the heart of REAL Williamsburg on Bedford Ave. Close to everything. 4 Subway stations (L/G/JMZ) around, same distance all! Very chill and cozy! 2 people only. No kids and pets please. Hi there! This is a cozy and impeccable one bedroom apartment in the heart of Williamsburg on North 1st Street.  One of the hippest and lively neighborhoods in New York City nowadays. Lots of intimate Cafes, Restaurants, Bars, Park, Discoteque, Concert Venues,  and the proximity to the East River gives it its special vibe.  As well as local Designer Stores, Vintage Stores, Apple Store, Whole Foods Supermarket, Sephora, Duane Reade, Food Town Supermarket, Martas Bakery, Maison Premiere, Domino Park, Urban Outfitters, Madewell, JC Crew, Music Hall of Williamsburg, Knitting Factory, Baby's All Right, Rough Trade, Brooklyn Steel, Yoga Studios, Pilates Studio, Spinning Studios, Equinox, Williamsburg Cinema, Nitehawk Cinema, Citi Bank, Citi Bikes, Ban",
+    "spaceType" : "Apartment",
+    "roomType" : "Entire place",
+    "cancellationPolicy" : "strict 14 with grace period",
+    "capacity" : 2,
+    "bedrooms" : 1,
+    "beds" : 2,
+    "numberOfReviews" : 6,
+    "bathrooms" : 1,
+    "amenities" : [ 
+        "Air conditioning", 
+        "Dryer", 
+        "Essentials", 
+        "Hangers", 
+        "Heating", 
+        "Iron", 
+        "Kitchen", 
+        "Parking", 
+        "TV", 
+        "Wifi"
+    ],
+    "price" : 175,
+    "imgs" : [ 
+        "https://a0.muscache.com/im/pictures/miso/Hosting-103161/original/b3baecd3-a8ba-48e2-85f4-966a5cd89a60.jpeg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/miso/Hosting-103161/original/10a9a61c-8ea0-4121-b1d2-00c2d48a842a.jpeg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/miso/Hosting-103161/original/3bbdfb80-02a2-4729-ba15-8e9b7fb23cd1.jpeg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/miso/Hosting-103161/original/2f639adf-8ab2-49a9-b15b-9ddd58906b80.jpeg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/miso/Hosting-103161/original/869ca60b-0954-439a-ac3b-9bb23db5eee3.jpeg?im_w=720"
+    ],
+    "host" : {
+        "id" : "465278",
+        "name" : "Ade",
+        "location" : "Brooklyn, NY",
+        "about" : "I'm a Photographer and I love music, travel and good food! I speak Spanish, Italian and English! ",
+        "responseTime" : "within a few hours",
+        "thumbnail" : "https://a0.muscache.com/im/users/465278/profile_pic/1379275888/original.jpg?aki_policy=profile_small",
+        "profileImg" : "https://a0.muscache.com/im/users/465278/profile_pic/1379275888/original.jpg?aki_policy=profile_x_medium",
+        "neighbourhood" : "Williamsburg",
+        "responseRate" : 100,
+        "isSuperhost" : true,
+        "identityVerified" : true
+    },
+    "address" : {
+        "street" : "Brooklyn, NY, United States",
+        "suburb" : "Williamsburg",
+        "city" : "New York",
+        "country" : "United States",
+        "coordinates" : {
+            "lng" : -73.96053,
+            "lat" : 40.71577
+        }
+    },
+    "reviewScores" : {
+        "accuracy" : 10,
+        "cleanliness" : 10,
+        "checkin" : 10,
+        "communication" : 10,
+        "location" : 10,
+        "value" : 9,
+        "rating" : 96
+    },
+    "reviews" : [ 
+        {
+            "_id" : "7465430",
+            "date" : "1379736000000",
+            "by" : {
+                "id" : "370229",
+                "name" : "Martha",
+                "img" : "https://a0.muscache.com/im/users/5708346/profile_pic/1364779532/original.jpg?im_w=240"
+            },
+            "txt" : "Adela's apartment is fantastic – perfectly located in the heart of Williamsburg, very clean, nicely furnished and convenient.\r\nDefinitely one of the best New York apartments I stayed in recently.\r\nAdela was very helpful and easy to communicate with.\r\nHighly recommended!\r\n"
+        }, 
+        {
+            "_id" : "7565039",
+            "date" : "1379995200000",
+            "by" : {
+                "id" : "2580811",
+                "name" : "Matt",
+                "img" : "https://a0.muscache.com/im/pictures/user/1cf6cccd-e656-4cd8-a29f-edfae36875fc.jpg?im_w=240"
+            },
+            "txt" : "Ade has an AWESOME apt in Williamsburg -- location is nuts, a reasonable price considering the location, and a great vibe.  Close to about everything in Williamsburg.\r\n\r\nWouldve stayed longer if i couldve."
+        }, 
+        {
+            "_id" : "8219422",
+            "date" : "1382328000000",
+            "by" : {
+                "id" : "8803584",
+                "name" : "Diego",
+                "img" : "https://a0.muscache.com/im/pictures/user/be4c2176-75a8-450e-a033-c4619c99a58a.jpg?im_w=240"
+            },
+            "txt" : "Very nice Apt. in the hearth of Williamsburg and Bedford, wich is like the coolest place in Brooklyn, but in a very quiet and safety street. The apt, is in a 4th floor (no elevator) very clean and luminous.\r\n\r\nYou have two subway stations at 10'walk, and is really cool also if you want to bike the city.\r\n\r\nAde is really nice, will let everything ready for you and give some suggestions, se can speak Spanish too and in general all was as I expected, I would def. Recommend this place."
+        }, 
+        {
+            "_id" : "8525039",
+            "date" : "1383541200000",
+            "by" : {
+                "id" : "4632016",
+                "name" : "Nir",
+                "img" : "https://a0.muscache.com/im/pictures/user/4a0156c4-19d2-405e-8aba-cf6a1ee35f90.jpg?im_w=240"
+            },
+            "txt" : "The apartment is nice (a bit small). Great location in Williamsburg. Nice bars and restaurants near by. 3 minutes from the subway"
+        }
+    ]
+}
+{
+    "listingUrl" : "https://www.airbnb.com/rooms/10166986",
+    "name" : "Resort-like living in Williamsburg",
+    "locationDesc" : "Amazing Apt : 1 bdrm/1 bathroom furnished, New building with a doorman, jacuzzi, gym, pool, and roofdeck with an amazing Manhattan view.  Very good location : 4-Minutes walk to the L subway station, then Just 3 stops away from Manhattan.",
+    "spaceDesc" : "Amazing Apt : 1 bdrm/1 bathroom furnished, New building with a doorman, jacuzzi, gym, pool, and roofdeck with an amazing Manhattan view.  Very good location : 4-Minutes walk to the L subway station, then Just 3 stops away from Manhattan. Accept only reservation for minimum 3 nights.",
+    "notes" : "Accept only reservation for minimum 3 nights.",
+    "interaction" : "",
+    "house_rules" : "",
+    "spaceType" : "Apartment",
+    "roomType" : "Entire place",
+    "cancellationPolicy" : "strict 14 with grace period",
+    "capacity" : 4,
+    "bedrooms" : 2,
+    "beds" : 2,
+    "numberOfReviews" : 1,
+    "bathrooms" : 1,
+    "amenities" : [ 
+        "Air conditioning", 
+        "Dryer", 
+        "Hot tub", 
+        "Essentials", 
+        "Hangers", 
+        "Heating", 
+        "Iron", 
+        "Kitchen", 
+        "Parking", 
+        "Pool", 
+        "TV", 
+        "Ethernet connection", 
+        "Wifi"
+    ],
+    "price" : 220,
+    "imgs" : [ 
+        "https://a0.muscache.com/im/pictures/6e547829-a29b-446d-96f5-a257cd6765bf.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/fd1ee4f9-523e-4d56-a77c-a77abfb467f0.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/6547f68d-d2fb-4e28-8228-dba8320ebddb.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/99e8abea-b149-4abf-a8de-23b91ac215e8.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/07828ac7-b784-47c8-b896-59d12bb01b69.jpg?im_w=720"
+    ],
+    "host" : {
+        "id" : "14461742",
+        "url" : "https://www.airbnb.com/users/show/14461742",
+        "name" : "Nick",
+        "about" : "I am a buisnessman originally from Texas.  I have 30 years of experience in the American Real Estate Market. We specialize in local sales and property management",
+        "thumbnail" : "https://a0.muscache.com/im/users/14461742/profile_pic/1397899792/original.jpg?aki_policy=profile_small",
+        "profileImg" : "https://a0.muscache.com/im/users/14461742/profile_pic/1397899792/original.jpg?aki_policy=profile_x_medium",
+        "isSuperhost" : false,
+        "identityVerified" : true
+    },
+    "address" : {
+        "street" : "Brooklyn, NY, United States",
+        "city" : "New York",
+        "country" : "United States",
+        "coordinates" : {
+            "lat" : 40.71552,
+            "lng" : -73.93869
+        }
+    },
+    "reviewScores" : {
+        "accuracy" : 10,
+        "cleanliness" : 8,
+        "checkin" : 10,
+        "communication" : 10,
+        "location" : 10,
+        "value" : 10,
+        "rating" : 100
+    },
+    "reviews" : [ 
+        {
+            "id" : "58238428",
+            "date" : "1451624400000",
+            "by" : {
+                "id" : "23529124",
+                "name" : "David",
+                "img" : "https://a0.muscache.com/im/pictures/user/f28472f5-6ef6-4d37-b3f6-12192e9af2d2.jpg?im_w=240"
+            },
+            "txt" : "Nick was very welcoming and helpful and ensured we had everything we needed for our stay."
+        }, 
+        {
+            "id" : "582386468",
+            "date" : "1451624400000",
+            "by" : {
+                "id" : "4239234502",
+                "name" : "Nickita",
+                "img" : "https://a0.muscache.com/im/pictures/user/402dc735-c46f-4037-a210-4878f954758c.jpg?im_w=240"
+            },
+            "txt" : "This apatment is top much! Everything is brand new, high quality appliances and finishing touches. The apartment is very spacious, in a great location, the rooftop pool and terrace are great amenities."
+        }, 
+        {
+            "id" : "9403728292",
+            "date" : "1451627800980",
+            "by" : {
+                "id" : "48203948",
+                "name" : "Dana",
+                "img" : "https://a0.muscache.com/im/pictures/user/8caf81e1-a460-497b-aaa5-501db2e719ee.jpg?im_w=240"
+            },
+            "txt" : "Nicks apartment was a luxury escape in such a fabulous location in Madrid. The fit out is lovely with beautiful furniture and amenities and the roof top pool was such a wonderful addition in the heat. We also used the gym on multiple occasions which was a great touch. Thanks for having us!"
+        }, 
+        {
+            "id" : "478234894",
+            "date" : "145167382920",
+            "by" : {
+                "id" : "457644948",
+                "name" : "Cody",
+                "img" : "https://a0.muscache.com/im/users/17453/profile_pic/1372976220/original.jpg?im_w=240"
+            },
+            "txt" : "Wonderful place with a beautiful Terrace in the best location of NYC. Nick was a perfect host, the Apartament was clean and perfectly equipped. It’s very recommendable and we will definitely come back. Thanks Nick for everything!"
+        }, 
+        {
+            "id" : "5432657432",
+            "date" : "4321121234432",
+            "by" : {
+                "id" : "48203948",
+                "name" : "Dori",
+                "img" : "https://a0.muscache.com/im/users/337517/profile_pic/1360541616/original.jpg?im_w=240"
+            },
+            "txt" : "Very nicely located appartment right in the center across from a food market. The terrage was a real plus for a sunset drink. Overall we were super happy"
+        }, 
+        {
+            "id" : "23452452345",
+            "date" : "314233412434",
+            "by" : {
+                "id" : "467903948",
+                "name" : "Vivian",
+                "img" : "https://a0.muscache.com/im/pictures/user/5f5b0e47-00e8-4ed0-a844-f6a2b22691db.jpg?im_w=240"
+            },
+            "txt" : "Easiest check in and communication. We extended our stay by one night and was so simple to do due to quick responses from the host. The apartment was sparkly clean and very cosy!!!"
+        }
+    ]
+}
+{
+    "name" : "Ocean View Waikiki Marina w/prkg",
+    "listingUrl" : "https://www.airbnb.com/rooms/1001265",
+    "locationDesc" : "Great studio located on Ala Moana across the street from Yacht Harbor and near Ala Moana Shopping Center. Studio kitchette, parking, wifi, TV, A/C. Amenities include pool, hot tub and tennis. Sweet ocean views with nice ocean breezes.",
+    "spaceDesc" : "A short distance from Honolulu's billion dollar mall, and the same distance to Waikiki. Parking included. A great location that work perfectly for business, education, or simple visit. Experience Yacht Harbor views and 5 Star Hilton Hawaiian Village. Great studio located on Ala Moana across the street from Yacht Harbor and near Ala Moana Shopping Center. Studio kitchette, parking, wifi, TV, A/C. Amenities include pool, hot tub and tennis. Sweet ocean views with nice ocean breezes. Pool, hot tub and tennis We try our best at creating, simple responsive management which never bothers the guest. You can breath ocean as well as aloha. Honolulu does have a very good air conditioned bus system.",
+    "spaceType" : "Condominium",
+    "roomType" : "Entire place",
+    "cancellationPolicy" : "strict 14 with grace period",
+    "capacity" : 2,
+    "bedrooms" : 1,
+    "beds" : 1,
+    "bathrooms" : 1,
+    "amenities" : [ 
+        "Air conditioning", 
+        "Dryer", 
+        "Hot tub", 
+        "Essentials", 
+        "Hangers", 
+        "Heating", 
+        "Iron", 
+        "Kitchen", 
+        "Parking", 
+        "Pool", 
+        "TV", 
+        "Ethernet connection", 
+        "Wifi"
+    ],
+    "price" : 115,
+    "imgs" : [ 
+        "https://a0.muscache.com/im/pictures/15037101/5aff14a7_original.jpg?aki_policy=large", 
+        "https://a0.muscache.com/im/pictures/09d9181c-7a5e-4746-97c1-bde5136cf317.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/b70cf500-d43d-444b-9533-092b74a64157.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/f73394c2-19f7-4fef-9149-c68f4c65b1a2.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/15037118/90333328_original.jpg?im_w=720"
+    ],
+    "host" : {
+        "id" : "5448114",
+        "name" : "David",
+        "about" : "I have 30 years of experience in the Waikiki Real Estate Market. We specialize in local sales and property management. Our goal is service and aloha. We want to help people enjoy Hawaii.",
+        "thumbnail" : "https://a0.muscache.com/im/users/5448114/profile_pic/1363202219/original.jpg?aki_policy=profile_small",
+        "profileImg" : "https://a0.muscache.com/im/users/5448114/profile_pic/1363202219/original.jpg?aki_policy=profile_x_medium",
+        "responseRate" : 98,
+        "responseTime" : "Within an hour",
+        "isSuperhost" : false,
+        "identityVerified" : false
+    },
+    "address" : {
+        "street" : "Honolulu, HI, United States",
+        "city" : "Oahu",
+        "country" : "United States",
+        "coordinates" : {
+            "lat" : 21.28634,
+            "lng" : -157.83919
+        }
+    },
+    "reviewScores" : {
+        "accuracy" : 9,
+        "cleanliness" : 8,
+        "checkin" : 9,
+        "communication" : 9,
+        "location" : 10,
+        "value" : 9,
+        "rating" : 90
+    },
+    "reviews" : [ 
+        {
+            "id" : "4765259",
+            "date" : "2013-05-24T04:00:00.000Z",
+            "by" : {
+                "id" : "6435238",
+                "img" : "https://a0.muscache.com/im/pictures/user/02439a52-ddeb-482d-b5e1-d25fedd73164.jpg?im_w=240",
+                "name" : "John"
+            },
+            "txt" : "Our stay was excellent.  The place had a breath taking view.  David was very accommodating with our hotel stay, parking availability and all of our concerns & questions.  He did above and beyond what anyone would want.  He's a man of his word and very professional.  We highly recommend for everyone to stay in all of the places he recommended.  Thank you David for a accommodating our wonderful and memorable stay in Honolulu, Hawaii.  God Bless!  Henry & Jacqui (SF, CA)"
+        }, 
+        {
+            "id" : "7099260",
+            "date" : "2013-09-06T04:00:00.000Z",
+            "by" : {
+                "id" : "7038567",
+                "img" : "https://a0.muscache.com/im/pictures/user/838450c6-8c9d-498c-81c5-51cf6e224db1.jpg?im_w=240",
+                "name" : "Nick"
+            },
+            "txt" : "This is everything we expected and hoped for in a sub-$100/night condo stay in Waikiki. This definitely isn't the Ritz, and if you're looking for a luxury get-away, you're barking up the wrong tree. However, if you're like we were: first time visitors on a budget with humble taste, then this place is perfect. The location is a tiny bit removed from the touristy Beachwalk shopping area, but not so far as to preclude you from limbering up for a spirited walk over there. And by the marina, you're actually quite close to the Ala Moana mall. So, the location is good. The place itself is a modest studio setup, but perfectly adequate with a good sized bed for a couple, enough space for your luggage, and a kitchenette and bathroom that though tight, is perfectly fine. There's also cable and internet if you're looking for homey creature comforts. It was also fantastic to have a free parking space included, an air conditioning wall unit, and the panoramic window view was pretty cool, though you only really get a peak of the beach. Also, David was very good about staying in contact with us the day we arrived to get acclimated, and we did not have further occasion to require his services the rest of our stay, so our contact was minimal, but satisfactory ... no problem there. The minor quibbles we had were pretty thin walls, so we would often hear the murmur of the neighbors' TVs. Also, there seemed to be two elevators working the entire building, so they could take quite a while to pop up. Again though, if you're like us, your #1 priorities are spend a minimal amount of time in your room, get out to experience Hawaii, come back to a sanitary place to sleep at night, all while staying within a reasonable budget. This place fit the bill, and we would recommend it to anyone with the same priorities."
+        }, 
+        {
+            "id" : "8363944",
+            "date" : "2013-10-28T04:00:00.000Z",
+            "by" : {
+                "id" : "7096845",
+                "img" : "https://a0.muscache.com/im/pictures/user/fcac686d-7451-4fd7-9b6e-32654046b09e.jpg?im_w=240",
+                "name" : "Jean"
+            },
+            "txt" : "Fantastic location! Everything in the condo was great and David was lovely and super easy to deal with. Would recommend!"
+        }, 
+        {
+            "id" : "8905060",
+            "date" : "2013-11-25T05:00:00.000Z",
+            "by" : {
+                "id" : "9432081",
+                "img" : "https://a0.muscache.com/im/pictures/user/5fe829d6-e989-488c-96e1-aaa854b2d3a6.jpg?im_w=240",
+                "name" : "Taylor"
+            },
+            "txt" : "The flat is ok for a couple . Location of flat is awesome. Its close to the waikiki beach, Ala Moana park and shoppings . Parking was 20 bucks/day . Overall nice place."
+        }, 
+        {
+            "id" : "9392425",
+            "date" : "2013-12-26T05:00:00.000Z",
+            "by" : {
+                "id" : "9009226",
+                "img" : "https://a0.muscache.com/im/pictures/user/13bd7060-72c3-4500-88ee-926c6693fd62.jpg?im_w=240",
+                "name" : "Carol "
+            },
+            "txt" : "We stayed 23 days in December in \"Ocean view Waikiki Marina\". Our stay was great, the apartment is very well located, clean and comfortable. David and Nicole were very attentive and helped us at all. Loved our vacation in Hawaii and want to return soon. \r\n\r\nAloha!"
+        }, 
+        {
+            "id" : "9496168",
+            "date" : "2013-12-31T05:00:00.000Z",
+            "by" : {
+                "id" : "6184569",
+                "img" : "https://a0.muscache.com/im/pictures/user/efffe1d7-36fc-4aa1-9ac1-36206d971540.jpg?im_w=240",
+                "name" : "Sophie  Lo"
+            },
+            "txt" : "If you're looking to spend most of your time in Hawaii outside (and not inside your room or your hotel, like with the Waikiki resort complexes) then this apartment will do the trick. It's definitely not luxurious but has the basics and is in a great location. It fits 2 people but more would be cramped. \nYou can hit the beach in as little as 5 mns walking or get to central Waikiki beach in 15-20 mns walking.  It's also easy to catch a bus to visit something outside Waikiki. There is a convenience store nearby, as well as several breakfast and restaurant options. The apartment has a small kitchen with cooking utensils but we ended up mostly eating dinners out. \nDavid was courteous and likely very knowledgeable about the area but we didn't ask him for suggestions, we ended up just using our guide book. \nOverall if you want to experience Waikiki without spending a fortune or being pampered, this is a great option. Mahalo David!"
+        }, 
+        {
+            "id" : "10423465",
+            "date" : "2014-02-18T05:00:00.000Z",
+            "by" : {
+                "id" : "11043919",
+                "img" : "https://a0.muscache.com/im/pictures/user/d739fe19-de4f-4f01-9397-2e3fb7727f8f.jpg?im_w=240",
+                "name" : "Rose"
+            },
+            "txt" : "David was there to meet us as soon as we arrived from the airport and was very friendly. He communicated with us before we arrived as well. The apartment was very nice, great location, clean and exactly what we were looking for. Location has a nice pool area."
+        }
+    ]
+}
+{
+    "listingUrl" : "https://www.airbnb.com/rooms/10082422",
+    "name" : "Nice room in Barcelona Center",
+    "locationDesc" : "Nice flat in the central neighboorhood of Eixample.",
+    "spaceDesc" : "Hi!  Cozy double bed room in amazing flat next to Passeig de Sant Joan and to metro stop Verdaguer. 3 streets to Sagrada Familia and 4 streets to Passeig de Gracia. Flat located in the center of the city.  View to Sagrada Familia and Torre Agbar. Nice flat in the central neighboorhood of Eixample. Ideal couple or 2 friends. Dreta de l'Eixample",
+    "spaceType" : "Apartment",
+    "roomType" : "Private room",
+    "cancellationPolicy" : "flexible",
+    "capacity" : 2,
+    "bedrooms" : 1,
+    "beds" : 2,
+    "bathrooms" : "1.0",
+    "amenities" : [ 
+        "Air conditioning", 
+        "Dryer", 
+        "Hot tub", 
+        "Essentials", 
+        "Hangers", 
+        "Heating", 
+        "Iron", 
+        "Kitchen", 
+        "Parking", 
+        "Pool", 
+        "TV", 
+        "Ethernet connection", 
+        "Wifi"
+    ],
+    "price" : 50,
+    "imgs" : [ 
+        "https://ak.picdn.net/shutterstock/videos/8781409/thumb/1.jpg", 
+        "https://a0.muscache.com/im/pictures/804b13af-5efd-4f2c-bc39-a408e0ce8c3e.jpg?im_w=720", 
+        "https://www.mybarcelonaphotos.com/wp-content/uploads/2008/04/dsc_3665.jpg", 
+        "https://a0.muscache.com/im/pictures/0c5c26de-497b-4146-be65-ad9593318b1d.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/aed1923a-69a6-4614-99d0-fd5c8f41ebda.jpg?im_w=720"
+    ],
+    "host" : {
+        "id" : "30393403",
+        "url" : "https://www.airbnb.com/users/show/30393403",
+        "name" : "Anna",
+        "location" : "Barcelona, Catalonia, Spain",
+        "about" : "I'm Anna, italian. I'm 28, friendly and easygoing.  I love travelling, reading, dancing tango. Can wait to meet new people! :)",
+        "thumbnail" : "https://a0.muscache.com/im/users/30393403/profile_pic/1427876639/original.jpg?aki_policy=profile_small",
+        "profileImg" : "https://a0.muscache.com/im/users/30393403/profile_pic/1427876639/original.jpg?aki_policy=profile_x_medium",
+        "neighbourhood" : "Dreta de l'Eixample",
+        "responseRate" : 90,
+        "responseTime" : "Within 24 hours",
+        "isSuperhost" : false,
+        "identityVerified" : false
+    },
+    "address" : {
+        "street" : "Barcelona, Catalunya, Spain",
+        "city" : "Barcelona",
+        "country" : "Spain",
+        "country_code" : "ES",
+        "coordinates" : {
+            "lat" : 41.40082,
+            "lng" : 2.16942
+        }
+    },
+    "reviewScores" : {
+        "accuracy" : 6,
+        "cleanliness" : 7,
+        "checkin" : 9,
+        "communication" : 9,
+        "location" : 6,
+        "value" : 5,
+        "rating" : 70
+    },
+    "reviews" : [ 
+        {
+            "id" : "4765259",
+            "date" : "2013-05-24T04:00:00.000Z",
+            "by" : {
+                "id" : "6435238",
+                "img" : "https://a0.muscache.com/im/users/15709401/profile_pic/1400576451/original.jpg?im_w=240",
+                "name" : "Jacqui"
+            },
+            "txt" : "Our stay was Okay.  The place had a nice view.  Anna was very accommodating with our hotel stay, parking availability and all of our concerns & questions.  She did above and beyond what anyone would want.  He's a man of his word and very professional.  We highly recommend for everyone to stay in all of the places he recommended.  Thank you Anna"
+        }, 
+        {
+            "id" : "4908312",
+            "date" : "2013-06-01T04:00:00.000Z",
+            "by" : {
+                "id" : "3454262",
+                "img" : "https://a0.muscache.com/im/pictures/user/badbe002-6e47-49c7-b06d-418636c4991f.jpg?im_w=240",
+                "name" : "Khoren"
+            },
+            "txt" : "There is a nice cafe neer the residence. other than that it wasn't very good."
+        }, 
+        {
+            "id" : "7099260",
+            "date" : "2013-09-06T04:00:00.000Z",
+            "by" : {
+                "id" : "7038567",
+                "img" : "https://a0.muscache.com/im/pictures/user/fb223567-5d20-44db-8737-1323738721fe.jpg?im_w=240",
+                "name" : "Nick"
+            },
+            "txt" : "This is everything we expected and hoped for in a sub-$100/night place to stay. This definitely isn't the Ritz, and if you're looking for a luxury get-away, you're barking up the wrong tree. However, if you're like we were: first time visitors on a budget with humble taste, then this place is perfect. "
+        }, 
+        {
+            "id" : "70538677",
+            "date" : "2016-04-18T04:00:00.000Z",
+            "by" : {
+                "id" : "37843205",
+                "name" : "Diego",
+                "img" : "https://a0.muscache.com/im/users/37843205/profile_pic/1436326105/original.jpg?im_w=240"
+            },
+            "txt" : "The host canceled this reservation 44 days before arrival. This is an automated posting."
+        }
+    ]
+}
+{
+    "name" : "Double room with private bathroom",
+    "listingUrl" : "https://www.airbnb.com/rooms/11953606",
+    "locationDesc" : "It is close to the train, metro and bus (5 minutes walking). There are many supermarkets (Caprabo, Lidl, Mercadona etc.), bars, restaurants, clothing stores and also a big shopping mall (5 minutes walking). You  can reach the city center and most of sightseeings, i.e. Sagrada Familia, Park Güell, Batlló house, La Pedrera by train or metro in less than 30 min leaving home. It takes also just 30 minutes  to come to the beach.",
+    "spaceDesc" : "Double room on the second floor of a new constructed duplex of modern design. There are a wardrobe, a small table and its own air conditioner that could be used  for winter as well as for summer. Large family size bed of 135 x 190 cm. Inside the apartment you could freely use large kitchen with dining table and a lot of modern kitchen devices. Itºs located in a quiet neighborhood just in  15 min by train or metro (the train or metro station are just in 5 min by foot from apartment). It is close to the train, metro and bus (5 minutes walking). There are many supermarkets (Caprabo, Lidl, Mercadona etc.), bars, restaurants, clothing stores and also a big shopping mall (5 minutes walking). You  can reach the city center and most of sightseeings, i.e. Sagrada Familia, Park Güell, Batlló house, La Pedrera by train or metro in less than 30 min leaving home. It takes also just 30 minutes  to come to the beach. The traveler o travelers will have access to the private bathroom, to the washing ma",
+    "spaceType" : "Apartment",
+    "roomType" : "Private room",
+    "cancellationPolicy" : "moderate",
+    "capacity" : 2,
+    "bedrooms" : 1,
+    "beds" : 1,
+    "bathrooms" : 1,
+    "amenities" : [ 
+        "Air conditioning", 
+        "Dryer", 
+        "Hot tub", 
+        "Essentials", 
+        "Hangers", 
+        "Heating", 
+        "Iron", 
+        "Kitchen", 
+        "Parking", 
+        "Pool", 
+        "TV", 
+        "Ethernet connection", 
+        "Wifi"
+    ],
+    "price" : 38,
+    "imgs" : [ 
+        "https://a0.muscache.com/im/pictures/7eb6bf08-2b0b-44fb-aa9a-9a34ec1b8b3d.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/cd50b27c-0de5-4a88-8f7c-78c2cff21fa7.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/0f0839c2-f2dd-4942-896e-c50f02b62d64.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/a54cee97-bde5-4bf4-93bc-5ae5856891e4.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/dfa2af69-41f4-4cdd-bfba-93510c98dc21.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/user/a8c2fa0b-b5f6-4969-9308-47fcc401e8d6.jpg?im_w=240"
+    ],
+    "host" : {
+        "id" : "16022141",
+        "name" : "Sonia",
+        "about" : "Soy una persona extrovertida, sociable, sencilla y me gusta conocer a gente nueva.\r\nEntre mis aficiones están el cine, el baile, los paseos por la playa y la montaña y viajar.",
+        "thumbnail" : "https://a0.muscache.com/im/pictures/user/505e6d58-73fc-453c-889e-9c4e1192bd69.jpg?im_w=240",
+        "profileImg" : "https://a0.muscache.com/im/pictures/user/505e6d58-73fc-453c-889e-9c4e1192bd69.jpg?im_w=240",
+        "isSuperhost" : false,
+        "identityVerified" : false,
+        "responseRate" : 90,
+        "responseTime" : "Within 24 hours"
+    },
+    "address" : {
+        "street" : "Barcelona, CT, Spain",
+        "city" : "Barcelona",
+        "country" : "Spain",
+        "coordinates" : {
+            "lat" : 41.43038,
+            "lng" : 2.17935
+        }
+    },
+    "reviewScores" : {
+        "accuracy" : 10,
+        "cleanliness" : 10,
+        "checkin" : 10,
+        "communication" : 10,
+        "location" : 9,
+        "value" : 9,
+        "rating" : 90
+    },
+    "reviews" : [ 
+        {
+            "id" : "70538677",
+            "date" : "2016-04-18T04:00:00.000Z",
+            "by" : {
+                "id" : "37843205",
+                "name" : "Diego",
+                "img" : "https://a0.muscache.com/im/users/37843205/profile_pic/1436326105/original.jpg?im_w=240"
+            },
+            "txt" : "The host canceled this reservation 44 days before arrival. This is an automated posting."
+        }, 
+        {
+            "id" : "70725289",
+            "date" : "2016-04-20T04:00:00.000Z",
+            "by" : {
+                "id" : "41071490",
+                "name" : "Virginia",
+                "img" : "https://a0.muscache.com/im/users/19125868/profile_pic/1406668052/original.jpg?im_w=240"
+            },
+            "txt" : "La pasamos muy bien en bcn y en lo de sonia, tiene todo muy limpio y equipado, el departamento es hermoso, cerca del metro asiq podes ir  a todos lados, nosotros hicimos todo caminando y sin problema. Sin duda lo recomiendo. Gracias Sonia x tu amabilidad sobre todo con emilia.bso"
+        }, 
+        {
+            "id" : "76838394",
+            "date" : "2016-05-29T04:00:00.000Z",
+            "by" : {
+                "id" : "17945879",
+                "name" : "Santi",
+                "img" : "https://a0.muscache.com/im/pictures/user/6738ffe2-f5c7-4f88-b0b6-229ab2a5f33b.jpg?im_w=240"
+            },
+            "txt" : "Todo muy bien, la habitación y la casa limpia y en zona tranquila. Baño privado y Sonia es una muy buena host."
+        }, 
+        {
+            "id" : "93227428",
+            "date" : "2016-08-12T04:00:00.000Z",
+            "by" : {
+                "id" : "36982672",
+                "name" : "Noemí",
+                "img" : "https://a0.muscache.com/im/users/23482420/profile_pic/1415468439/original.jpg?im_w=240"
+            },
+            "txt" : "El dúplex de Sonia es muy nuevo. Muy próximo a la Meridiana, con la parada de metro de Fabra i Puig a 3 minutos andando, donde coges la línea roja y vas directo al centro sin transbordos. Muy recomendable."
+        }, 
+        {
+            "id" : "94459423",
+            "date" : "2016-08-15T04:00:00.000Z",
+            "by" : {
+                "id" : "55697896",
+                "name" : "Alberto",
+                "img" : "https://a0.muscache.com/im/pictures/user/e26ca2d5-0726-4bd7-be7e-2f84a1fc6194.jpg?im_w=240"
+            },
+            "txt" : "Sonia es agradable y nos ayudó en todo para movernos en Barcelona, la atención fue increíble.\n\nEl barrio está muy cerca del Metro y del centro, además el apartamento es limpio, agradable y súper equipado.\n"
+        }, 
+        {
+            "id" : "105059658",
+            "date" : "2016-09-30T04:00:00.000Z",
+            "by" : {
+                "id" : "61820468",
+                "name" : "Karen",
+                "img" : "https://a0.muscache.com/im/users/34242290/profile_pic/1432621492/original.jpg?im_w=240"
+            },
+            "txt" : "el barrio era muy tranquilo solo que a cierta hora de la noche y del día pasan los camiones de basura y hacen mucho ruido."
+        }
+    ]
+}
+{
+    "name" : "New York City - Upper West Side Apt",
+    "listingUrl" : "https://www.airbnb.com/rooms/1003530",
+    "locationDesc" : "Murphy bed, optional second bedroom available. Wifi available, Hulu, Netflix, TV Eat-in kitchen. Bathroom with great shower/bath.  Washer/dryer in basement.",
+    "spaceDesc" : "Murphy bed, optional second bedroom available. Wifi available, Hulu, Netflix, TV Eat-in kitchen. Bathroom with great shower/bath.  Washer/dryer in basement. New York City! Great neighborhood - many terrific restaurants, bakeries, bagelries. Within easy walking distance are restaurants with the cuisines from India, Thailand, Japan, China, Mexico, South America and Europe.  As well as the many small independent stores that line Broadway, there chain stores such as Urban Outfitters (clothing), Whole Foods (groceries), Sephora (cosmetics), Michaels (crafts), and Modell's (sporting goods). Equidistant to Central Park and Riverside Park which have walking/running/biking trails as well as tennis and racquet ball courts. 10-15 blocks from Columbia University between Broadway and Amsterdam. The International Hostel across the street is an airport shuttle bus and double-decker tour bus stop.  The Hostel also has services available to the neighborhood such as lectures, brochures, etc. Convenientl",
+    "spaceType" : "Apartment",
+    "roomType" : "Private room",
+    "cancellationPolicy" : "strict 14 with grace period",
+    "capacity" : 2,
+    "bedrooms" : 1,
+    "beds" : 1,
+    "numberOfReviews" : 70,
+    "bathrooms" : 1,
+    "amenities" : [ 
+        "Air conditioning", 
+        "Dryer", 
+        "Hot tub", 
+        "Essentials", 
+        "Hangers", 
+        "Heating", 
+        "Iron", 
+        "Kitchen", 
+        "Parking", 
+        "Pool", 
+        "TV", 
+        "Ethernet connection", 
+        "Wifi"
+    ],
+    "price" : 135,
+    "imgs" : [ 
+        "https://a0.muscache.com/im/pictures/f2558078-70cb-4808-abb8-da693da75341.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/3e659307-169d-4afc-86d1-e150fc4e375a.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/8ea686cf-5953-4330-ba9d-14fc52d2447b.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/30dccc7a-be8f-4f5f-8dcc-5cddf2a77254.jpg?im_w=720"
+    ],
+    "host" : {
+        "id" : "454250",
+        "name" : "Greta",
+        "about" : "By now I have lived longer in the city than the country however I feel equally at home in each. I like to keep one foot in each and help others to do the same!",
+        "thumbnail" : "https://a0.muscache.com/im/pictures/user/ac353efb-3266-426c-8e33-a84e737dd9b9.jpg?im_w=240",
+        "profileImg" : "https://a0.muscache.com/im/pictures/user/028ba7ae-1256-4dc0-afa8-cb8ff0b9a04b.jpg?aki_policy=profile_medium",
+        "responseRate" : 100,
+        "responseTime" : "Within an hour",
+        "isSuperhost" : true,
+        "identityVerified" : true
+    },
+    "address" : {
+        "street" : "New York, NY, United States",
+        "city" : "New York",
+        "country" : "United States",
+        "coordinates" : {
+            "lat" : 40.79962,
+            "lng" : -73.96523
+        }
+    },
+    "reviewScores" : {
+        "accuracy" : 10,
+        "cleanliness" : 9,
+        "checkin" : 10,
+        "communication" : 10,
+        "location" : 10,
+        "value" : 10,
+        "rating" : 90
+    },
+    "reviews" : [ 
+        {
+            "id" : "4351675",
+            "date" : "2013-04-29T04:00:00.000Z",
+            "by" : {
+                "id" : "3708459",
+                "name" : "Gabriel",
+                "img" : "https://a0.muscache.com/im/pictures/user/4b723bc0-7a8b-4f1a-ba43-83a42718139a.jpg?im_w=240"
+            },
+            "txt" : "i had a really pleasant stay at greta's place. the location is super convenient -- and the area is fun, with lots of hidden gems. the apartment was comfortable and charming. greta was accommodating and hospitable and left some great cupcakes in the fridge. i give this place a strong endorsement."
+        }, 
+        {
+            "id" : "4848277",
+            "date" : "2013-05-28T04:00:00.000Z",
+            "by" : {
+                "id" : "4609491",
+                "name" : "Ralf",
+                "img" : "https://a0.muscache.com/im/pictures/user/1bc13372-313a-4ab0-ab86-0b0749d44c7c.jpg?im_w=240"
+            },
+            "txt" : "Greta has been a great host, and her apartment a great place to stay. Perfectly located for our adventures around NYC, it is a place full of character and, as I see it, a very authentic NY Apartment that makes you feel at home imediately. Great neighbourhood, great infrastructure around the apartment block. Very good for a perfect stay."
+        }, 
+        {
+            "id" : "5094175",
+            "date" : "2013-06-11T04:00:00.000Z",
+            "by" : {
+                "id" : "6741662",
+                "name" : "Karina",
+                "img" : "https://a0.muscache.com/im/pictures/user/75af6977-b0f8-43d8-a81c-26cf04589016.jpg?im_w=240"
+            },
+            "txt" : "Greta was wonderful. We arrived late at night and she made sure we were able to get in. We also had to transfer to a hotel for work, and she allowed us to keep our belongings there until 3 so we wouldn't be carting our luggage until we needed to. The apartment was clean and large and in a wonderful neighborhood. She had lists and menus of places to eat. I couldn't have been happier with our arrangement. Thanks Greta!"
+        }, 
+        {
+            "id" : "5497796",
+            "date" : "2013-07-02T04:00:00.000Z",
+            "by" : {
+                "id" : "474156",
+                "name" : "Brandon",
+                "img" : "https://a0.muscache.com/im/pictures/user/8f7be50b-ae4e-49d9-8e13-af6cb64c91ab.jpg?im_w=240"
+            },
+            "txt" : "Greta's place is very well located, so close to the MTA 1 line, which takes you up and down Manhattan, which was perfect for me.  It was an easy 3 minute walk and be on your way to anywhere in NY. \r\nThe shower is something else, the best water pressure I have experienced in a long time.\r\nI thought the decor was cool and eclectic, Greta must have an artistic streak. The Murphy bed was comfortable, and the AC unit (not pictured) kept it nice and cool.  \r\nAlthough I didn't meet her, she arranged for a neighbor to meet me and show me in. He was cool and so were any other neighbors that I met. \r\nShe also left a list of suggestions where to shop and eat, along with menus which was helpful when I needed a late night meal. \r\nHighly recommended. \r\n"
+        }, 
+        {
+            "id" : "7205029",
+            "date" : "2013-09-10T04:00:00.000Z",
+            "by" : {
+                "id" : "7743438",
+                "name" : "Victoria",
+                "img" : "https://a0.muscache.com/im/pictures/user/114f0716-e6aa-49f0-ac9d-fb6816f0e12e.jpg?im_w=240"
+            },
+            "txt" : "Hi Greta,\r\nyou have a wonderful place. We had a great time an felt really comfortable - little bit like beeing home in NY :)\r\nEverything worked out pretty good, also the connection to La Guardia Airport was perfect.\r\n\r\nThanks again :)\r\n"
+        }, 
+        {
+            "id" : "7464858",
+            "date" : "2013-09-21T04:00:00.000Z",
+            "by" : {
+                "id" : "8543724",
+                "name" : "Cassandra",
+                "img" : "https://a0.muscache.com/im/pictures/user/da1bb21f-c99c-4f2e-b2e9-102958fb2ab7.jpg?im_w=240"
+            },
+            "txt" : "Greta was very welcoming and helpful. Prompt email communication.\r\n\r\nA great stay for those in town to see Broadway shows, shopping or sight seeing the West Side. A few minutes walking and I was in Central Park.\r\n\r\nA definite recommendation."
+        }
+    ]
+}
+{
+    "listingUrl" : "https://www.airbnb.com/rooms/1112838",
+    "name" : "Spacious and quiet duplex apartment in Poble Sec",
+    "locationDesc" : "Spacious apartment in a peculiar building in the central neighbourhood of Poble Sec, with patio and terrace, ideal for families with children or groups. Walking distance from center, Montjuïc, Plaza España, Fira Montjuïc/Gran Vía, Sant Antoni, Raval.",
+    "spaceDesc" : "Spacious and quiet duplex apartment in the heart of the colourful Poble Sec neighbourhood, with entrance from a peculiar and protected archway. Equipped for 6-7 guests. 3 double rooms, 2 bathrooms, 1 patio, 1 terrace and 1 balcony. First floor: entrance, living-dining room with open kitchen giving onto the patio, chill out corner and a bathroom with shower. Second floor: hall, complete bathroom, 3 bedrooms (2 with double bed, 1 with bunk beds), balcony and terrace. Ideal for families with children and groups. Smoking is not permitted inside the apartment, but it is allowed in the terrace and the patio. Basic rate intended for 4 guests. Children up to 12 years are not calculated as extra guests during low season. Wi-Fi/wired connection (100Mb), washing machine, smart TV, DVD, Nespresso. Kitchen basics.",
+    "spaceType" : "Apartment",
+    "roomType" : "Entire place",
+    "cancellationPolicy" : "moderate",
+    "capacity" : 7,
+    "bedrooms" : 3,
+    "beds" : 7,
+    "numberOfReviews" : 129,
+    "bathrooms" : 2,
+    "amenities" : [ 
+        "Air conditioning", 
+        "Essentials", 
+        "Hangers", 
+        "Heating", 
+        "Iron", 
+        "Kitchen", 
+        "Parking", 
+        "TV", 
+        "Wifi"
+    ],
+    "price" : 130,
+    "imgs" : [ 
+        "https://a0.muscache.com/im/pictures/19022972/f955f7a0_original.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/16739064/a45c3ee5_original.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/17348695/85159b53_original.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/35325429/31b71a9b_original.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/19022275/1d7abde4_original.jpg?im_w=720"
+    ],
+    "host" : {
+        "id" : "6107595",
+        "url" : "https://www.airbnb.com/users/show/6107595",
+        "name" : "Cristina",
+        "location" : "Barcelona, Catalonia, Spain",
+        "about" : "(ES) Soy mujer, mamá y traductora. Me gusta tener tiempo para pensar, viajar, jugar con mis hijas y descubrir algo nuevo cada día. A veces por trabajo tengo que viajar, y entonces mi amiga Yamila, gran mujer y fantástica anfitriona, amante del campo y fotógrafa de profesión, me ayuda con los huéspedes.\r\n\r\n(EN) I am a woman, a mother and a translator. I like having time to think, to travel, to play with my daughters and to discover something new every day. Sometimes I have to travel because of my job: in those occasions my friend Yamila, great woman and fantastic host, outdoor lover and photographer, helps me out with guests.",
+        "responseTime" : "within an hour",
+        "thumbnail" : "https://a0.muscache.com/im/users/6107595/profile_pic/1442432675/original.jpg?aki_policy=profile_small",
+        "pictureImg" : "https://a0.muscache.com/im/users/6107595/profile_pic/1442432675/original.jpg?aki_policy=profile_x_medium",
+        "response_rate" : 100,
+        "isSuperhost" : true,
+        "identityVerified" : true
+    },
+    "address" : {
+        "street" : "Barcelona, Catalunya, Spain",
+        "city" : "Barcelona",
+        "country" : "Spain",
+        "coordinates" : {
+            "lat" : 41.37479,
+            "lng" : 2.15566
+        }
+    },
+    "reviewScores" : {
+        "accuracy" : 10,
+        "cleanliness" : 10,
+        "checkin" : 10,
+        "communication" : 10,
+        "location" : 10,
+        "value" : 10,
+        "rating" : 100
+    },
+    "reviews" : [ 
+        {
+            "_id" : "4558132",
+            "date" : "1368331200000",
+            "by" : {
+                "id" : "768849",
+                "name" : "Jean-Pierre",
+                "img" : "https://a0.muscache.com/im/users/6107595/profile_pic/1442432675/original.jpg?im_w=240"
+            },
+            "txt" : "Yamila appartement was just perfect for us!\r\nThe location in Poble sec is very close to BCN city center and the neighborhood is so quiet without any traffic like everywhere else in the city\r\nThe appartement is very clean, well equipped with very recent furniture, 2 bathrooms, 3 bedrooms, 2 balconies, 1 terrace, large kitchen and lounge.\r\nYamila was a perfect host with us also.\r\nI fully recommend this appartment"
+        }, 
+        {
+            "_id" : "5181484",
+            "date" : "1371441600000",
+            "by" : {
+                "id" : "6146923",
+                "name" : "Ove M.",
+                "img" : "https://a0.muscache.com/im/pictures/user/ffe34cd5-fa00-4b45-8266-b0209b69afec.jpg?im_w=240"
+            },
+            "txt" : "El piso esta muy guay, en una zona muy bien comunicada y con muchos restaurantes y bares cerca. Lo hemos pasado muy bien en este piso y volveriamos a alquilarlo."
+        }, 
+        {
+            "_id" : "5697588",
+            "date" : "1373601600000",
+            "by" : {
+                "id" : "6597264",
+                "name" : "Andrew",
+                "img" : "https://a0.muscache.com/im/pictures/user/e7929cc5-e026-4c49-8922-73575dafad72.jpg?im_w=240"
+            },
+            "txt" : "Awesome accommodations! Huge apartment that was obviously recently renovated and well maintained. The building is in a residential (read: non-touristy) part of Spain so if you are looking for a real taste of local culture this is the place to stay. 2 blocks from the subway and we were downtown in just a couple stops. The apartment is in building with a common courtyard (common for the style). The other people that live in the building were very friendly and helpful answering any questions we had. My son was even able to play with the other children (despite the language barrier). Awesome experience -- would definietly rent again."
+        }, 
+        {
+            "_id" : "12232097",
+            "date" : "1398571200000",
+            "by" : {
+                "id" : "7244993",
+                "name" : "Ashley",
+                "img" : "https://a0.muscache.com/im/pictures/user/10425a63-06d0-433d-a1ff-2a6dbe6eedcd.jpg?im_w=240"
+            },
+            "txt" : "We stayed at Christina´s place for two weeks and were happy with the flat. The location is good: close to metro, and also bakery, convenience store etc is near.\r\nExcellent restaurants also nearby.  "
+        }
+    ]
+}
+{
+    "name" : "Private Room in Bushwick",
+    "listing_url" : "https://www.airbnb.com/rooms/10021707",
+    "locationDesc" : "Here exists a very cozy room for rent in a shared 4-bedroom apartment. It is located one block off of the JMZ at Myrtle Broadway.  The neighborhood is diverse and appeals to a variety of people.",
+    "spaceDesc" : "Here exists a very cozy room for rent in a shared 4-bedroom apartment. It is located one block off of the JMZ at Myrtle Broadway.  The neighborhood is diverse and appeals to a variety of people.",
+    "spaceType" : "Apartment",
+    "roomType" : "Private room",
+    "cancellationPolicy" : "flexible",
+    "capacity" : 1,
+    "bedrooms" : 1,
+    "beds" : 1,
+    "bathrooms" : "1.5",
+    "amenities" : [ 
+        "Air conditioning", 
+        "Dryer", 
+        "Hot tub", 
+        "Essentials", 
+        "Hangers", 
+        "Heating", 
+        "Iron", 
+        "Kitchen", 
+        "Parking", 
+        "Pool", 
+        "TV", 
+        "Ethernet connection", 
+        "Wifi"
+    ],
+    "price" : 40,
+    "imgs" : [ 
+        "https://a0.muscache.com/im/pictures/72844c8c-fec2-440e-a752-bba9b268c361.jpg?aki_policy=large", 
+        "https://a0.muscache.com/im/pictures/bb4fc649-2b2c-4cc3-be10-d155f855af3f.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/a3b1fd53-7295-44eb-a98c-52d8356bf6ca.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/be3e5492-7a15-45ba-ad0b-636f65f9df9d.jpg?im_w=720", 
+        "https://a0.muscache.com/im/pictures/e8f35e22-cd06-4993-bed5-d9bb62fb97f2.jpg?im_w=720"
+    ],
+    "host" : {
+        "id" : "11275734",
+        "name" : "Josh",
+        "about" : "",
+        "thumbnail" : "https://a0.muscache.com/im/users/11275734/profile_pic/1405792127/original.jpg?aki_policy=profile_small",
+        "profileImg" : "https://a0.muscache.com/im/users/11275734/profile_pic/1405792127/original.jpg?aki_policy=profile_x_medium",
+        "isSuperhost" : false,
+        "identityVerified" : true,
+        "responseRate" : 90,
+        "responseTime" : "Within 24 hours"
+    },
+    "address" : {
+        "street" : "Brooklyn, NY, United States",
+        "city" : "New York",
+        "country" : "United States",
+        "coordinates" : {
+            "lng" : -73.93615,
+            "lat" : 40.69791
+        }
+    },
+    "reviewScores" : {
+        "accuracy" : 10,
+        "cleanliness" : 10,
+        "checkin" : 10,
+        "communication" : 10,
+        "location" : 8,
+        "value" : 8,
+        "rating" : 90
+    },
+    "reviews" : [ 
+        {
+            "_id" : "61050713",
+            "date" : "2016-01-31T05:00:00.000Z",
+            "by" : {
+                "id" : "52006105",
+                "name" : "Antoine",
+                "img" : "https://a0.muscache.com/im/pictures/user/ca94d2aa-e4d0-4bd7-9ded-cc12759e44f6.jpg?im_w=240"
+            },
+            "txt" : "Josh was out of town during my 1 month stay. His roommates greeted and helped get me settled. They were great hosts and all around cool people. I'm a Brooklynite, but have never lived in Bushwick.\r\nIf you're looking for an hip, authentic, and convenient Brooklyn experience, this spot is for you.  You can literally see the Subway platform from Josh's window. Also a couple steps away from anything you could possibly need... restaurants, juice bar, organic grocery, etc. "
+        }
+    ]
+}

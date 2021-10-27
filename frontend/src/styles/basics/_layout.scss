@@ -1,0 +1,42 @@
+// can  try later for our layout
+
+.main-layout {
+    display: grid;
+    grid-template-columns: 
+    minmax(2rem, 1fr)
+    minmax(auto, $main-layout)
+    minmax(2rem, 1fr);
+
+    > * {
+        grid-column: 2;
+    }
+
+    > .full {
+        grid-column: 1 / -1;
+    }
+
+    // &#app {
+    //     min-height: 100vh;
+    //     grid-template-rows: auto 1fr auto;
+    // }
+
+}
+
+.list-layout{
+    grid-template-columns: 
+    minmax(2rem, 1fr)
+    minmax(auto, $list-layout)
+    minmax(2rem, 1fr);
+}
+
+.main-content {
+    min-height: 100vh;
+    grid-template-rows: auto 1fr auto;
+}
+
+// .card-grid {
+//     display: grid;
+//     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+//     grid-auto-flow: dense;
+//     gap: 20px;
+// }

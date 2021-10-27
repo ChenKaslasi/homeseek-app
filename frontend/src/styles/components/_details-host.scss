@@ -1,0 +1,112 @@
+.host-container {
+  border-top: 1px solid rgb(221, 221, 221);
+  padding-bottom: 48px;
+  .top {
+    padding: 48px 0 24px 0;
+    display: grid;
+    grid-template-columns: 80px 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas:
+      "img title title"
+      "img info info";
+    align-items: center;
+
+    .thumbnail {
+      grid-area: img;
+      margin-inline-end: 10px;
+
+      img {
+        vertical-align: middle;
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        object-fit: cover;
+      }
+    }
+
+    .title {
+      grid-area: title;
+      font-size: 22px;
+      line-height: 26px;
+      height: 26px;
+    }
+
+    .info {
+      grid-area: info;
+      font-size: 14px;
+      line-height: 18px;
+      color: #717171;
+    }
+
+  }
+
+  .content {
+    .left {
+      padding-inline-end: 60px ;
+      .icons {
+        .reviews {
+          .star {
+            color: #ff385c;
+            font-size: 18px;
+            text-align: start;
+            margin-inline-end: 2px;
+          }
+        }
+  
+        .identity {
+          margin: 0 12px;
+  
+          img {
+            width: 18px;
+            padding-inline-end: 3px;
+          }
+        }
+      }
+  
+      .text {
+        padding-top: 30px;
+        line-height: 24px;
+        max-width: 50ch;
+      }
+    }
+    .right >* {
+      line-height: 20px;
+      margin-bottom: 8px;
+    }
+  }
+  @include for-mobile-layout{
+    padding-bottom: 40px;
+    .content{
+      display: flex;
+      flex-direction: column;
+      .right{
+        // background-color: cadetblue;
+        flex-direction: column;
+        padding: 10px;
+        padding-left: 0px;
+        padding-top: 30px;
+        // align-items: space-around;
+        justify-content: space-between;
+      }
+      .left{
+        padding: 0px;
+        .text{
+          margin-top: 0px;
+          padding: 0px;
+        }
+      }
+    }
+    .icons{
+      flex-direction: column;
+      margin: 0px 0px 8px !important;
+      padding: 0px !important;
+      font-size: 16px !important;
+      line-height: 40px !important;
+
+      .identity {
+        margin: 0px !important;
+      }
+
+    }
+  }
+}

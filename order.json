@@ -1,0 +1,49 @@
+{
+  "createdAt": "1606731968582",
+  "userId": "10538189",
+  "spaceId": "10573225" ,
+  "status" : "accepted",
+  "totalPrice": 50,
+  "guests" : 3,
+  "dates":{
+    "check-in": "1606731968582",
+    "check-out": "1606742168582"
+  }
+}
+
+{
+  "createdAt": "1606731968582",
+  "userId": "10538189",
+  "spaceId": "10542174" ,
+  "status" : "accepted",
+  "totalPrice": 210,
+  "guests" : 2,
+  "dates":{
+    "check-in": "1606731968582",
+    "check-out": "1606742168582"
+  }
+}
+{
+  "createdAt": "1606731968582",
+  "userId": "10538189",
+  "spaceId": "10332161" ,
+  "status" : "canceled",
+  "totalPrice": 110,
+  "guests" : 7,
+  "dates":{
+    "check-in": "1606731968582",
+    "check-out": "1606742168582"
+  }
+}
+{
+  "createdAt": "1606731968582",
+  "userId": "10538189",
+  "spaceId": "10166986" ,
+  "status" : "accepted",
+  "totalPrice": 90,
+  "guests" : 1,
+  "dates":{
+    "check-in": "1606731968582",
+    "check-out": "1606742168582"
+  }
+}

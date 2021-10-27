@@ -1,0 +1,39 @@
+// SETUP
+@import 'setup/typography';
+@import 'setup/variables';
+@import 'setup/mixins';
+@import 'setup/functions';
+
+// BASICS
+@import 'basics/helpers';
+@import 'basics/base';
+@import 'basics/layout';
+
+// COMPONENTS
+@import 'components/main-header';
+@import 'components/main-footer'; 
+@import 'components/space-filter'; 
+@import 'components/space-preview'; 
+@import 'components/details-gallery'; 
+@import 'components/details-summery'; 
+@import 'components/details-description'; 
+@import 'components/details-amenity'; 
+@import 'components/details-calender'; 
+@import 'components/details-map'; 
+@import 'components/details-host'; 
+@import 'components/list-filter'; 
+@import 'components/details-checkout'; 
+@import 'components/login'; 
+@import 'components/about-us';
+@import 'components/details-header';
+@import 'components/details-review';
+
+
+// VIEWS
+@import 'views/home-page';
+@import 'views/list-page'; 
+@import 'views/details-page';
+@import 'views/host-page';
+@import 'views/user-trips';
+@import 'views/host-dash-page';
+

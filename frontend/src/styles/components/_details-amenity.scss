@@ -1,0 +1,57 @@
+.amenity-container {
+  
+  border-top: 1px solid rgb(221, 221, 221);
+  padding: 48px 0;
+
+  .title {
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 26px;
+    padding-bottom: 24px;
+  }
+
+  .box {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+
+    .amenity-list {
+      .amenity {
+        width: 100%;
+        height: 40px;
+        display: flex;
+        align-items: center;
+
+        img {
+          width: 24px;
+        }
+
+        span {
+          margin-inline-start: 10px;
+          line-height: 20px;
+        }
+      }
+    }
+  }
+  @include for-mobile-layout{
+    .box {
+      grid-template-columns: repeat(1, 1fr);
+      grid-template-rows: repeat(9, 1fr);
+      .amenity {
+        width: 100%;
+        height: 40px;
+        display: flex;
+        flex-direction: row-reverse;
+        align-items: space-between;
+        justify-content: space-between;
+      }
+  
+    }
+}
+}
+
+.hidden {
+  display: none;
+}

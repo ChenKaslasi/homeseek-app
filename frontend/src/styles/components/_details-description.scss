@@ -1,0 +1,18 @@
+.details-description{
+  padding: 32px 0 48px 0;
+  line-height: 24px;
+  border-top: 1px solid rgb(221, 221, 221);
+
+  h3{
+    margin-top: 20px;
+    font-weight: 600;
+  }
+
+  .read-more{
+    display: inline;
+    cursor: pointer;
+    text-decoration: underline;
+    font-weight: 600;
+  }
+
+}
